@@ -1,0 +1,333 @@
+FirmName
+ABG Sundal Collier
+ACI Research
+Acumen Capital
+Agilis Securities
+Alandsbanken
+Albert Fried & Company LLC
+Alembic Global Advisors
+Alfa Bank
+Arbuthnot Securities
+Arctic Securities
+Arden Partners Limited
+Ardour Capital Investments
+Arete Research
+Argus Research Company
+Atlantic Equities
+Auriga USA
+Avian Securities Llc
+Avondale Partners LLC
+B. Riley & Company, Inc.
+Barclays Capital
+Barrington Research
+Battle Road Research
+BB&T Capital Markets
+BBY Ltd.
+Beacon Securities
+Berenberg Bank
+BGB Securities, Inc.
+BGC Partners
+BHF-Bank
+Bloom Burton & Co.
+Blue Water Capital Markets Llc
+BMO Capital Markets
+BNP Paribas
+Boenning & Scattergood Inc
+BofA Merrill Lynch
+Brean Murray, Carret & Co.
+Brigantine Advisors Llc
+BTG Pactual
+BTIG
+BWS Financial
+C.K. Cooper & Company
+C.L. King & Associates, Inc.
+Canaccord Genuity
+Cantor Fitzgerald
+Capital One Southcoast, Inc.
+Capstone Investments
+Caris & Company
+Carnegie Investment Bank Ab
+Catamount Strategic Advisors
+Cb Seydler Research
+CBA
+CCB International Sec Ltd
+CCZ Statton Equities
+Cenkos Securites
+Centrum Broking Pvt Ltd
+Chardan Capital Markets
+Charles Stanley Securities
+Charter Equity Research
+Cheuvreux
+China Everbright Financial Holdings Ltd.
+China International Capital Corporation
+CIBC World Markets
+CIMB Research
+Citadel Securites Llc
+Citi
+CJS Securities
+Clarkson Capital Markets
+Clarus Securities
+Cleveland Research Company
+CLSA
+Collins Stewart Europe
+Collins Stewart Llc
+Commerzbank Securities
+Compass Point
+Core Pacific-Yamaichi Int'l (H.K) Ltd.
+Cormark Securities Inc.
+Cowen And Company
+Craig-Hallum Capital
+Credit Agricole Securities
+Credit Suisse
+Cross Research
+Crowell, Weedon & Co.
+CRT Capital Group
+D. A. Davidson & Co.
+Dahlman Rose & Co.
+Daiwa
+Danske Markets
+Davenport & Company Llc
+Dawson James Securities
+DBS Vickers
+Desjardins Securities
+Deutsche Bank Securities
+Discovery Investment Research
+Dnb NOR Markets
+Dolmen Securities
+Dougherty & Company LLC
+Dowling & Partners Securities, LLC
+Duncan Williams Inc
+Dundee Securities Corporation
+E.L. & C. Baillieu Stockbroking Ltd.
+Early Bird Capital
+East Shore Partners, Inc.
+Edison Investment Research
+Erste Bank
+ESN Partnership
+Evercore Partners
+Evli Bank
+Evolution Securities
+Evolution Securities Asia Ltd
+Exane BNP Paribas
+Execution Noble
+FBN Securities
+FBR Capital Markets & Co.
+Fearnley Fonds
+Feltl & Company
+FIG Partners, LLC
+First Analysis Corp.
+First Berlin Ag
+First Global Stockbroking Ltd.
+First Securities Asa
+FirstEnergy Capital
+Fondsfinans Asa
+Fraser Mackenzie Ltd.
+Gabelli & Company
+Gar Wood Securities
+Garp Research & Securities
+GC Research Ltd.
+Gilford Securities, Inc.
+Gleacher & Company
+Global Equities Research
+Global Hunter Securities, LLC
+GMP Securities Ltd.
+Goldman Sachs
+Goldman Sachs & Partners Aust.
+Goldsmith & Harris
+Greenwich Consultants
+Griffin Securities, Inc.
+Guggenheim Securities LLC
+Guotai Junan (Hk) Research
+GVC Capital LLC
+Hamburger Sparkasse (Haspa)
+Handelsbanken Capital Markets
+Hapoalim Securities USA Inc
+Haywood Securities
+Hilliard Lyons
+Howard Weil Inc.
+HSBC
+Hudson Securities
+Hudson Square Research
+I.B.I
+ICBC International Res Ltd.
+Imperial Capital, LLC
+Industrial Alliance Securities, Inc.
+ING Financial Markets
+Investec
+ISI Group
+Itau Bba
+Jacob Securities
+Janco Partners, Inc.
+Janney Capital Markets
+Japaninvest
+Jefferies & Co.
+Jennings Capital Inc
+JMP Securities
+Johnson Rice & Company
+JPMorgan
+Jyske Bank
+Kansas City Capital
+Kaufman Bros.
+KBC Securities
+Keefe, Bruyette & Woods
+Kempen & Co
+Kepler Capital Markets
+Kern Suslow Securities
+Keybanc Capital Markets
+KGI Securities
+Kim Eng Securities
+Ladenburg Thalmann & Co.
+Laurentian Bank Securities
+Lazard Capital Markets
+Leerink Swann Llc
+LifeTech Capital
+Linwar Securities Pty Ltd
+Loewen, Ondaatje, Mccutcheon
+Longbow Research
+M Partners Inc.
+Mackie Research Capital
+Macquarie Research Equities
+Madison Williams
+Matrix
+Maxim Group
+McAdams Wright Ragen
+McNicoll, Lewis, & Vlak
+MDB Capital Group
+Mediobanca
+Meredith Whitney Advisory Llc
+Merriman Curhan Ford & Co.
+MF Global
+Miller Tabak & Co., Llc
+Millman Research Assoc
+Mirabaud Securities
+Mirae Asset Securities
+Mizuho Securities USA
+MKM Partners LLC
+Monness, Crespi, Hardt & Co., Inc.
+Morgan Joseph & Co Inc
+Morgan Stanley
+Morgan, Keegan & Company, Inc.
+Morningstar, Inc.
+Murphy & Durieu
+National Bank Financial
+National Securities (US)
+Natixis Bleichroeder
+NCP Northland Capital Partners
+Needham & Company
+Noble Financial Capital Mkts
+Nomura
+Nord Landesbank
+Nordea Markets
+Northcoast Res
+Northern Securities
+Northland Sec
+Numis Securities
+OCBC Investment Research Pte Ltd
+Octagon Capital Corporation
+ODDO Securities
+Offutt Securities Inc.
+Ohman Fondkommission
+OLP Global LLC
+Olympia Capital Markets Group
+Oppenheimer & Co.
+Oriel Securities
+OSK/DMG Partners
+Otkritie
+PAA Research LLC
+Pacific Crest Securities
+Panmure Gordon & Co. Limited
+Paradigm Capital Inc.
+Pareto Securities AS
+Patersons Securities Limited
+Peel Hunt
+Petercam
+Peters & Co. Limited
+Phillip Securities (Hk) Ltd
+Phoenix Partners Group
+Pi Financial Corp.
+Piper Jaffray
+Pivotal Research Group
+Pritchard Capital Partners, LLC
+Rabobank Equity Research
+Rafferty Capital Markets
+Raymond James
+RBC Capital Markets
+RBS
+Renaissance BJM
+Renaissance Capital
+Robert W. Baird & Co., Inc.
+Rochdale Securities Llc
+Rodman & Renshaw Llc
+Roth Capital Partners LLC
+RS Platou Markets
+Rye, Man & Gor Securities
+Salman Partners Inc.
+Samsung Securities
+Sandler O'Neill & Partners L.P.
+Santander
+Scotia Capital
+SEB Enskilda
+Select Equities Pty Ltd
+Seymour Pierce
+SG Securities
+Shore Capital
+Signal Hill Group LLC
+Simmons & Company International
+Singer Capital Markets
+Singular Research
+Soleil Securities Corp.
+Southern Cross Equities Ltd.
+Standard & Poors
+Stephens Inc.
+Sterne, Agee & Leach
+Stifel Nicolaus & Company,Inc.
+Stonecap Securities Inc.
+Stonegate Securities Inc.
+Summer Street Research
+Suntrust Robinson Humphrey
+Susquehanna Financial Group
+Swedbank Markets
+Taglich Brothers Inc.
+TD Newcrest
+Technology Research Group
+Terra Markets AS
+The Benchmark Company
+TheJudaGroup
+Thinkequity Llc
+Thompson Research Group
+Thompson, Davis, & Co.
+Tiburon Research Group
+Ticonderoga Securities
+Troika Dialog
+Tudor Pickering & Co. Sec
+Unicredit Markets
+Union Securities
+UOB Kay Hian
+Uralsib Capital
+Versant Partners, Inc.
+VTB Capital
+Wall Street Strategies
+Warburg Research Gmbh
+WBB Securities, LLC
+Wealth Monitors
+Wedbush Securities Inc.
+Weeden & Co.
+Wellington Shields & Co Llc
+Wellington West CM
+Wells Fargo Securities, Llc
+Westhouse Securities Ltd.
+William Blair & Company, L.L.C.
+Williams Capital Group, L.P.
+Williams Financial Group
+Wilson HTM Securities
+Wisco Research Llc
+WJB Capital Group, Inc.
+WM Smith Securities
+Wolfe Trahan & Co.
+Wunderlich Securities, Inc.
+Yuanta  Research
+Zachary Investment Research
+Zacks Investment Research
+Zelman & Associates
+Zephirin Group, Inc.
+Zurcher Kantonalbank

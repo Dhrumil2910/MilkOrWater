@@ -1,0 +1,1758 @@
+"From (address)"|"From (display)"|"Sent on behalf of (address)"|"Date Sent"|"Subject"|"Body"|"Body HTML"
+|"Wunderlich"||"8/28/2014 5:55:00 PM"|"Guess?, Inc. (NYSE: GES) rated to Buy with price target $27 by Wunderlich"|"Wunderlich rated Guess?, Inc. (NYSE: GES) to Buy with price target $27. 
+Rated Date: 8/28/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143414> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Guess?, Inc. (NYSE: GES) to Buy with price target $27. <br />Rated Date: 8/28/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143414"">View article...</A></p></body></html>"
+|"Canaccord Genuity"||"8/28/2014 5:55:00 PM"|"Gordmans Stores, Inc. (NASDAQ: GMAN) rated to Buy with price target $9 by Canaccord Genuity"|"Canaccord Genuity rated Gordmans Stores, Inc. (NASDAQ: GMAN) to Buy with price target $9
+Rated Date: 8/28/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143413> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Canaccord Genuity rated Gordmans Stores, Inc. (NASDAQ: GMAN) to Buy with price target $9<br />Rated Date: 8/28/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143413"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"8/28/2014 5:55:00 PM"|"Omnicell, Inc. (NASDAQ: OMCL) rated to Buy with price target $31 by Topeka Capital Markets"|"Topeka Capital Markets rated Omnicell, Inc. (NASDAQ: OMCL) to Buy with price target $31. 
+Rated Date: 8/28/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143412> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated Omnicell, Inc. (NASDAQ: OMCL) to Buy with price target $31. <br />Rated Date: 8/28/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143412"">View article...</A></p></body></html>"
+|"Stifel"||"8/28/2014 5:55:00 PM"|"Symantec Corporation (NASDAQ: SYMC) rated to Hold  by Stifel"|"Stifel rated Symantec Corporation (NASDAQ: SYMC) to Hold
+Rated Date: 8/28/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143407> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Symantec Corporation (NASDAQ: SYMC) to Hold<br />Rated Date: 8/28/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143407"">View article...</A></p></body></html>"
+|"Compass Point"||"8/28/2014 5:55:00 PM"|"Allstate Corporation  (NYSE: ALL) rated to Neutral with price target $63 by Compass Point"|"Compass Point rated Allstate Corporation (NYSE: ALL) to Neutral with price target $63. 
+Rated Date: 8/28/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143406> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Compass Point rated Allstate Corporation  (NYSE: ALL) to Neutral with price target $63. <br />Rated Date: 8/28/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143406"">View article...</A></p></body></html>"
+|"Compass Point"||"8/28/2014 5:55:00 PM"|"Mercury General Corporation (NYSE: MCY) rated to Neutral with price target $47 by Compass Point"|"Compass Point rated Mercury General Corporation (NYSE: MCY) to Neutral with price target $47
+Rated Date: 8/28/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143405> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Compass Point rated Mercury General Corporation (NYSE: MCY) to Neutral with price target $47<br />Rated Date: 8/28/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143405"">View article...</A></p></body></html>"
+|"Compass Point"||"8/28/2014 5:55:00 PM"|"Safety Insurance Group, Inc. (NASDAQ: SAFT) rated to Buy with price target $63 by Compass Point"|"Compass Point rated Safety Insurance Group, Inc. (NASDAQ: SAFT) to Buy with price target $63. 
+Rated Date: 8/28/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143404> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Compass Point rated Safety Insurance Group, Inc. (NASDAQ: SAFT) to Buy with price target $63. <br />Rated Date: 8/28/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143404"">View article...</A></p></body></html>"
+|"Stifel"||"8/28/2014 5:55:00 PM"|"Fireeye Inc. (NASDAQ: FEYE) rated to Buy with price target $45 by Stifel"|"Stifel rated Fireeye Inc. (NASDAQ: FEYE) to Buy with price target $45
+Rated Date: 8/28/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143403> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Fireeye Inc. (NASDAQ: FEYE) to Buy with price target $45<br />Rated Date: 8/28/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143403"">View article...</A></p></body></html>"
+|"Oppenheimer"||"8/28/2014 5:55:00 PM"|"Igi, Inc. (AMEX: IG) rated to Outperform with price target $8 by Oppenheimer"|"Oppenheimer rated Igi, Inc. (AMEX: IG) to Outperform with price target $8. 
+Rated Date: 8/28/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143402> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer rated Igi, Inc. (AMEX: IG) to Outperform with price target $8. <br />Rated Date: 8/28/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143402"">View article...</A></p></body></html>"
+|"Stifel"||"8/28/2014 5:55:00 PM"|"Cott Corporation (NYSE: COT) rated to Buy with price target $10 by Stifel"|"Stifel rated Cott Corporation (NYSE: COT) to Buy with price target $10
+Rated Date: 8/28/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143399> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Cott Corporation (NYSE: COT) to Buy with price target $10<br />Rated Date: 8/28/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143399"">View article...</A></p></body></html>"
+|"DA Davidson"||"8/26/2014 9:30:00 AM"|"Boingo Wireless Inc. (NASDAQ: WIFI) rated to Buy with price target $10 by DA Davidson"|"DA Davidson rated Boingo Wireless Inc. (NASDAQ: WIFI) to Buy with price target $10 with today's price of $6.53. 
+Rated Date: 8/26/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143398> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>DA Davidson rated Boingo Wireless Inc. (NASDAQ: WIFI) to Buy with price target $10 with today's price of $6.53. <br />Rated Date: 8/26/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143398"">View article...</A></p></body></html>"
+|"Stifel"||"8/26/2014 9:30:00 AM"|"Cray Inc (NASDAQ: CRAY) rated to Buy with price target $33 by Stifel"|"Stifel rated Cray Inc (NASDAQ: CRAY) to Buy with price target $33
+Rated Date: 8/26/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143393> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Cray Inc (NASDAQ: CRAY) to Buy with price target $33<br />Rated Date: 8/26/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143393"">View article...</A></p></body></html>"
+|"Needham"||"8/26/2014 9:30:00 AM"|"Enphase Energy Inc (NASDAQ: ENPH) rated to Buy with price target $20 by Needham"|"Needham rated Enphase Energy Inc (NASDAQ: ENPH) to Buy with price target $20. 
+Rated Date: 8/26/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143392> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Needham rated Enphase Energy Inc (NASDAQ: ENPH) to Buy with price target $20. <br />Rated Date: 8/26/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143392"">View article...</A></p></body></html>"
+|"DA Davidson"||"8/26/2014 9:30:00 AM"|"First Business Financial Services, Inc. (NASDAQ: FBIZ) rated to Buy with price target $53 by DA Davidson"|"DA Davidson rated First Business Financial Services, Inc. (NASDAQ: FBIZ) to Buy with price target $53
+Rated Date: 8/26/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143391> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>DA Davidson rated First Business Financial Services, Inc. (NASDAQ: FBIZ) to Buy with price target $53<br />Rated Date: 8/26/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143391"">View article...</A></p></body></html>"
+|"MKM Partners"||"8/26/2014 9:30:00 AM"|"Goldman Sachs Group, Inc.  (NYSE: GS) rated to Buy with price target $213 by MKM Partners"|"MKM Partners rated Goldman Sachs Group, Inc. (NYSE: GS) to Buy with price target $213 with today's price of $177.90. 
+Rated Date: 8/26/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143390> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MKM Partners rated Goldman Sachs Group, Inc.  (NYSE: GS) to Buy with price target $213 with today's price of $177.90. <br />Rated Date: 8/26/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143390"">View article...</A></p></body></html>"
+|"Noble Financial"||"8/28/2014 6:55:00 PM"|"IEC Electronics Corp. (AMEX: IEC) rated to Buy with price target $6 by Noble Financial"|"Noble Financial rated IEC Electronics Corp. (AMEX: IEC) to Buy with price target $6
+Rated Date: 8/28/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143415> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Noble Financial rated IEC Electronics Corp. (AMEX: IEC) to Buy with price target $6<br />Rated Date: 8/28/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143415"">View article...</A></p></body></html>"
+|"Singular Research"||"8/28/2014 10:55:00 PM"|"AMERICAN ELECTRIC TE (NASDAQ: AETI) rated to Buy with price target $8.40 by Singular Research"|"Singular Research rated AMERICAN ELECTRIC TE (NASDAQ: AETI) to Buy with price target $8.40
+Rated Date: 8/28/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143423> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Singular Research rated AMERICAN ELECTRIC TE (NASDAQ: AETI) to Buy with price target $8.40<br />Rated Date: 8/28/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143423"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"8/29/2014 1:55:00 AM"|"Signet Group Plc (NYSE: SIG) rated to Buy with price target $130 by Topeka Capital Markets"|"Topeka Capital Markets rated Signet Group Plc (NYSE: SIG) to Buy with price target $130. 
+Rated Date: 8/28/2014 4:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143424> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated Signet Group Plc (NYSE: SIG) to Buy with price target $130. <br />Rated Date: 8/28/2014 4:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143424"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"8/29/2014 5:55:00 PM"|"Abercrombie & Fitch Company (NYSE: ANF) rated to Hold with price target $42 by Topeka Capital Markets"|"Topeka Capital Markets rated Abercrombie & Fitch Company (NYSE: ANF) to Hold with price target $42. 
+Rated Date: 8/29/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143430> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated Abercrombie & Fitch Company (NYSE: ANF) to Hold with price target $42. <br />Rated Date: 8/29/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143430"">View article...</A></p></body></html>"
+|"Brean Capital"||"8/29/2014 5:55:00 PM"|"ARC WIRELESS SOLUTNS (NASDAQ: ARCW) rated to Buy with price target $30 by Brean Capital"|"Brean Capital rated ARC WIRELESS SOLUTNS (NASDAQ: ARCW) to Buy with price target $30. 
+Rated Date: 8/29/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143428> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Brean Capital rated ARC WIRELESS SOLUTNS (NASDAQ: ARCW) to Buy with price target $30. <br />Rated Date: 8/29/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143428"">View article...</A></p></body></html>"
+|"Stifel"||"8/29/2014 5:55:00 PM"|"3d Systems Corporation (NYSE: DDD) rated to Buy with price target $65 by Stifel"|"Stifel rated 3d Systems Corporation (NYSE: DDD) to Buy with price target $65
+Rated Date: 8/29/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143427> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated 3d Systems Corporation (NYSE: DDD) to Buy with price target $65<br />Rated Date: 8/29/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143427"">View article...</A></p></body></html>"
+|"Stifel"||"8/29/2014 5:55:00 PM"|"Stratasys, Inc. (NASDAQ: SSYS) rated to Buy with price target $150 by Stifel"|"Stifel rated Stratasys, Inc. (NASDAQ: SSYS) to Buy with price target $150. 
+Rated Date: 8/29/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143426> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Stratasys, Inc. (NASDAQ: SSYS) to Buy with price target $150. <br />Rated Date: 8/29/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143426"">View article...</A></p></body></html>"
+|"Stifel"||"8/29/2014 5:55:00 PM"|"The Exone Company (NASDAQ: XONE) rated to Hold  by Stifel"|"Stifel rated The Exone Company (NASDAQ: XONE) to Hold
+Rated Date: 8/29/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143425> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated The Exone Company (NASDAQ: XONE) to Hold<br />Rated Date: 8/29/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143425"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/2/2014 5:55:00 PM"|"Independence Contract Drilling (NYSE: ICD) rated to Outperform with price target $13 by RBC Capital Mkts"|"RBC Capital Mkts rated Independence Contract Drilling (NYSE: ICD) to Outperform with price target $13. 
+Rated Date: 9/2/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143456> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Independence Contract Drilling (NYSE: ICD) to Outperform with price target $13. <br />Rated Date: 9/2/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143456"">View article...</A></p></body></html>"
+|"FBR Capital"||"9/2/2014 5:55:00 PM"|"Independence Contract Drilling (NYSE: ICD) rated to Outperform with price target $14 by FBR Capital"|"FBR Capital rated Independence Contract Drilling (NYSE: ICD) to Outperform with price target $14
+Rated Date: 9/2/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143455> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>FBR Capital rated Independence Contract Drilling (NYSE: ICD) to Outperform with price target $14<br />Rated Date: 9/2/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143455"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/2/2014 5:55:00 PM"|"Loxo Oncology Inc. (NASDAQ: LOXO) rated to Outperform with price target $20 by Oppenheimer"|"Oppenheimer rated Loxo Oncology Inc. (NASDAQ: LOXO) to Outperform with price target $20. 
+Rated Date: 9/2/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143454> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer rated Loxo Oncology Inc. (NASDAQ: LOXO) to Outperform with price target $20. <br />Rated Date: 9/2/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143454"">View article...</A></p></body></html>"
+|"Stifel"||"9/2/2014 5:55:00 PM"|"Idreamsky Technology Ltd (NASDAQ: DSKY) rated to Buy with price target $27 by Stifel"|"Stifel rated Idreamsky Technology Ltd (NASDAQ: DSKY) to Buy with price target $27
+Rated Date: 9/2/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143453> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Idreamsky Technology Ltd (NASDAQ: DSKY) to Buy with price target $27<br />Rated Date: 9/2/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143453"">View article...</A></p></body></html>"
+|"Stifel"||"9/2/2014 5:55:00 PM"|"Loxo Oncology Inc. (NASDAQ: LOXO) rated to Buy with price target $20 by Stifel"|"Stifel rated Loxo Oncology Inc. (NASDAQ: LOXO) to Buy with price target $20. 
+Rated Date: 9/2/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143452> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Loxo Oncology Inc. (NASDAQ: LOXO) to Buy with price target $20. <br />Rated Date: 9/2/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143452"">View article...</A></p></body></html>"
+|"Stifel"||"9/2/2014 6:55:00 PM"|"CONCHO RESOURCES INC (NYSE: CXO) rated to Buy with price target $170 by Stifel"|"Stifel rated CONCHO RESOURCES INC (NYSE: CXO) to Buy with price target $170. 
+Rated Date: 9/2/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143464> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated CONCHO RESOURCES INC (NYSE: CXO) to Buy with price target $170. <br />Rated Date: 9/2/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143464"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/2/2014 6:55:00 PM"|"Revett Minerals Inc ADR (AMEX: RVM) rated to Buy with price target $2.40 by HC Wainwright"|"HC Wainwright rated Revett Minerals Inc ADR (AMEX: RVM) to Buy with price target $2.40. 
+Rated Date: 9/2/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143462> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated Revett Minerals Inc ADR (AMEX: RVM) to Buy with price target $2.40. <br />Rated Date: 9/2/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143462"">View article...</A></p></body></html>"
+|"CRT Capital"||"9/2/2014 7:55:00 PM"|"Zulily Inc (NASDAQ: ZU) rated to Buy with price target $41 by CRT Capital"|"CRT Capital rated Zulily Inc (NASDAQ: ZU) to Buy with price target $41
+Rated Date: 9/2/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143467> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>CRT Capital rated Zulily Inc (NASDAQ: ZU) to Buy with price target $41<br />Rated Date: 9/2/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143467"">View article...</A></p></body></html>"
+|"UBS"||"9/3/2014 1:55:00 AM"|"Hoegh Lng Partners LP (NYSE: HMLP) rated to Neutral with price target $26 by UBS"|"UBS rated Hoegh Lng Partners LP (NYSE: HMLP) to Neutral with price target $26. 
+Rated Date: 9/2/2014 4:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143472> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS rated Hoegh Lng Partners LP (NYSE: HMLP) to Neutral with price target $26. <br />Rated Date: 9/2/2014 4:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143472"">View article...</A></p></body></html>"
+|"Brean Capital"||"9/2/2014 11:55:00 PM"|"Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) rated to Buy with price target $390 by Brean Capital"|"Brean Capital rated Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) to Buy with price target $390
+Rated Date: 9/2/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143471> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Brean Capital rated Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) to Buy with price target $390<br />Rated Date: 9/2/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143471"">View article...</A></p></body></html>"
+|"Barclays"||"9/2/2014 10:55:00 PM"|"Flowserve Corporation (NYSE: FLS) rated to Overweight with price target $85 by Barclays"|"Barclays rated Flowserve Corporation (NYSE: FLS) to Overweight with price target $85
+Rated Date: 9/2/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143469> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Flowserve Corporation (NYSE: FLS) to Overweight with price target $85<br />Rated Date: 9/2/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143469"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"9/3/2014 5:55:00 PM"|"Athlon Energy Inc. (NYSE: ATHL) rated to Buy with price target $64 by Topeka Capital Markets"|"Topeka Capital Markets rated Athlon Energy Inc. (NYSE: ATHL) to Buy with price target $64
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143493> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated Athlon Energy Inc. (NYSE: ATHL) to Buy with price target $64<br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143493"">View article...</A></p></body></html>"
+|"Maxim Group"||"9/3/2014 5:55:00 PM"|"Orchid Island Capital Inc. Com (AMEX: ORC) rated to Buy with price target $14.50 by Maxim Group"|"Maxim Group rated Orchid Island Capital Inc. Com (AMEX: ORC) to Buy with price target $14.50. 
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143492> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Maxim Group rated Orchid Island Capital Inc. Com (AMEX: ORC) to Buy with price target $14.50. <br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143492"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/3/2014 5:55:00 PM"|"Apple Computer Inc (NASDAQ: AAPL) rated to Perform  by Oppenheimer"|"Oppenheimer rated Apple Computer Inc (NASDAQ: AAPL) to Perform. Previously, Oppenheimer rated Apple Computer Inc (NASDAQ: AAPL) to Outperform with price target $540 on 09/11/2013, when the stock price was valued at $65.68.
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143488> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer rated Apple Computer Inc (NASDAQ: AAPL) to Perform. Previously, Oppenheimer rated Apple Computer Inc (NASDAQ: AAPL) to Outperform with price target $540  on 09/11/2013, when the stock price was valued at $65.68.<br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143488"">View article...</A></p></body></html>"
+|"Noble Financial"||"9/3/2014 5:55:00 PM"|"Primo Water Corporation (NASDAQ: PRMW) rated to Buy with price target $6.50 by Noble Financial"|"Noble Financial rated Primo Water Corporation (NASDAQ: PRMW) to Buy with price target $6.50
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143487> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Noble Financial rated Primo Water Corporation (NASDAQ: PRMW) to Buy with price target $6.50<br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143487"">View article...</A></p></body></html>"
+|"Imperial Capital"||"9/3/2014 5:55:00 PM"|"Ambarella Inc. (NASDAQ: AMBA) rated to Outperform with price target $39 by Imperial Capital"|"Imperial Capital rated Ambarella Inc. (NASDAQ: AMBA) to Outperform with price target $39. 
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143486> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Imperial Capital rated Ambarella Inc. (NASDAQ: AMBA) to Outperform with price target $39. <br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143486"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/3/2014 5:55:00 PM"|"Advanced Drainage Systems Inc (NYSE: WMS) rated to Outperform with price target $21 by RBC Capital Mkts"|"RBC Capital Mkts rated Advanced Drainage Systems Inc (NYSE: WMS) to Outperform with price target $21
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143485> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Advanced Drainage Systems Inc (NYSE: WMS) to Outperform with price target $21<br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143485"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/3/2014 5:55:00 PM"|"Hersha Hospitality Trust (NYSE: HT) rated to Sector Perform with price target $7 by RBC Capital Mkts"|"RBC Capital Mkts rated Hersha Hospitality Trust (NYSE: HT) to Sector Perform with price target $7. 
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143484> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Hersha Hospitality Trust (NYSE: HT) to Sector Perform with price target $7. <br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143484"">View article...</A></p></body></html>"
+|"Boenning & Scattergood"||"9/3/2014 5:55:00 PM"|"United Community Financial Corp. (NASDAQ: UCFC) rated to Outperform with price target $6 by Boenning & Scattergood"|"Boenning & Scattergood rated United Community Financial Corp. (NASDAQ: UCFC) to Outperform with price target $6
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143483> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Boenning & Scattergood rated United Community Financial Corp. (NASDAQ: UCFC) to Outperform with price target $6<br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143483"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/3/2014 5:55:00 PM"|"Randgold Resources (NASDAQ: GOLD) rated to Hold  by Deutsche Bank"|"Deutsche Bank rated Randgold Resources (NASDAQ: GOLD) to Hold
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143481> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank rated Randgold Resources (NASDAQ: GOLD) to Hold<br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143481"">View article...</A></p></body></html>"
+|"Maxim Group"||"9/3/2014 5:55:00 PM"|"Chico's Fas, Inc. (NYSE: CHS) rated to Hold with price target $14.50 by Maxim Group"|"Maxim Group rated Chico's Fas, Inc. (NYSE: CHS) to Hold with price target $14.50
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143479> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Maxim Group rated Chico's Fas, Inc. (NYSE: CHS) to Hold with price target $14.50<br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143479"">View article...</A></p></body></html>"
+|"Stifel"||"9/3/2014 5:55:00 PM"|"CINEMARK HOLDINGS INC. (NYSE: CNK) rated to Buy with price target $42 by Stifel"|"Stifel rated CINEMARK HOLDINGS INC. (NYSE: CNK) to Buy with price target $42. 
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143478> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated CINEMARK HOLDINGS INC. (NYSE: CNK) to Buy with price target $42. <br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143478"">View article...</A></p></body></html>"
+|"Stifel"||"9/3/2014 5:55:00 PM"|"Corenergy Infrastructure Trust Inc. (NYSE: CORR) rated to Buy with price target $8.50 by Stifel"|"Stifel rated Corenergy Infrastructure Trust Inc. (NYSE: CORR) to Buy with price target $8.50
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143477> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Corenergy Infrastructure Trust Inc. (NYSE: CORR) to Buy with price target $8.50<br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143477"">View article...</A></p></body></html>"
+|"CRT Capital"||"9/3/2014 6:55:00 PM"|"Century Aluminum Company (NASDAQ: CENX) rated to Buy with price target $34 by CRT Capital"|"CRT Capital rated Century Aluminum Company (NASDAQ: CENX) to Buy with price target $34. 
+Rated Date: 9/3/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143498> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>CRT Capital rated Century Aluminum Company (NASDAQ: CENX) to Buy with price target $34. <br />Rated Date: 9/3/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143498"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/3/2014 6:55:00 PM"|"Nextest Systems Corporation (NASDAQ: GSVC) rated to Buy with price target $20 by Wunderlich"|"Wunderlich rated Nextest Systems Corporation (NASDAQ: GSVC) to Buy with price target $20. 
+Rated Date: 9/3/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143496> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Nextest Systems Corporation (NASDAQ: GSVC) to Buy with price target $20. <br />Rated Date: 9/3/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143496"">View article...</A></p></body></html>"
+|"Summer Street Research"||"9/3/2014 6:55:00 PM"|"Medical Transcription Billing (NASDAQ: MTBC) rated to Buy with price target $9 by Summer Street Research"|"Summer Street Research rated Medical Transcription Billing (NASDAQ: MTBC) to Buy with price target $9
+Rated Date: 9/3/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143495> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Summer Street Research rated Medical Transcription Billing (NASDAQ: MTBC) to Buy with price target $9<br />Rated Date: 9/3/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143495"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"9/4/2014 12:55:00 AM"|"DISCOVERY COMM INC (NASDAQ: DISCK) rated to Buy with price target $48 by Topeka Capital Markets"|"Topeka Capital Markets rated DISCOVERY COMM INC (NASDAQ: DISCK) to Buy with price target $48
+Rated Date: 9/3/2014 3:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143509> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated DISCOVERY COMM INC (NASDAQ: DISCK) to Buy with price target $48<br />Rated Date: 9/3/2014 3:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143509"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/3/2014 11:55:00 PM"|"G-iii Apparel Group, Ltd. (NASDAQ: GIII) rated to Buy with price target $100 by Wunderlich"|"Wunderlich rated G-iii Apparel Group, Ltd. (NASDAQ: GIII) to Buy with price target $100
+Rated Date: 9/3/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143507> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated G-iii Apparel Group, Ltd. (NASDAQ: GIII) to Buy with price target $100<br />Rated Date: 9/3/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143507"">View article...</A></p></body></html>"
+|"Barclays"||"9/3/2014 10:55:00 PM"|"Advanced Drainage Systems Inc (NYSE: WMS) rated to Overweight with price target $22 by Barclays"|"Barclays rated Advanced Drainage Systems Inc (NYSE: WMS) to Overweight with price target $22. 
+Rated Date: 9/3/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143506> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Advanced Drainage Systems Inc (NYSE: WMS) to Overweight with price target $22. <br />Rated Date: 9/3/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143506"">View article...</A></p></body></html>"
+|"Barclays"||"9/3/2014 10:55:00 PM"|"Prada Spa (OTCBB: PRDSF) rated to Underweight  by Barclays"|"Barclays rated Prada Spa (OTCBB: PRDSF) to Underweight
+Rated Date: 9/3/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143505> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Prada Spa (OTCBB: PRDSF) to Underweight<br />Rated Date: 9/3/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143505"">View article...</A></p></body></html>"
+|"Barclays"||"9/3/2014 10:55:00 PM"|"Hugo Boss (OTCBB: BOSSY) rated to Equal Weight  by Barclays"|"Barclays rated Hugo Boss (OTCBB: BOSSY) to Equal Weight. 
+Rated Date: 9/3/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143504> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Hugo Boss (OTCBB: BOSSY) to Equal Weight. <br />Rated Date: 9/3/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143504"">View article...</A></p></body></html>"
+|"B. Riley & Co"||"9/4/2014 6:55:00 PM"|"CTPartners Executive Search Inc (AMEX: CTP) rated to Buy with price target $22 by B. Riley & Co"|"B. Riley & Co rated CTPartners Executive Search Inc (AMEX: CTP) to Buy with price target $22. 
+Rated Date: 9/4/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143520> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>B. Riley & Co rated CTPartners Executive Search Inc (AMEX: CTP) to Buy with price target $22. <br />Rated Date: 9/4/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143520"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/4/2014 5:55:00 PM"|"Skechers U.s.a., Inc. (NYSE: SKX) rated to Buy with price target $70 by Wunderlich"|"Wunderlich rated Skechers U.s.a., Inc. (NYSE: SKX) to Buy with price target $70
+Rated Date: 9/4/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143515> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Skechers U.s.a., Inc. (NYSE: SKX) to Buy with price target $70<br />Rated Date: 9/4/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143515"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/4/2014 5:55:00 PM"|"The Whitewave Foods Company (NYSE: WWAV) rated to Outperform with price target $43 by Oppenheimer"|"Oppenheimer rated The Whitewave Foods Company (NYSE: WWAV) to Outperform with price target $43. 
+Rated Date: 9/4/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143514> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer rated The Whitewave Foods Company (NYSE: WWAV) to Outperform with price target $43. <br />Rated Date: 9/4/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143514"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/4/2014 5:55:00 PM"|"Boulder Brands Inc (NASDAQ: BDBD) rated to Outperform with price target $16 by Oppenheimer"|"Oppenheimer rated Boulder Brands Inc (NASDAQ: BDBD) to Outperform with price target $16
+Rated Date: 9/4/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143513> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer rated Boulder Brands Inc (NASDAQ: BDBD) to Outperform with price target $16<br />Rated Date: 9/4/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143513"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/4/2014 5:55:00 PM"|"Annies Inc (NYSE: BNNY) rated to Outperform with price target $42 by Oppenheimer"|"Oppenheimer rated Annies Inc (NYSE: BNNY) to Outperform with price target $42. 
+Rated Date: 9/4/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143512> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer rated Annies Inc (NYSE: BNNY) to Outperform with price target $42. <br />Rated Date: 9/4/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143512"">View article...</A></p></body></html>"
+|"Compass Point"||"9/4/2014 5:55:00 PM"|"Independent Bank Corp. (NASDAQ: INDB) rated to Buy with price target $46 by Compass Point"|"Compass Point rated Independent Bank Corp. (NASDAQ: INDB) to Buy with price target $46
+Rated Date: 9/4/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143511> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Compass Point rated Independent Bank Corp. (NASDAQ: INDB) to Buy with price target $46<br />Rated Date: 9/4/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143511"">View article...</A></p></body></html>"
+|"Barclays"||"9/4/2014 9:55:00 PM"|"Iac/interactivecorp (NASDAQ: IACI) rated to Overweight with price target $87 by Barclays"|"Barclays rated Iac/interactivecorp (NASDAQ: IACI) to Overweight with price target $87 with today's price of $73.06. 
+Rated Date: 9/4/2014 12:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143526> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Iac/interactivecorp (NASDAQ: IACI) to Overweight with price target $87 with today's price of $73.06. <br />Rated Date: 9/4/2014 12:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143526"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/5/2014 5:55:00 PM"|"Primero Mining Corp (NYSE: PPP) rated to Outperform with price target $8.50 by RBC Capital Mkts"|"RBC Capital Mkts rated Primero Mining Corp (NYSE: PPP) to Outperform with price target $8.50. 
+Rated Date: 9/5/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143542> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Primero Mining Corp (NYSE: PPP) to Outperform with price target $8.50. <br />Rated Date: 9/5/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143542"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/5/2014 5:55:00 PM"|"Sabre Corp (NASDAQ: SABR) rated to Outperform with price target $22 by Oppenheimer"|"Oppenheimer rated Sabre Corp (NASDAQ: SABR) to Outperform with price target $22. 
+Rated Date: 9/5/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143538> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer rated Sabre Corp (NASDAQ: SABR) to Outperform with price target $22. <br />Rated Date: 9/5/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143538"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/5/2014 5:55:00 PM"|"THRESHOLD PHARMACEUT (NASDAQ: THLD) rated to Buy with price target $12 by HC Wainwright"|"HC Wainwright rated THRESHOLD PHARMACEUT (NASDAQ: THLD) to Buy with price target $12
+Rated Date: 9/5/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143537> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated THRESHOLD PHARMACEUT (NASDAQ: THLD) to Buy with price target $12<br />Rated Date: 9/5/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143537"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/5/2014 5:55:00 PM"|"Celator Pharma (NASDAQ: CPXX) rated to Buy with price target $7 by HC Wainwright"|"HC Wainwright rated Celator Pharma (NASDAQ: CPXX) to Buy with price target $7. 
+Rated Date: 9/5/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143536> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated Celator Pharma (NASDAQ: CPXX) to Buy with price target $7. <br />Rated Date: 9/5/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143536"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/5/2014 5:55:00 PM"|"Aviat Networks Inc. (NASDAQ: AVNW) rated to Neutral  by HC Wainwright"|"HC Wainwright rated Aviat Networks Inc. (NASDAQ: AVNW) to Neutral
+Rated Date: 9/5/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143535> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated Aviat Networks Inc. (NASDAQ: AVNW) to Neutral<br />Rated Date: 9/5/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143535"">View article...</A></p></body></html>"
+|"Imperial Capital"||"9/5/2014 5:55:00 PM"|"Air Canada (OTCBB: AIDIF) rated to Outperform with price target $16 by Imperial Capital"|"Imperial Capital rated Air Canada (OTCBB: AIDIF) to Outperform with price target $16. 
+Rated Date: 9/5/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143534> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Imperial Capital rated Air Canada (OTCBB: AIDIF) to Outperform with price target $16. <br />Rated Date: 9/5/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143534"">View article...</A></p></body></html>"
+|"UBS"||"9/5/2014 8:55:00 PM"|"Akamai Technologies, Inc. (NASDAQ: AKAM) rated to Buy with price target $70 by UBS"|"UBS rated Akamai Technologies, Inc. (NASDAQ: AKAM) to Buy with price target $70 with today's price of $61.10. 
+Rated Date: 9/5/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143554> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS rated Akamai Technologies, Inc. (NASDAQ: AKAM) to Buy with price target $70 with today's price of $61.10. <br />Rated Date: 9/5/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143554"">View article...</A></p></body></html>"
+|"DA Davidson"||"9/5/2014 6:55:00 PM"|"Astronics Corporation (NASDAQ: ATRO) rated to Buy with price target $65 by DA Davidson"|"DA Davidson rated Astronics Corporation (NASDAQ: ATRO) to Buy with price target $65
+Rated Date: 9/5/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143547> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>DA Davidson rated Astronics Corporation (NASDAQ: ATRO) to Buy with price target $65<br />Rated Date: 9/5/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143547"">View article...</A></p></body></html>"
+|"Furey Research Partners"||"9/5/2014 6:55:00 PM"|"Virtus Investment Partners, Inc. (NASDAQ: VRTS) rated to Fair Value  by Furey Research Partners"|"Furey Research Partners rated Virtus Investment Partners, Inc. (NASDAQ: VRTS) to Fair Value
+Rated Date: 9/5/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143545> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Furey Research Partners rated Virtus Investment Partners, Inc. (NASDAQ: VRTS) to Fair Value<br />Rated Date: 9/5/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143545"">View article...</A></p></body></html>"
+|"Stifel"||"9/5/2014 5:55:00 PM"|"IntraLinks Holdings, Inc. (NYSE: IL) rated to Buy with price target $15 by Stifel"|"Stifel rated IntraLinks Holdings, Inc. (NYSE: IL) to Buy with price target $15
+Rated Date: 9/5/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143531> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated IntraLinks Holdings, Inc. (NYSE: IL) to Buy with price target $15<br />Rated Date: 9/5/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143531"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/8/2014 3:25:00 PM"|"Fate Therapeutics Inc. (NASDAQ: FATE) rated to Buy with price target $9 by HC Wainwright"|"HC Wainwright rated Fate Therapeutics Inc. (NASDAQ: FATE) to Buy with price target $9. 
+Rated Date: 9/8/2014 3:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143586> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated Fate Therapeutics Inc. (NASDAQ: FATE) to Buy with price target $9. <br />Rated Date: 9/8/2014 3:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143586"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/8/2014 3:25:00 PM"|"NEURALSTEM INC (AMEX: CUR) rated to Neutral  by HC Wainwright"|"HC Wainwright rated NEURALSTEM INC (AMEX: CUR) to Neutral
+Rated Date: 9/8/2014 3:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143585> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated NEURALSTEM INC (AMEX: CUR) to Neutral<br />Rated Date: 9/8/2014 3:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143585"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/8/2014 3:25:00 PM"|"Pluristem Therapeutics Inc. (NASDAQ: PSTI) rated to Buy with price target $4 by HC Wainwright"|"HC Wainwright rated Pluristem Therapeutics Inc. (NASDAQ: PSTI) to Buy with price target $4. 
+Rated Date: 9/8/2014 3:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143584> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated Pluristem Therapeutics Inc. (NASDAQ: PSTI) to Buy with price target $4. <br />Rated Date: 9/8/2014 3:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143584"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/8/2014 1:25:00 PM"|"Westlake Chemical Partners LP (NYSE: WLKP) rated to Buy with price target $40 by Deutsche Bank"|"Deutsche Bank rated Westlake Chemical Partners LP (NYSE: WLKP) to Buy with price target $40
+Rated Date: 9/8/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143583> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank rated Westlake Chemical Partners LP (NYSE: WLKP) to Buy with price target $40<br />Rated Date: 9/8/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143583"">View article...</A></p></body></html>"
+|"UBS"||"9/8/2014 12:25:00 PM"|"Orion Engineered Carbons S.A R. (NYSE: OEC) rated to Buy with price target $21 by UBS"|"UBS rated Orion Engineered Carbons S.A R. (NYSE: OEC) to Buy with price target $21. 
+Rated Date: 9/8/2014 12:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143580> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS rated Orion Engineered Carbons S.A R. (NYSE: OEC) to Buy with price target $21. <br />Rated Date: 9/8/2014 12:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143580"">View article...</A></p></body></html>"
+|"UBS"||"9/8/2014 12:25:00 PM"|"Westlake Chemical Partners LP (NYSE: WLKP) rated to Buy with price target $37 by UBS"|"UBS rated Westlake Chemical Partners LP (NYSE: WLKP) to Buy with price target $37
+Rated Date: 9/8/2014 12:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143579> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS rated Westlake Chemical Partners LP (NYSE: WLKP) to Buy with price target $37<br />Rated Date: 9/8/2014 12:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143579"">View article...</A></p></body></html>"
+|"Stifel"||"9/9/2014 8:25:00 AM"|"Xcerra Corp. (NASDAQ: XCRA) rated to Buy with price target $13 by Stifel"|"Stifel rated Xcerra Corp. (NASDAQ: XCRA) to Buy with price target $13
+Rated Date: 9/9/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143597> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Xcerra Corp. (NASDAQ: XCRA) to Buy with price target $13<br />Rated Date: 9/9/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143597"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"9/9/2014 8:25:00 AM"|"Amc Entertainment Holdings Inc (NYSE: AMC) rated to Buy with price target $26 by Topeka Capital Markets"|"Topeka Capital Markets rated Amc Entertainment Holdings Inc (NYSE: AMC) to Buy with price target $26. 
+Rated Date: 9/9/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143594> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated Amc Entertainment Holdings Inc (NYSE: AMC) to Buy with price target $26. <br />Rated Date: 9/9/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143594"">View article...</A></p></body></html>"
+|"Maxim Group"||"9/9/2014 8:25:00 AM"|"U.S. Geothermal Inc. (AMEX: HTM) rated to Buy with price target $1.20 by Maxim Group"|"Maxim Group rated U.S. Geothermal Inc. (AMEX: HTM) to Buy with price target $1.20
+Rated Date: 9/9/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143593> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Maxim Group rated U.S. Geothermal Inc. (AMEX: HTM) to Buy with price target $1.20<br />Rated Date: 9/9/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143593"">View article...</A></p></body></html>"
+|"Northland Capital"||"9/9/2014 8:25:00 AM"|"POWERSECURE INTERNATIONAL INC (NYSE: POWR) rated to Outperform with price target $14 by Northland Capital"|"Northland Capital rated POWERSECURE INTERNATIONAL INC (NYSE: POWR) to Outperform with price target $14. 
+Rated Date: 9/9/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143592> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Northland Capital rated POWERSECURE INTERNATIONAL INC (NYSE: POWR) to Outperform with price target $14. <br />Rated Date: 9/9/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143592"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/9/2014 8:25:00 AM"|"Marinus Pharmaceuticals Inc (NASDAQ: MRNS) rated to Outperform with price target $12 by Oppenheimer"|"Oppenheimer rated Marinus Pharmaceuticals Inc (NASDAQ: MRNS) to Outperform with price target $12
+Rated Date: 9/9/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143591> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer rated Marinus Pharmaceuticals Inc (NASDAQ: MRNS) to Outperform with price target $12<br />Rated Date: 9/9/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143591"">View article...</A></p></body></html>"
+|"Needham"||"9/9/2014 8:25:00 AM"|"Auris Medical Holding Ag (NASDAQ: EARS) rated to Buy with price target $11 by Needham"|"Needham rated Auris Medical Holding Ag (NASDAQ: EARS) to Buy with price target $11. 
+Rated Date: 9/9/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143590> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Needham rated Auris Medical Holding Ag (NASDAQ: EARS) to Buy with price target $11. <br />Rated Date: 9/9/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143590"">View article...</A></p></body></html>"
+|"Midtown Partners"||"9/8/2014 10:25:00 AM"|"Lifevantage Corporation (NASDAQ: LFVN) rated to Buy with price target $1.43 by Midtown Partners"|"Midtown Partners rated Lifevantage Corporation (NASDAQ: LFVN) to Buy with price target $1.43
+Rated Date: 9/8/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143575> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Midtown Partners rated Lifevantage Corporation (NASDAQ: LFVN) to Buy with price target $1.43<br />Rated Date: 9/8/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143575"">View article...</A></p></body></html>"
+|"Maxim Group"||"9/8/2014 9:25:00 AM"|"Contrafect Corp (NASDAQ: CFRXU) rated to Buy with price target $16 by Maxim Group"|"Maxim Group rated Contrafect Corp (NASDAQ: CFRXU) to Buy with price target $16. 
+Rated Date: 9/8/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143574> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Maxim Group rated Contrafect Corp (NASDAQ: CFRXU) to Buy with price target $16. <br />Rated Date: 9/8/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143574"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/8/2014 8:25:00 AM"|"C1 Financial Inc. (NYSE: BNK) rated to Buy with price target $21 by Wunderlich"|"Wunderlich rated C1 Financial Inc. (NYSE: BNK) to Buy with price target $21. 
+Rated Date: 9/8/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143568> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated C1 Financial Inc. (NYSE: BNK) to Buy with price target $21. <br />Rated Date: 9/8/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143568"">View article...</A></p></body></html>"
+|"Aegis Capital"||"9/9/2014 9:25:00 AM"|"Signal Genetics Llc (NASDAQ: SGNL) rated to Buy with price target $15 by Aegis Capital"|"Aegis Capital rated Signal Genetics Llc (NASDAQ: SGNL) to Buy with price target $15
+Rated Date: 9/9/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143603> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Aegis Capital rated Signal Genetics Llc (NASDAQ: SGNL) to Buy with price target $15<br />Rated Date: 9/9/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143603"">View article...</A></p></body></html>"
+|"Standpoint Research"||"9/9/2014 11:25:00 AM"|"Chicago Bridge & Iron Company N.v. (NYSE: CBI) rated to Buy with price target $84 by Standpoint Research"|"Standpoint Research rated Chicago Bridge & Iron Company N.v. (NYSE: CBI) to Buy with price target $84
+Rated Date: 9/9/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143609> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Standpoint Research rated Chicago Bridge & Iron Company N.v. (NYSE: CBI) to Buy with price target $84<br />Rated Date: 9/9/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143609"">View article...</A></p></body></html>"
+|"William Blair"||"9/9/2014 3:25:00 PM"|"Catalent Inc. (NYSE: CTLT) rated to Outperform  by William Blair"|"William Blair rated Catalent Inc. (NYSE: CTLT) to Outperform with today's price of $22.50. 
+Rated Date: 9/9/2014 3:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143614> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>William Blair rated Catalent Inc. (NYSE: CTLT) to Outperform with today's price of $22.50. <br />Rated Date: 9/9/2014 3:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143614"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/9/2014 2:25:00 PM"|"Synchrony Financial (NYSE: SYF) rated to Hold with price target $27 by Deutsche Bank"|"Deutsche Bank rated Synchrony Financial (NYSE: SYF) to Hold with price target $27
+Rated Date: 9/9/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143613> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank rated Synchrony Financial (NYSE: SYF) to Hold with price target $27<br />Rated Date: 9/9/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143613"">View article...</A></p></body></html>"
+|"Stifel"||"9/10/2014 10:25:00 AM"|"Farmland Partners Inc. (AMEX: FPI) rated to Buy with price target $13.75 by Stifel"|"Stifel rated Farmland Partners Inc. (AMEX: FPI) to Buy with price target $13.75
+Rated Date: 9/10/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143639> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Farmland Partners Inc. (AMEX: FPI) to Buy with price target $13.75<br />Rated Date: 9/10/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143639"">View article...</A></p></body></html>"
+|"Stifel"||"9/10/2014 9:25:00 AM"|"InterXion Holding NV (NYSE: INXN) rated to Buy with price target $34 by Stifel"|"Stifel rated InterXion Holding NV (NYSE: INXN) to Buy with price target $34
+Rated Date: 9/10/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143635> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated InterXion Holding NV (NYSE: INXN) to Buy with price target $34<br />Rated Date: 9/10/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143635"">View article...</A></p></body></html>"
+|"Stifel"||"9/10/2014 9:25:00 AM"|"21Vianet Group Inc. (NASDAQ: VNET) rated to Buy with price target $33 by Stifel"|"Stifel rated 21Vianet Group Inc. (NASDAQ: VNET) to Buy with price target $33. 
+Rated Date: 9/10/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143634> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated 21Vianet Group Inc. (NASDAQ: VNET) to Buy with price target $33. <br />Rated Date: 9/10/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143634"">View article...</A></p></body></html>"
+|"Stifel"||"9/10/2014 9:25:00 AM"|"Dupont Fabros Technology Inc. (NYSE: DFT) rated to Hold  by Stifel"|"Stifel rated Dupont Fabros Technology Inc. (NYSE: DFT) to Hold
+Rated Date: 9/10/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143633> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Dupont Fabros Technology Inc. (NYSE: DFT) to Hold<br />Rated Date: 9/10/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143633"">View article...</A></p></body></html>"
+|"Stifel"||"9/10/2014 9:25:00 AM"|"Cyrusone Inc (NASDAQ: CONE) rated to Hold  by Stifel"|"Stifel rated Cyrusone Inc (NASDAQ: CONE) to Hold. 
+Rated Date: 9/10/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143632> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Cyrusone Inc (NASDAQ: CONE) to Hold. <br />Rated Date: 9/10/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143632"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"9/10/2014 8:25:00 AM"|"Palo Alto Networks Inc. (NYSE: PANW) rated to Buy with price target $100 by Topeka Capital Markets"|"Topeka Capital Markets rated Palo Alto Networks Inc. (NYSE: PANW) to Buy with price target $100
+Rated Date: 9/10/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143631> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated Palo Alto Networks Inc. (NYSE: PANW) to Buy with price target $100<br />Rated Date: 9/10/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143631"">View article...</A></p></body></html>"
+|"Dougherty & Company  "||"9/10/2014 8:25:00 AM"|"Palo Alto Networks Inc. (NYSE: PANW) rated to Buy with price target $115 by Dougherty & Company  "|"Dougherty & Company rated Palo Alto Networks Inc. (NYSE: PANW) to Buy with price target $115. 
+Rated Date: 9/10/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143630> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Dougherty & Company   rated Palo Alto Networks Inc. (NYSE: PANW) to Buy with price target $115. <br />Rated Date: 9/10/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143630"">View article...</A></p></body></html>"
+|"Canaccord Genuity"||"9/10/2014 8:25:00 AM"|"DIRECTV (NASDAQ: DTV) rated to Hold with price target $95 by Canaccord Genuity"|"Canaccord Genuity rated DIRECTV (NASDAQ: DTV) to Hold with price target $95. 
+Rated Date: 9/10/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143626> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Canaccord Genuity rated DIRECTV (NASDAQ: DTV) to Hold with price target $95. <br />Rated Date: 9/10/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143626"">View article...</A></p></body></html>"
+|"Stifel"||"9/10/2014 11:25:00 AM"|"Multimedia Games, Inc. (NASDAQ: MGAM) rated to Buy with price target $40 by Stifel"|"Stifel rated Multimedia Games, Inc. (NASDAQ: MGAM) to Buy with price target $40
+Rated Date: 9/10/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143653> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Multimedia Games, Inc. (NASDAQ: MGAM) to Buy with price target $40<br />Rated Date: 9/10/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143653"">View article...</A></p></body></html>"
+|"Stifel"||"9/10/2014 11:25:00 AM"|"NXP Semiconductors NV (NASDAQ: NXPI) rated to Buy with price target $80 by Stifel"|"Stifel rated NXP Semiconductors NV (NASDAQ: NXPI) to Buy with price target $80. 
+Rated Date: 9/10/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143652> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated NXP Semiconductors NV (NASDAQ: NXPI) to Buy with price target $80. <br />Rated Date: 9/10/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143652"">View article...</A></p></body></html>"
+|"FBR Capital"||"9/10/2014 12:25:00 PM"|"Nps Pharmaceuticals, Inc. (NASDAQ: NPSP) rated to Outperform with price target $36 by FBR Capital"|"FBR Capital rated Nps Pharmaceuticals, Inc. (NASDAQ: NPSP) to Outperform with price target $36 with today's price of $31.33. 
+Rated Date: 9/10/2014 12:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143654> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>FBR Capital rated Nps Pharmaceuticals, Inc. (NASDAQ: NPSP) to Outperform with price target $36 with today's price of $31.33. <br />Rated Date: 9/10/2014 12:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143654"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/10/2014 1:25:00 PM"|"Mobileye N.V. (NYSE: MBLY) rated to Hold with price target $53 by Deutsche Bank"|"Deutsche Bank rated Mobileye N.V. (NYSE: MBLY) to Hold with price target $53
+Rated Date: 9/10/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143655> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank rated Mobileye N.V. (NYSE: MBLY) to Hold with price target $53<br />Rated Date: 9/10/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143655"">View article...</A></p></body></html>"
+|"Barclays"||"9/10/2014 2:25:00 PM"|"Express-1 Expedited Solutions (NYSE: XPO) rated to Overweight with price target $45 by Barclays"|"Barclays rated Express-1 Expedited Solutions (NYSE: XPO) to Overweight with price target $45
+Rated Date: 9/10/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143659> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Express-1 Expedited Solutions (NYSE: XPO) to Overweight with price target $45<br />Rated Date: 9/10/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143659"">View article...</A></p></body></html>"
+|"Barclays"||"9/10/2014 2:25:00 PM"|"Expeditors International Of Washington, Inc. (NASDAQ: EXPD) rated to Underweight with price target $38 by Barclays"|"Barclays rated Expeditors International Of Washington, Inc. (NASDAQ: EXPD) to Underweight with price target $38 with today's price of $41.89. 
+Rated Date: 9/10/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143658> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Expeditors International Of Washington, Inc. (NASDAQ: EXPD) to Underweight with price target $38 with today's price of $41.89. <br />Rated Date: 9/10/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143658"">View article...</A></p></body></html>"
+|"Barclays"||"9/10/2014 2:25:00 PM"|"Kimberly-Clark de Mexico SA B de CV (ADR (OTCBB: KCDMY) rated to Underweight with price target $35 by Barclays"|"Barclays rated Kimberly-Clark de Mexico SA B de CV (ADR (OTCBB: KCDMY) to Underweight with price target $35
+Rated Date: 9/10/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143657> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Kimberly-Clark de Mexico SA B de CV (ADR (OTCBB: KCDMY) to Underweight with price target $35<br />Rated Date: 9/10/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143657"">View article...</A></p></body></html>"
+|"Barclays"||"9/10/2014 2:25:00 PM"|"Sunoco Logistics Partners Lp (NYSE: SXL) rated to Overweight with price target $58 by Barclays"|"Barclays rated Sunoco Logistics Partners Lp (NYSE: SXL) to Overweight with price target $58. 
+Rated Date: 9/10/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143656> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Sunoco Logistics Partners Lp (NYSE: SXL) to Overweight with price target $58. <br />Rated Date: 9/10/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143656"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/11/2014 1:25:00 PM"|"Athlon Energy Inc. (NYSE: ATHL) rated to Buy with price target $57 by Deutsche Bank"|"Deutsche Bank rated Athlon Energy Inc. (NYSE: ATHL) to Buy with price target $57
+Rated Date: 9/11/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143691> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank rated Athlon Energy Inc. (NYSE: ATHL) to Buy with price target $57<br />Rated Date: 9/11/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143691"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/11/2014 1:25:00 PM"|"Energen Corporation (NYSE: EGN) rated to Buy with price target $95 by Deutsche Bank"|"Deutsche Bank rated Energen Corporation (NYSE: EGN) to Buy with price target $95 with today's price of $76.10. 
+Rated Date: 9/11/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143690> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank rated Energen Corporation (NYSE: EGN) to Buy with price target $95 with today's price of $76.10. <br />Rated Date: 9/11/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143690"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/11/2014 1:25:00 PM"|"Rsp Permian Inc. (NYSE: RSPP) rated to Hold with price target $30 by Deutsche Bank"|"Deutsche Bank rated Rsp Permian Inc. (NYSE: RSPP) to Hold with price target $30
+Rated Date: 9/11/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143689> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank rated Rsp Permian Inc. (NYSE: RSPP) to Hold with price target $30<br />Rated Date: 9/11/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143689"">View article...</A></p></body></html>"
+|"Canaccord Genuity"||"9/11/2014 10:25:00 AM"|"Twitter (NYSE: TWTR) rated to Buy with price target $62 by Canaccord Genuity"|"Canaccord Genuity rated Twitter (NYSE: TWTR) to Buy with price target $62 with today's price of $52.60. 
+Rated Date: 9/11/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143686> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Canaccord Genuity rated Twitter (NYSE: TWTR) to Buy with price target $62 with today's price of $52.60. <br />Rated Date: 9/11/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143686"">View article...</A></p></body></html>"
+|"Canaccord Genuity"||"9/11/2014 10:25:00 AM"|"Yandex N.V. (NASDAQ: YNDX) rated to Buy with price target $38 by Canaccord Genuity"|"Canaccord Genuity rated Yandex N.V. (NASDAQ: YNDX) to Buy with price target $38
+Rated Date: 9/11/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143685> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Canaccord Genuity rated Yandex N.V. (NASDAQ: YNDX) to Buy with price target $38<br />Rated Date: 9/11/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143685"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/11/2014 9:25:00 AM"|"National Grid Transco, Plc (NYSE: NGG) rated to Sector Perform  by RBC Capital Mkts"|"RBC Capital Mkts rated National Grid Transco, Plc (NYSE: NGG) to Sector Perform
+Rated Date: 9/11/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143683> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated National Grid Transco, Plc (NYSE: NGG) to Sector Perform<br />Rated Date: 9/11/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143683"">View article...</A></p></body></html>"
+|"Barclays"||"9/11/2014 2:25:00 PM"|"Walter Investment Management Corp. (NYSE: WAC) rated to Underweight with price target $22 by Barclays"|"Barclays rated Walter Investment Management Corp. (NYSE: WAC) to Underweight with price target $22 with today's price of $24.17. 
+Rated Date: 9/11/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143694> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Walter Investment Management Corp. (NYSE: WAC) to Underweight with price target $22 with today's price of $24.17. <br />Rated Date: 9/11/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143694"">View article...</A></p></body></html>"
+|"Cowen"||"9/11/2014 8:25:00 AM"|"U.S. Silica Holdings Inc. (NYSE: SLCA) rated to Outperform with price target $83 by Cowen"|"Cowen rated U.S. Silica Holdings Inc. (NYSE: SLCA) to Outperform with price target $83
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143677> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Cowen rated U.S. Silica Holdings Inc. (NYSE: SLCA) to Outperform with price target $83<br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143677"">View article...</A></p></body></html>"
+|"Brean Capital"||"9/11/2014 8:25:00 AM"|"Jd.Com Inc. (NASDAQ: JD) rated to Buy with price target $35 by Brean Capital"|"Brean Capital rated Jd.Com Inc. (NASDAQ: JD) to Buy with price target $35
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143675> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Brean Capital rated Jd.Com Inc. (NASDAQ: JD) to Buy with price target $35<br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143675"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/11/2014 8:25:00 AM"|"Fifth Street Finance Corp. (NASDAQ: FSC) rated to Buy with price target $10.50 by Wunderlich"|"Wunderlich rated Fifth Street Finance Corp. (NASDAQ: FSC) to Buy with price target $10.50. 
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143674> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Fifth Street Finance Corp. (NASDAQ: FSC) to Buy with price target $10.50. <br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143674"">View article...</A></p></body></html>"
+|"Stifel"||"9/11/2014 8:25:00 AM"|"GREENHUNTER ENERGY (AMEX: GRH) rated to Hold  by Stifel"|"Stifel rated GREENHUNTER ENERGY (AMEX: GRH) to Hold
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143673> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated GREENHUNTER ENERGY (AMEX: GRH) to Hold<br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143673"">View article...</A></p></body></html>"
+|"Stifel"||"9/11/2014 8:25:00 AM"|"Nuverra Environmental Solutions Inc. (NYSE: NES) rated to Buy with price target $20 by Stifel"|"Stifel rated Nuverra Environmental Solutions Inc. (NYSE: NES) to Buy with price target $20. 
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143672> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Nuverra Environmental Solutions Inc. (NYSE: NES) to Buy with price target $20. <br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143672"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/11/2014 8:25:00 AM"|"Capricor Therapeutics Inc. (OTCBB: CAPR) rated to Buy with price target $8 by HC Wainwright"|"HC Wainwright rated Capricor Therapeutics Inc. (OTCBB: CAPR) to Buy with price target $8
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143671> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated Capricor Therapeutics Inc. (OTCBB: CAPR) to Buy with price target $8<br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143671"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/11/2014 8:25:00 AM"|"Veolia Environnement (NYSE: VE) rated to Sector Perform  by RBC Capital Mkts"|"RBC Capital Mkts rated Veolia Environnement (NYSE: VE) to Sector Perform. 
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143668> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Veolia Environnement (NYSE: VE) to Sector Perform. <br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143668"">View article...</A></p></body></html>"
+|"UBS"||"9/12/2014 12:25:00 PM"|"Dollar General Corporation (NYSE: DG) rated to Buy with price target $81 by UBS"|"UBS rated Dollar General Corporation (NYSE: DG) to Buy with price target $81
+Rated Date: 9/12/2014 12:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143725> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS rated Dollar General Corporation (NYSE: DG) to Buy with price target $81<br />Rated Date: 9/12/2014 12:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143725"">View article...</A></p></body></html>"
+|"UBS"||"9/12/2014 12:25:00 PM"|"Synchrony Financial (NYSE: SYF) rated to Neutral with price target $27 by UBS"|"UBS rated Synchrony Financial (NYSE: SYF) to Neutral with price target $27 with today's price of $24.54. 
+Rated Date: 9/12/2014 12:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143722> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS rated Synchrony Financial (NYSE: SYF) to Neutral with price target $27 with today's price of $24.54. <br />Rated Date: 9/12/2014 12:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143722"">View article...</A></p></body></html>"
+|"Gabelli & Co"||"9/12/2014 11:25:00 AM"|"Weatherford International, Inc. (NYSE: WFT) rated to Buy with price target $37 by Gabelli & Co"|"Gabelli & Co rated Weatherford International, Inc. (NYSE: WFT) to Buy with price target $37. 
+Rated Date: 9/12/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143720> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Gabelli & Co rated Weatherford International, Inc. (NYSE: WFT) to Buy with price target $37. <br />Rated Date: 9/12/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143720"">View article...</A></p></body></html>"
+|"Standpoint Research"||"9/12/2014 10:25:00 AM"|"Perion Network Ltd (NASDAQ: PERI) rated to Buy with price target $11 by Standpoint Research"|"Standpoint Research rated Perion Network Ltd (NASDAQ: PERI) to Buy with price target $11 with today's price of $6.38. 
+Rated Date: 9/12/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143718> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Standpoint Research rated Perion Network Ltd (NASDAQ: PERI) to Buy with price target $11 with today's price of $6.38. <br />Rated Date: 9/12/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143718"">View article...</A></p></body></html>"
+|"DA Davidson"||"9/12/2014 9:25:00 AM"|"Nci Building Systems, Inc. (NYSE: NCS) rated to Neutral with price target $20 by DA Davidson"|"DA Davidson rated Nci Building Systems, Inc. (NYSE: NCS) to Neutral with price target $20. 
+Rated Date: 9/12/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143712> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>DA Davidson rated Nci Building Systems, Inc. (NYSE: NCS) to Neutral with price target $20. <br />Rated Date: 9/12/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143712"">View article...</A></p></body></html>"
+|"Stifel"||"9/12/2014 9:25:00 AM"|"Aviv REIT Inc. Common Stock (NYSE: AVIV) rated to Buy with price target $31 by Stifel"|"Stifel rated Aviv REIT Inc. Common Stock (NYSE: AVIV) to Buy with price target $31
+Rated Date: 9/12/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143711> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Aviv REIT Inc. Common Stock (NYSE: AVIV) to Buy with price target $31<br />Rated Date: 9/12/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143711"">View article...</A></p></body></html>"
+|"Stifel"||"9/12/2014 9:25:00 AM"|"Caretrust Reit Inc. (NASDAQ: CTRE) rated to Hold  by Stifel"|"Stifel rated Caretrust Reit Inc. (NASDAQ: CTRE) to Hold. 
+Rated Date: 9/12/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143710> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Caretrust Reit Inc. (NASDAQ: CTRE) to Hold. <br />Rated Date: 9/12/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143710"">View article...</A></p></body></html>"
+|"Canaccord Genuity"||"9/12/2014 8:25:00 AM"|"Enphase Energy Inc (NASDAQ: ENPH) rated to Buy with price target $20 by Canaccord Genuity"|"Canaccord Genuity rated Enphase Energy Inc (NASDAQ: ENPH) to Buy with price target $20. 
+Rated Date: 9/12/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143706> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Canaccord Genuity rated Enphase Energy Inc (NASDAQ: ENPH) to Buy with price target $20. <br />Rated Date: 9/12/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143706"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/12/2014 8:25:00 AM"|"Hanesbrands Inc. (NYSE: HBI) rated to Buy with price target $124 by Wunderlich"|"Wunderlich rated Hanesbrands Inc. (NYSE: HBI) to Buy with price target $124. 
+Rated Date: 9/12/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143704> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Hanesbrands Inc. (NYSE: HBI) to Buy with price target $124. <br />Rated Date: 9/12/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143704"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/12/2014 8:25:00 AM"|"Perry Ellis International Inc. (NASDAQ: PERY) rated to Buy with price target $25 by Wunderlich"|"Wunderlich rated Perry Ellis International Inc. (NASDAQ: PERY) to Buy with price target $25
+Rated Date: 9/12/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143703> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Perry Ellis International Inc. (NASDAQ: PERY) to Buy with price target $25<br />Rated Date: 9/12/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143703"">View article...</A></p></body></html>"
+|"Ascendiant Capital Markets"||"9/12/2014 8:25:00 AM"|"Vitesse Semi (NASDAQ: VTSS) rated to Buy with price target $5.25 by Ascendiant Capital Markets"|"Ascendiant Capital Markets rated Vitesse Semi (NASDAQ: VTSS) to Buy with price target $5.25. 
+Rated Date: 9/12/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143702> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Ascendiant Capital Markets rated Vitesse Semi (NASDAQ: VTSS) to Buy with price target $5.25. <br />Rated Date: 9/12/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143702"">View article...</A></p></body></html>"
+|"Mizuho"||"9/12/2014 8:25:00 AM"|"NewLink Genetics Corp (NASDAQ: NLNK) rated to Buy with price target $50 by Mizuho"|"Mizuho rated NewLink Genetics Corp (NASDAQ: NLNK) to Buy with price target $50
+Rated Date: 9/12/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143701> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Mizuho rated NewLink Genetics Corp (NASDAQ: NLNK) to Buy with price target $50<br />Rated Date: 9/12/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143701"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/12/2014 8:25:00 AM"|"Phillips-van Heusen Corporation (NYSE: PVH) rated to Buy with price target $150 by Wunderlich"|"Wunderlich rated Phillips-van Heusen Corporation (NYSE: PVH) to Buy with price target $150. 
+Rated Date: 9/12/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143700> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Phillips-van Heusen Corporation (NYSE: PVH) to Buy with price target $150. <br />Rated Date: 9/12/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143700"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/12/2014 8:25:00 AM"|"Littelfuse, Inc. (NASDAQ: LFUS) rated to Outperform with price target $107 by Oppenheimer"|"Oppenheimer rated Littelfuse, Inc. (NASDAQ: LFUS) to Outperform with price target $107
+Rated Date: 9/12/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143697> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer rated Littelfuse, Inc. (NASDAQ: LFUS) to Outperform with price target $107<br />Rated Date: 9/12/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143697"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/15/2014 8:25:00 AM"|"Nrg Yield Inc. (NYSE: NYLD) rated to Outperform with price target $61 by RBC Capital Mkts"|"RBC Capital Mkts rated Nrg Yield Inc. (NYSE: NYLD) to Outperform with price target $61. 
+Rated Date: 9/15/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143736> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Nrg Yield Inc. (NYSE: NYLD) to Outperform with price target $61. <br />Rated Date: 9/15/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143736"">View article...</A></p></body></html>"
+|"Northland Capital"||"9/15/2014 8:25:00 AM"|"Power Solutions Inte (NASDAQ: PSIX) rated to Outperform with price target $90 by Northland Capital"|"Northland Capital rated Power Solutions Inte (NASDAQ: PSIX) to Outperform with price target $90
+Rated Date: 9/15/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143735> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Northland Capital rated Power Solutions Inte (NASDAQ: PSIX) to Outperform with price target $90<br />Rated Date: 9/15/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143735"">View article...</A></p></body></html>"
+|"Monness Crespi & Hardt"||"9/15/2014 8:25:00 AM"|"Veriphone Holdings, Inc. (NYSE: PAY) rated to Buy with price target $43 by Monness Crespi & Hardt"|"Monness Crespi & Hardt rated Veriphone Holdings, Inc. (NYSE: PAY) to Buy with price target $43. 
+Rated Date: 9/15/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143734> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Monness Crespi & Hardt rated Veriphone Holdings, Inc. (NYSE: PAY) to Buy with price target $43. <br />Rated Date: 9/15/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143734"">View article...</A></p></body></html>"
+|"Canaccord Genuity"||"9/15/2014 10:25:00 AM"|"Whiting Petroleum Corporation (NYSE: WLL) rated to Buy with price target $108 by Canaccord Genuity"|"Canaccord Genuity rated Whiting Petroleum Corporation (NYSE: WLL) to Buy with price target $108 with today's price of $83.70. 
+Rated Date: 9/15/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143742> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Canaccord Genuity rated Whiting Petroleum Corporation (NYSE: WLL) to Buy with price target $108 with today's price of $83.70. <br />Rated Date: 9/15/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143742"">View article...</A></p></body></html>"
+|"Compass Point"||"9/16/2014 11:25:00 AM"|"Starwood Waypoint Residential T (NYSE: SWAY) rated to Neutral with price target $30 by Compass Point"|"Compass Point rated Starwood Waypoint Residential T (NYSE: SWAY) to Neutral with price target $30
+Rated Date: 9/16/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143777> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Compass Point rated Starwood Waypoint Residential T (NYSE: SWAY) to Neutral with price target $30<br />Rated Date: 9/16/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143777"">View article...</A></p></body></html>"
+|"Compass Point"||"9/16/2014 11:25:00 AM"|"Silver Bay Realty Trust Corp. (NYSE: SBY) rated to Buy with price target $19.50 by Compass Point"|"Compass Point rated Silver Bay Realty Trust Corp. (NYSE: SBY) to Buy with price target $19.50. 
+Rated Date: 9/16/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143776> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Compass Point rated Silver Bay Realty Trust Corp. (NYSE: SBY) to Buy with price target $19.50. <br />Rated Date: 9/16/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143776"">View article...</A></p></body></html>"
+|"R. F. Lafferty"||"9/16/2014 11:25:00 AM"|"Osiris Therapeutics, Inc. (NASDAQ: OSIR) rated to Buy with price target $19 by R. F. Lafferty"|"R. F. Lafferty rated Osiris Therapeutics, Inc. (NASDAQ: OSIR) to Buy with price target $19
+Rated Date: 9/16/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143775> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>R. F. Lafferty rated Osiris Therapeutics, Inc. (NASDAQ: OSIR) to Buy with price target $19<br />Rated Date: 9/16/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143775"">View article...</A></p></body></html>"
+|"Roth Capital"||"9/16/2014 9:25:00 AM"|"Catalyst Pharmaceutical Partners, Inc. (NASDAQ: CPRX) rated to Buy with price target $5 by Roth Capital"|"Roth Capital rated Catalyst Pharmaceutical Partners, Inc. (NASDAQ: CPRX) to Buy with price target $5
+Rated Date: 9/16/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143773> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Roth Capital rated Catalyst Pharmaceutical Partners, Inc. (NASDAQ: CPRX) to Buy with price target $5<br />Rated Date: 9/16/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143773"">View article...</A></p></body></html>"
+|"Cowen"||"9/16/2014 9:25:00 AM"|"Ak Steel Holding Corporation (NYSE: AKS) rated to Market Perform with price target $11 by Cowen"|"Cowen rated Ak Steel Holding Corporation (NYSE: AKS) to Market Perform with price target $11. 
+Rated Date: 9/16/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143772> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Cowen rated Ak Steel Holding Corporation (NYSE: AKS) to Market Perform with price target $11. <br />Rated Date: 9/16/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143772"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/16/2014 8:25:00 AM"|"Netsuite Inc (NYSE: N) rated to Outperform with price target $111 by RBC Capital Mkts"|"RBC Capital Mkts rated Netsuite Inc (NYSE: N) to Outperform with price target $111. 
+Rated Date: 9/16/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143762> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Netsuite Inc (NYSE: N) to Outperform with price target $111. <br />Rated Date: 9/16/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143762"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/16/2014 8:25:00 AM"|"Sap Aktiengesellschaft Systeme, Anwendungen, Produkte (NYSE: SAP) rated to Sector Perform with price target $86 by RBC Capital Mkts"|"RBC Capital Mkts rated Sap Aktiengesellschaft Systeme, Anwendungen, Produkte (NYSE: SAP) to Sector Perform with price target $86
+Rated Date: 9/16/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143761> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Sap Aktiengesellschaft Systeme, Anwendungen, Produkte (NYSE: SAP) to Sector Perform with price target $86<br />Rated Date: 9/16/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143761"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/16/2014 8:25:00 AM"|"Workday Inc. (NYSE: WDAY) rated to Outperform with price target $112 by RBC Capital Mkts"|"RBC Capital Mkts rated Workday Inc. (NYSE: WDAY) to Outperform with price target $112
+Rated Date: 9/16/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143759> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Workday Inc. (NYSE: WDAY) to Outperform with price target $112<br />Rated Date: 9/16/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143759"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/16/2014 8:25:00 AM"|"Benefitfocus Inc. (NASDAQ: BNFT) rated to Outperform with price target $48 by RBC Capital Mkts"|"RBC Capital Mkts rated Benefitfocus Inc. (NASDAQ: BNFT) to Outperform with price target $48. 
+Rated Date: 9/16/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143758> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Benefitfocus Inc. (NASDAQ: BNFT) to Outperform with price target $48. <br />Rated Date: 9/16/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143758"">View article...</A></p></body></html>"
+|"Brean Capital"||"9/16/2014 8:25:00 AM"|"Analogic Corporation (NASDAQ: ALOG) rated to Hold  by Brean Capital"|"Brean Capital rated Analogic Corporation (NASDAQ: ALOG) to Hold. 
+Rated Date: 9/16/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143756> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Brean Capital rated Analogic Corporation (NASDAQ: ALOG) to Hold. <br />Rated Date: 9/16/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143756"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"9/16/2014 8:25:00 AM"|"Bankrate Inc (NYSE: RATE) rated to Sell  by Topeka Capital Markets"|"Topeka Capital Markets rated Bankrate Inc (NYSE: RATE) to Sell
+Rated Date: 9/16/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143755> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated Bankrate Inc (NYSE: RATE) to Sell<br />Rated Date: 9/16/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143755"">View article...</A></p></body></html>"
+|"Stifel"||"9/16/2014 8:25:00 AM"|"Synnex Corporation (NYSE: SNX) rated to Buy with price target $71 by Stifel"|"Stifel rated Synnex Corporation (NYSE: SNX) to Buy with price target $71. 
+Rated Date: 9/16/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143752> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Synnex Corporation (NYSE: SNX) to Buy with price target $71. <br />Rated Date: 9/16/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143752"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/15/2014 2:25:00 PM"|"Ptc Therapeutics Inc. (NASDAQ: PTCT) rated to Buy with price target $75 by Deutsche Bank"|"Deutsche Bank rated Ptc Therapeutics Inc. (NASDAQ: PTCT) to Buy with price target $75
+Rated Date: 9/15/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143749> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank rated Ptc Therapeutics Inc. (NASDAQ: PTCT) to Buy with price target $75<br />Rated Date: 9/15/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143749"">View article...</A></p></body></html>"
+|"Singular Research"||"9/15/2014 11:25:00 AM"|"Bacterin International Holdings Inc (AMEX: BONE) rated to Buy with price target $14 by Singular Research"|"Singular Research rated Bacterin International Holdings Inc (AMEX: BONE) to Buy with price target $14
+Rated Date: 9/15/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143745> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Singular Research rated Bacterin International Holdings Inc (AMEX: BONE) to Buy with price target $14<br />Rated Date: 9/15/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143745"">View article...</A></p></body></html>"
+|"Brean Capital"||"9/16/2014 3:25:00 PM"|"Nektar Therapeutics (NASDAQ: NKTR) rated to Buy with price target $20 by Brean Capital"|"Brean Capital rated Nektar Therapeutics (NASDAQ: NKTR) to Buy with price target $20 with today's price of $13.72. 
+Rated Date: 9/16/2014 3:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143790> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Brean Capital rated Nektar Therapeutics (NASDAQ: NKTR) to Buy with price target $20 with today's price of $13.72. <br />Rated Date: 9/16/2014 3:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143790"">View article...</A></p></body></html>"
+|"Imperial Capital"||"9/16/2014 1:25:00 PM"|"ARC WIRELESS SOLUTNS (NASDAQ: ARCW) rated to Outperform with price target $24 by Imperial Capital"|"Imperial Capital rated ARC WIRELESS SOLUTNS (NASDAQ: ARCW) to Outperform with price target $24
+Rated Date: 9/16/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143787> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Imperial Capital rated ARC WIRELESS SOLUTNS (NASDAQ: ARCW) to Outperform with price target $24<br />Rated Date: 9/16/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143787"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/16/2014 1:25:00 PM"|"Scorpio Bulkers Inc. Common Sto (NYSE: SALT) rated to Buy with price target $12 by Deutsche Bank"|"Deutsche Bank rated Scorpio Bulkers Inc. Common Sto (NYSE: SALT) to Buy with price target $12. 
+Rated Date: 9/16/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143786> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank rated Scorpio Bulkers Inc. Common Sto (NYSE: SALT) to Buy with price target $12. <br />Rated Date: 9/16/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143786"">View article...</A></p></body></html>"
+|"MLV & Co"||"9/16/2014 1:25:00 PM"|"Glimcher Realty Trust (NYSE: GRT) rated to Hold with price target $14 by MLV & Co"|"MLV & Co rated Glimcher Realty Trust (NYSE: GRT) to Hold with price target $14 with today's price of $13.73. 
+Rated Date: 9/16/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143782> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MLV & Co rated Glimcher Realty Trust (NYSE: GRT) to Hold with price target $14 with today's price of $13.73. <br />Rated Date: 9/16/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143782"">View article...</A></p></body></html>"
+|"Stifel"||"9/17/2014 9:25:00 AM"|"Tyco International, Ltd. (NYSE: TYC) rated to Hold with price target $48 by Stifel"|"Stifel rated Tyco International, Ltd. (NYSE: TYC) to Hold with price target $48
+Rated Date: 9/17/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143811> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Tyco International, Ltd. (NYSE: TYC) to Hold with price target $48<br />Rated Date: 9/17/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143811"">View article...</A></p></body></html>"
+|"Furey Research Partners"||"9/17/2014 9:25:00 AM"|"CONSTANT CONTACT INC (NASDAQ: CTCT) rated to Buy with price target $40 by Furey Research Partners"|"Furey Research Partners rated CONSTANT CONTACT INC (NASDAQ: CTCT) to Buy with price target $40. 
+Rated Date: 9/17/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143810> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Furey Research Partners rated CONSTANT CONTACT INC (NASDAQ: CTCT) to Buy with price target $40. <br />Rated Date: 9/17/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143810"">View article...</A></p></body></html>"
+|"Northland Capital"||"9/17/2014 8:25:00 AM"|"Viper Energy Partners Lp. (NASDAQ: VNOM) rated to Market Perform with price target $32 by Northland Capital"|"Northland Capital rated Viper Energy Partners Lp. (NASDAQ: VNOM) to Market Perform with price target $32
+Rated Date: 9/17/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143809> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Northland Capital rated Viper Energy Partners Lp. (NASDAQ: VNOM) to Market Perform with price target $32<br />Rated Date: 9/17/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143809"">View article...</A></p></body></html>"
+|"Stifel"||"9/17/2014 8:25:00 AM"|"Danaher Corporation (NYSE: DHR) rated to Buy with price target $90 by Stifel"|"Stifel rated Danaher Corporation (NYSE: DHR) to Buy with price target $90. 
+Rated Date: 9/17/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143804> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Danaher Corporation (NYSE: DHR) to Buy with price target $90. <br />Rated Date: 9/17/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143804"">View article...</A></p></body></html>"
+|"Stifel"||"9/17/2014 8:25:00 AM"|"Emerson Electric Company (NYSE: EMR) rated to Buy with price target $81 by Stifel"|"Stifel rated Emerson Electric Company (NYSE: EMR) to Buy with price target $81. 
+Rated Date: 9/17/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143802> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Emerson Electric Company (NYSE: EMR) to Buy with price target $81. <br />Rated Date: 9/17/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143802"">View article...</A></p></body></html>"
+|"Stifel"||"9/17/2014 8:25:00 AM"|"General Electric Company (NYSE: GE) rated to Buy with price target $30 by Stifel"|"Stifel rated General Electric Company (NYSE: GE) to Buy with price target $30
+Rated Date: 9/17/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143801> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated General Electric Company (NYSE: GE) to Buy with price target $30<br />Rated Date: 9/17/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143801"">View article...</A></p></body></html>"
+|"Stifel"||"9/17/2014 8:25:00 AM"|"Ingersoll-rand Company (NYSE: IR) rated to Hold with price target $63 by Stifel"|"Stifel rated Ingersoll-rand Company (NYSE: IR) to Hold with price target $63. 
+Rated Date: 9/17/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143800> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Ingersoll-rand Company (NYSE: IR) to Hold with price target $63. <br />Rated Date: 9/17/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143800"">View article...</A></p></body></html>"
+|"Stifel"||"9/17/2014 8:25:00 AM"|"Rockwell Automation Inc (NYSE: ROK) rated to Buy with price target $140 by Stifel"|"Stifel rated Rockwell Automation Inc (NYSE: ROK) to Buy with price target $140
+Rated Date: 9/17/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143799> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Rockwell Automation Inc (NYSE: ROK) to Buy with price target $140<br />Rated Date: 9/17/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143799"">View article...</A></p></body></html>"
+|"Stifel"||"9/17/2014 8:25:00 AM"|"United Technologies Corporation (NYSE: UTX) rated to Hold with price target $118 by Stifel"|"Stifel rated United Technologies Corporation (NYSE: UTX) to Hold with price target $118. 
+Rated Date: 9/17/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143798> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated United Technologies Corporation (NYSE: UTX) to Hold with price target $118. <br />Rated Date: 9/17/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143798"">View article...</A></p></body></html>"
+|"Stifel"||"9/17/2014 8:25:00 AM"|"Oncolytics Biotech, Inc. (NASDAQ: ONCY) rated to Hold  by Stifel"|"Stifel rated Oncolytics Biotech, Inc. (NASDAQ: ONCY) to Hold
+Rated Date: 9/17/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143795> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Oncolytics Biotech, Inc. (NASDAQ: ONCY) to Hold<br />Rated Date: 9/17/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143795"">View article...</A></p></body></html>"
+|"CRT Capital"||"9/18/2014 9:25:00 AM"|"Alibaba.com (BABA) rated to Buy with price target $95 by CRT Capital"|"CRT Capital rated Alibaba.com (BABA) to Buy with price target $95
+Rated Date: 9/18/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143837> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>CRT Capital rated Alibaba.com (BABA) to Buy with price target $95<br />Rated Date: 9/18/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143837"">View article...</A></p></body></html>"
+|"Canaccord Genuity"||"9/18/2014 9:25:00 AM"|"MEDIVATION INC (NASDAQ: MDVN) rated to Buy with price target $132 by Canaccord Genuity"|"Canaccord Genuity rated MEDIVATION INC (NASDAQ: MDVN) to Buy with price target $132
+Rated Date: 9/18/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143835> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Canaccord Genuity rated MEDIVATION INC (NASDAQ: MDVN) to Buy with price target $132<br />Rated Date: 9/18/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143835"">View article...</A></p></body></html>"
+|"Telsey Advisory Group"||"9/18/2014 8:25:00 AM"|"Pier 1 Imports, Inc. (NYSE: PIR) rated to Market Perform with price target $15 by Telsey Advisory Group"|"Telsey Advisory Group rated Pier 1 Imports, Inc. (NYSE: PIR) to Market Perform with price target $15
+Rated Date: 9/18/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143833> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Telsey Advisory Group rated Pier 1 Imports, Inc. (NYSE: PIR) to Market Perform with price target $15<br />Rated Date: 9/18/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143833"">View article...</A></p></body></html>"
+|"Needham"||"9/18/2014 8:25:00 AM"|"Oncolytics Biotech, Inc. (NASDAQ: ONCY) rated to Buy with price target $4 by Needham"|"Needham rated Oncolytics Biotech, Inc. (NASDAQ: ONCY) to Buy with price target $4
+Rated Date: 9/18/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143831> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Needham rated Oncolytics Biotech, Inc. (NASDAQ: ONCY) to Buy with price target $4<br />Rated Date: 9/18/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143831"">View article...</A></p></body></html>"
+|"Mizuho"||"9/18/2014 8:25:00 AM"|"Hudson Pacific Properties Inc (NYSE: HPP) rated to Neutral with price target $27 by Mizuho"|"Mizuho rated Hudson Pacific Properties Inc (NYSE: HPP) to Neutral with price target $27. 
+Rated Date: 9/18/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143828> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Mizuho rated Hudson Pacific Properties Inc (NYSE: HPP) to Neutral with price target $27. <br />Rated Date: 9/18/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143828"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/18/2014 8:25:00 AM"|"Novatel Wireless, Inc. (NASDAQ: NVTL) rated to Buy with price target $4 by HC Wainwright"|"HC Wainwright rated Novatel Wireless, Inc. (NASDAQ: NVTL) to Buy with price target $4
+Rated Date: 9/18/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143827> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated Novatel Wireless, Inc. (NASDAQ: NVTL) to Buy with price target $4<br />Rated Date: 9/18/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143827"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/18/2014 8:25:00 AM"|"Fusion Telecommunications Int'l, Inc. (NASDAQ: FSNN) rated to Buy with price target $6 by HC Wainwright"|"HC Wainwright rated Fusion Telecommunications Int'l, Inc. (NASDAQ: FSNN) to Buy with price target $6. 
+Rated Date: 9/18/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143826> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated Fusion Telecommunications Int'l, Inc. (NASDAQ: FSNN) to Buy with price target $6. <br />Rated Date: 9/18/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143826"">View article...</A></p></body></html>"
+|"B. Riley & Co"||"9/18/2014 8:25:00 AM"|"Vince Holding Corp. Common Stoc (NYSE: VNCE) rated to Buy with price target $44 by B. Riley & Co"|"B. Riley & Co rated Vince Holding Corp. Common Stoc (NYSE: VNCE) to Buy with price target $44
+Rated Date: 9/18/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143825> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>B. Riley & Co rated Vince Holding Corp. Common Stoc (NYSE: VNCE) to Buy with price target $44<br />Rated Date: 9/18/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143825"">View article...</A></p></body></html>"
+|"Argus"||"9/18/2014 8:25:00 AM"|"DISCOVERY COMM A (NASDAQ: DISCA) rated to Buy with price target $51 by Argus"|"Argus rated DISCOVERY COMM A (NASDAQ: DISCA) to Buy with price target $51. 
+Rated Date: 9/18/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143824> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Argus rated DISCOVERY COMM A (NASDAQ: DISCA) to Buy with price target $51. <br />Rated Date: 9/18/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143824"">View article...</A></p></body></html>"
+|"Stifel"||"9/18/2014 8:25:00 AM"|"Boston Properties, Inc. (NYSE: BXP) rated to Buy with price target $130 by Stifel"|"Stifel rated Boston Properties, Inc. (NYSE: BXP) to Buy with price target $130. 
+Rated Date: 9/18/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143822> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Boston Properties, Inc. (NYSE: BXP) to Buy with price target $130. <br />Rated Date: 9/18/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143822"">View article...</A></p></body></html>"
+|"Clarkson Capital"||"9/18/2014 10:25:00 AM"|"Seaspan Corporation (NYSE: SSW) rated to Buy  by Clarkson Capital"|"Clarkson Capital rated Seaspan Corporation (NYSE: SSW) to Buy. 
+Rated Date: 9/18/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143848> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Clarkson Capital rated Seaspan Corporation (NYSE: SSW) to Buy. <br />Rated Date: 9/18/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143848"">View article...</A></p></body></html>"
+|"Clarkson Capital"||"9/18/2014 10:25:00 AM"|"Stealthgas, Inc. (NASDAQ: GASS) rated to Hold  by Clarkson Capital"|"Clarkson Capital rated Stealthgas, Inc. (NASDAQ: GASS) to Hold. 
+Rated Date: 9/18/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143846> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Clarkson Capital rated Stealthgas, Inc. (NASDAQ: GASS) to Hold. <br />Rated Date: 9/18/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143846"">View article...</A></p></body></html>"
+|"Clarkson Capital"||"9/18/2014 10:25:00 AM"|"Teekay Shipping Corporation (NYSE: TK) rated to Buy  by Clarkson Capital"|"Clarkson Capital rated Teekay Shipping Corporation (NYSE: TK) to Buy
+Rated Date: 9/18/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143845> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Clarkson Capital rated Teekay Shipping Corporation (NYSE: TK) to Buy<br />Rated Date: 9/18/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143845"">View article...</A></p></body></html>"
+|"Clarkson Capital"||"9/18/2014 10:25:00 AM"|"Tsakos Energy Navigation Ltd (NYSE: TNP) rated to Buy  by Clarkson Capital"|"Clarkson Capital rated Tsakos Energy Navigation Ltd (NYSE: TNP) to Buy. 
+Rated Date: 9/18/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143844> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Clarkson Capital rated Tsakos Energy Navigation Ltd (NYSE: TNP) to Buy. <br />Rated Date: 9/18/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143844"">View article...</A></p></body></html>"
+|"Clarkson Capital"||"9/18/2014 10:25:00 AM"|"Knightsbridge Tankers, (NASDAQ: VLCCF) rated to Buy  by Clarkson Capital"|"Clarkson Capital rated Knightsbridge Tankers, (NASDAQ: VLCCF) to Buy
+Rated Date: 9/18/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143843> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Clarkson Capital rated Knightsbridge Tankers, (NASDAQ: VLCCF) to Buy<br />Rated Date: 9/18/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143843"">View article...</A></p></body></html>"
+|"Clarkson Capital"||"9/18/2014 10:25:00 AM"|"NAVIGATOR HOLDINGS (NYSE: NVGS) rated to Buy  by Clarkson Capital"|"Clarkson Capital rated NAVIGATOR HOLDINGS (NYSE: NVGS) to Buy with today's price of $31.65. 
+Rated Date: 9/18/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143842> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Clarkson Capital rated NAVIGATOR HOLDINGS (NYSE: NVGS) to Buy with today's price of $31.65. <br />Rated Date: 9/18/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143842"">View article...</A></p></body></html>"
+|"Clarkson Capital"||"9/18/2014 10:25:00 AM"|"Nordic American Tanker Shipping (NYSE: NAT) rated to Buy  by Clarkson Capital"|"Clarkson Capital rated Nordic American Tanker Shipping (NYSE: NAT) to Buy
+Rated Date: 9/18/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143841> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Clarkson Capital rated Nordic American Tanker Shipping (NYSE: NAT) to Buy<br />Rated Date: 9/18/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143841"">View article...</A></p></body></html>"
+|"Clarkson Capital"||"9/18/2014 10:25:00 AM"|"Ship Finance International (NYSE: SFL) rated to Buy  by Clarkson Capital"|"Clarkson Capital rated Ship Finance International (NYSE: SFL) to Buy. 
+Rated Date: 9/18/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143840> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Clarkson Capital rated Ship Finance International (NYSE: SFL) to Buy. <br />Rated Date: 9/18/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143840"">View article...</A></p></body></html>"
+|"Clarkson Capital"||"9/18/2014 10:25:00 AM"|"TEEKAY TANKERS LTD (NYSE: TNK) rated to Hold  by Clarkson Capital"|"Clarkson Capital rated TEEKAY TANKERS LTD (NYSE: TNK) to Hold
+Rated Date: 9/18/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143839> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Clarkson Capital rated TEEKAY TANKERS LTD (NYSE: TNK) to Hold<br />Rated Date: 9/18/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143839"">View article...</A></p></body></html>"
+|"Dougherty & Company  "||"9/18/2014 11:25:00 AM"|"Sajan, Inc. (NASDAQ: SAJA) rated to Buy with price target $8.25 by Dougherty & Company  "|"Dougherty & Company rated Sajan, Inc. (NASDAQ: SAJA) to Buy with price target $8.25
+Rated Date: 9/18/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143851> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Dougherty & Company   rated Sajan, Inc. (NASDAQ: SAJA) to Buy with price target $8.25<br />Rated Date: 9/18/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143851"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"9/19/2014 3:25:00 PM"|"American Eagle Outfitters Inc (NYSE: AEO) rated to Buy with price target $17 by Topeka Capital Markets"|"Topeka Capital Markets rated American Eagle Outfitters Inc (NYSE: AEO) to Buy with price target $17 with today's price of $14.44. 
+Rated Date: 9/19/2014 3:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143886> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated American Eagle Outfitters Inc (NYSE: AEO) to Buy with price target $17 with today's price of $14.44. <br />Rated Date: 9/19/2014 3:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143886"">View article...</A></p></body></html>"
+|"BB&T Capital Mkts"||"9/19/2014 10:25:00 AM"|"Standex International Corporation (NYSE: SXI) rated to Hold  by BB&T Capital Mkts"|"BB&T Capital Mkts rated Standex International Corporation (NYSE: SXI) to Hold. 
+Rated Date: 9/19/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143882> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>BB&T Capital Mkts rated Standex International Corporation (NYSE: SXI) to Hold. <br />Rated Date: 9/19/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143882"">View article...</A></p></body></html>"
+|"CRT Capital"||"9/19/2014 9:25:00 AM"|"Restoration Hardware Holdings (NYSE: RH) rated to Buy with price target $90 by CRT Capital"|"CRT Capital rated Restoration Hardware Holdings (NYSE: RH) to Buy with price target $90. 
+Rated Date: 9/19/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143878> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>CRT Capital rated Restoration Hardware Holdings (NYSE: RH) to Buy with price target $90. <br />Rated Date: 9/19/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143878"">View article...</A></p></body></html>"
+|"Roth Capital"||"9/19/2014 8:25:00 AM"|"Ideal Power Inc. (NASDAQ: IPWR) rated to Buy with price target $17 by Roth Capital"|"Roth Capital rated Ideal Power Inc. (NASDAQ: IPWR) to Buy with price target $17
+Rated Date: 9/19/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143869> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Roth Capital rated Ideal Power Inc. (NASDAQ: IPWR) to Buy with price target $17<br />Rated Date: 9/19/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143869"">View article...</A></p></body></html>"
+|"Roth Capital"||"9/19/2014 8:25:00 AM"|"Cymabay Therapeutics (NASDAQ: CBAY) rated to Buy with price target $14 by Roth Capital"|"Roth Capital rated Cymabay Therapeutics (NASDAQ: CBAY) to Buy with price target $14. 
+Rated Date: 9/19/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143868> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Roth Capital rated Cymabay Therapeutics (NASDAQ: CBAY) to Buy with price target $14. <br />Rated Date: 9/19/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143868"">View article...</A></p></body></html>"
+|"Brean Capital"||"9/19/2014 8:25:00 AM"|"Xcel Brands Inc. (OTCBB: XELB) rated to Buy with price target $7 by Brean Capital"|"Brean Capital rated Xcel Brands Inc. (OTCBB: XELB) to Buy with price target $7
+Rated Date: 9/19/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143867> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Brean Capital rated Xcel Brands Inc. (OTCBB: XELB) to Buy with price target $7<br />Rated Date: 9/19/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143867"">View article...</A></p></body></html>"
+|"MLV & Co"||"9/19/2014 8:25:00 AM"|"Northstar Asset Management Grou (NYSE: NSAM) rated to Hold with price target $20.50 by MLV & Co"|"MLV & Co rated Northstar Asset Management Grou (NYSE: NSAM) to Hold with price target $20.50. 
+Rated Date: 9/19/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143866> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MLV & Co rated Northstar Asset Management Grou (NYSE: NSAM) to Hold with price target $20.50. <br />Rated Date: 9/19/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143866"">View article...</A></p></body></html>"
+|"Chardan Capital Markets"||"9/19/2014 8:25:00 AM"|"Abtech Holdings Inc (OTCBB: ABHD) rated to Buy with price target $1.10 by Chardan Capital Markets"|"Chardan Capital Markets rated Abtech Holdings Inc (OTCBB: ABHD) to Buy with price target $1.10
+Rated Date: 9/19/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143865> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Chardan Capital Markets rated Abtech Holdings Inc (OTCBB: ABHD) to Buy with price target $1.10<br />Rated Date: 9/19/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143865"">View article...</A></p></body></html>"
+|"FBR Capital"||"9/19/2014 8:25:00 AM"|"National Cinemedia, Inc. (NASDAQ: NCMI) rated to Outperform with price target $17 by FBR Capital"|"FBR Capital rated National Cinemedia, Inc. (NASDAQ: NCMI) to Outperform with price target $17
+Rated Date: 9/19/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143861> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>FBR Capital rated National Cinemedia, Inc. (NASDAQ: NCMI) to Outperform with price target $17<br />Rated Date: 9/19/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143861"">View article...</A></p></body></html>"
+|"Gilford Securities"||"9/18/2014 1:25:00 PM"|"VIRNETX HOLDING CORP (AMEX: VHC) rated to Neutral  by Gilford Securities"|"Gilford Securities rated VIRNETX HOLDING CORP (AMEX: VHC) to Neutral. 
+Rated Date: 9/18/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143856> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Gilford Securities rated VIRNETX HOLDING CORP (AMEX: VHC) to Neutral. <br />Rated Date: 9/18/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143856"">View article...</A></p></body></html>"
+|"William Blair"||"9/22/2014 2:25:00 PM"|"Inventure Foods Inc. (NASDAQ: SNAK) rated to Outperform  by William Blair"|"William Blair rated Inventure Foods Inc. (NASDAQ: SNAK) to Outperform
+Rated Date: 9/22/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143925> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>William Blair rated Inventure Foods Inc. (NASDAQ: SNAK) to Outperform<br />Rated Date: 9/22/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143925"">View article...</A></p></body></html>"
+|"William Blair"||"9/22/2014 2:25:00 PM"|"Veeva Systems Inc. (NYSE: VEEV) rated to Outperform  by William Blair"|"William Blair rated Veeva Systems Inc. (NYSE: VEEV) to Outperform. 
+Rated Date: 9/22/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143924> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>William Blair rated Veeva Systems Inc. (NYSE: VEEV) to Outperform. <br />Rated Date: 9/22/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143924"">View article...</A></p></body></html>"
+|"Barclays"||"9/22/2014 12:25:00 PM"|"Mallinckrodt Plc Ordinary Share (NYSE: MNK) rated to Overweight with price target $105 by Barclays"|"Barclays rated Mallinckrodt Plc Ordinary Share (NYSE: MNK) to Overweight with price target $105
+Rated Date: 9/22/2014 12:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143921> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Barclays rated Mallinckrodt Plc Ordinary Share (NYSE: MNK) to Overweight with price target $105<br />Rated Date: 9/22/2014 12:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143921"">View article...</A></p></body></html>"
+|"MKM Partners"||"9/22/2014 11:25:00 AM"|"Sigma-aldrich Corporation (NASDAQ: SIAL) rated to Buy with price target $140 by MKM Partners"|"MKM Partners rated Sigma-aldrich Corporation (NASDAQ: SIAL) to Buy with price target $140
+Rated Date: 9/22/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143917> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MKM Partners rated Sigma-aldrich Corporation (NASDAQ: SIAL) to Buy with price target $140<br />Rated Date: 9/22/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143917"">View article...</A></p></body></html>"
+|"MKM Partners"||"9/22/2014 11:25:00 AM"|"Alibaba.com (BABA) rated to Buy with price target $125 by MKM Partners"|"MKM Partners rated Alibaba.com (BABA) to Buy with price target $125. 
+Rated Date: 9/22/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143916> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MKM Partners rated Alibaba.com (BABA) to Buy with price target $125. <br />Rated Date: 9/22/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143916"">View article...</A></p></body></html>"
+|"Gabelli & Co"||"9/22/2014 10:25:00 AM"|"Hawaiian Electric Industries, Inc. (NYSE: HE) rated to Buy with price target $34 by Gabelli & Co"|"Gabelli & Co rated Hawaiian Electric Industries, Inc. (NYSE: HE) to Buy with price target $34 with today's price of $26.15. 
+Rated Date: 9/22/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143910> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Gabelli & Co rated Hawaiian Electric Industries, Inc. (NYSE: HE) to Buy with price target $34 with today's price of $26.15. <br />Rated Date: 9/22/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143910"">View article...</A></p></body></html>"
+|"Argus"||"9/22/2014 9:25:00 AM"|"Ecolab Inc. (NYSE: ECL) rated to Buy with price target $134 by Argus"|"Argus rated Ecolab Inc. (NYSE: ECL) to Buy with price target $134. 
+Rated Date: 9/22/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143906> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Argus rated Ecolab Inc. (NYSE: ECL) to Buy with price target $134. <br />Rated Date: 9/22/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143906"">View article...</A></p></body></html>"
+|"Sterne Agee"||"9/22/2014 9:25:00 AM"|"Carbo Ceramics, Inc. (NYSE: CRR) rated to Neutral  by Sterne Agee"|"Sterne Agee rated Carbo Ceramics, Inc. (NYSE: CRR) to Neutral. 
+Rated Date: 9/22/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143904> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Sterne Agee rated Carbo Ceramics, Inc. (NYSE: CRR) to Neutral. <br />Rated Date: 9/22/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143904"">View article...</A></p></body></html>"
+|"Roth Capital"||"9/22/2014 8:25:00 AM"|"BLUE HOLDINGS INC (NASDAQ: BLUE) rated to Buy with price target $50 by Roth Capital"|"Roth Capital rated BLUE HOLDINGS INC (NASDAQ: BLUE) to Buy with price target $50. 
+Rated Date: 9/22/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143896> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Roth Capital rated BLUE HOLDINGS INC (NASDAQ: BLUE) to Buy with price target $50. <br />Rated Date: 9/22/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143896"">View article...</A></p></body></html>"
+|"Northland Capital"||"9/22/2014 8:25:00 AM"|"Primo Water Corporation (NASDAQ: PRMW) rated to Outperform with price target $6.50 by Northland Capital"|"Northland Capital rated Primo Water Corporation (NASDAQ: PRMW) to Outperform with price target $6.50
+Rated Date: 9/22/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143895> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Northland Capital rated Primo Water Corporation (NASDAQ: PRMW) to Outperform with price target $6.50<br />Rated Date: 9/22/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143895"">View article...</A></p></body></html>"
+|"Janney"||"9/22/2014 8:25:00 AM"|"Palo Alto Networks Inc. (NYSE: PANW) rated to Buy with price target $125 by Janney"|"Janney rated Palo Alto Networks Inc. (NYSE: PANW) to Buy with price target $125. 
+Rated Date: 9/22/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143894> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Janney rated Palo Alto Networks Inc. (NYSE: PANW) to Buy with price target $125. <br />Rated Date: 9/22/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143894"">View article...</A></p></body></html>"
+|"Canaccord Genuity"||"9/23/2014 10:25:00 AM"|"Canadian Solar Inc. (NASDAQ: CSIQ) rated to Buy with price target $48 by Canaccord Genuity"|"Canaccord Genuity rated Canadian Solar Inc. (NASDAQ: CSIQ) to Buy with price target $48 with today's price of $38.68. 
+Rated Date: 9/23/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143950> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Canaccord Genuity rated Canadian Solar Inc. (NASDAQ: CSIQ) to Buy with price target $48 with today's price of $38.68. <br />Rated Date: 9/23/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143950"">View article...</A></p></body></html>"
+|"Canaccord Genuity"||"9/23/2014 10:25:00 AM"|"Mks Instruments, Inc. (NASDAQ: MKSI) rated to Buy with price target $39 by Canaccord Genuity"|"Canaccord Genuity rated Mks Instruments, Inc. (NASDAQ: MKSI) to Buy with price target $39
+Rated Date: 9/23/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143949> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Canaccord Genuity rated Mks Instruments, Inc. (NASDAQ: MKSI) to Buy with price target $39<br />Rated Date: 9/23/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143949"">View article...</A></p></body></html>"
+|"Telsey Advisory Group"||"9/23/2014 9:25:00 AM"|"Ascena Retail Group (NASDAQ: ASNA) rated to Market Perform with price target $16 by Telsey Advisory Group"|"Telsey Advisory Group rated Ascena Retail Group (NASDAQ: ASNA) to Market Perform with price target $16. 
+Rated Date: 9/23/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143948> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Telsey Advisory Group rated Ascena Retail Group (NASDAQ: ASNA) to Market Perform with price target $16. <br />Rated Date: 9/23/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143948"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/23/2014 9:25:00 AM"|"Matthews International Corporation (NASDAQ: MATW) rated to Buy with price target $58 by Wunderlich"|"Wunderlich rated Matthews International Corporation (NASDAQ: MATW) to Buy with price target $58
+Rated Date: 9/23/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143947> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Matthews International Corporation (NASDAQ: MATW) to Buy with price target $58<br />Rated Date: 9/23/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143947"">View article...</A></p></body></html>"
+|"Ardour Capital"||"9/23/2014 9:25:00 AM"|"HONG KONG HIGHPOWER (NASDAQ: HPJ) rated to Buy with price target $15 by Ardour Capital"|"Ardour Capital rated HONG KONG HIGHPOWER (NASDAQ: HPJ) to Buy with price target $15
+Rated Date: 9/23/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143945> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Ardour Capital rated HONG KONG HIGHPOWER (NASDAQ: HPJ) to Buy with price target $15<br />Rated Date: 9/23/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143945"">View article...</A></p></body></html>"
+|"Telsey Advisory Group"||"9/23/2014 9:25:00 AM"|"Interpublic Group Of Companies, Inc.  (NYSE: IPG) rated to Outperform with price target $21 by Telsey Advisory Group"|"Telsey Advisory Group rated Interpublic Group Of Companies, Inc. (NYSE: IPG) to Outperform with price target $21. 
+Rated Date: 9/23/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143944> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Telsey Advisory Group rated Interpublic Group Of Companies, Inc.  (NYSE: IPG) to Outperform with price target $21. <br />Rated Date: 9/23/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143944"">View article...</A></p></body></html>"
+|"Singular Research"||"9/23/2014 4:25:00 PM"|"Checkpoint Systms, Inc. (NYSE: CKP) rated to Buy with price target $18 by Singular Research"|"Singular Research rated Checkpoint Systms, Inc. (NYSE: CKP) to Buy with price target $18
+Rated Date: 9/23/2014 4:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143959> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Singular Research rated Checkpoint Systms, Inc. (NYSE: CKP) to Buy with price target $18<br />Rated Date: 9/23/2014 4:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143959"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/23/2014 1:25:00 PM"|"Dynegy Inc. (NYSE: DYN) rated to Buy with price target $40 by Deutsche Bank"|"Deutsche Bank rated Dynegy Inc. (NYSE: DYN) to Buy with price target $40
+Rated Date: 9/23/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143957> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank rated Dynegy Inc. (NYSE: DYN) to Buy with price target $40<br />Rated Date: 9/23/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143957"">View article...</A></p></body></html>"
+|"Tigress Financial"||"9/23/2014 11:25:00 AM"|"Kaiser Aluminum Corporation (NASDAQ: KALU) rated to Buy  by Tigress Financial"|"Tigress Financial rated Kaiser Aluminum Corporation (NASDAQ: KALU) to Buy with today's price of $78.94. 
+Rated Date: 9/23/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143954> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Tigress Financial rated Kaiser Aluminum Corporation (NASDAQ: KALU) to Buy with today's price of $78.94. <br />Rated Date: 9/23/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143954"">View article...</A></p></body></html>"
+|"Tigress Financial"||"9/23/2014 11:25:00 AM"|"Alcoa Inc. (NYSE: AA) rated to Buy  by Tigress Financial"|"Tigress Financial rated Alcoa Inc. (NYSE: AA) to Buy
+Rated Date: 9/23/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143953> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Tigress Financial rated Alcoa Inc. (NYSE: AA) to Buy<br />Rated Date: 9/23/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143953"">View article...</A></p></body></html>"
+|"Tigress Financial"||"9/23/2014 11:25:00 AM"|"Freeport-mcmoran Copper & Gold, Inc. (NYSE: FCX) rated to Neutral  by Tigress Financial"|"Tigress Financial rated Freeport-mcmoran Copper & Gold, Inc. (NYSE: FCX) to Neutral. 
+Rated Date: 9/23/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143952> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Tigress Financial rated Freeport-mcmoran Copper & Gold, Inc. (NYSE: FCX) to Neutral. <br />Rated Date: 9/23/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143952"">View article...</A></p></body></html>"
+|"Tigress Financial"||"9/23/2014 11:25:00 AM"|"Trw Automotive Holdings Corporation (NYSE: TRW) rated to Neutral  by Tigress Financial"|"Tigress Financial rated Trw Automotive Holdings Corporation (NYSE: TRW) to Neutral
+Rated Date: 9/23/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143951> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Tigress Financial rated Trw Automotive Holdings Corporation (NYSE: TRW) to Neutral<br />Rated Date: 9/23/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143951"">View article...</A></p></body></html>"
+|"Telsey Advisory Group"||"9/23/2014 9:25:00 AM"|"Omnicom Group Inc. (NYSE: OMC) rated to Market Perform with price target $78.50 by Telsey Advisory Group"|"Telsey Advisory Group rated Omnicom Group Inc. (NYSE: OMC) to Market Perform with price target $78.50
+Rated Date: 9/23/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143943> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Telsey Advisory Group rated Omnicom Group Inc. (NYSE: OMC) to Market Perform with price target $78.50<br />Rated Date: 9/23/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143943"">View article...</A></p></body></html>"
+|"Stifel"||"9/23/2014 8:25:00 AM"|"Sotheby's Holdings, Inc. (NYSE: BID) rated to Buy with price target $50 by Stifel"|"Stifel rated Sotheby's Holdings, Inc. (NYSE: BID) to Buy with price target $50
+Rated Date: 9/23/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143939> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Sotheby's Holdings, Inc. (NYSE: BID) to Buy with price target $50<br />Rated Date: 9/23/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143939"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"9/23/2014 8:25:00 AM"|"Pandora Media Inc (NYSE: P) rated to Hold with price target $30 by Topeka Capital Markets"|"Topeka Capital Markets rated Pandora Media Inc (NYSE: P) to Hold with price target $30
+Rated Date: 9/23/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143935> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated Pandora Media Inc (NYSE: P) to Hold with price target $30<br />Rated Date: 9/23/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143935"">View article...</A></p></body></html>"
+|"Telsey Advisory Group"||"9/24/2014 11:25:00 AM"|"Bed Bath & Beyond Inc. (NASDAQ: BBBY) rated to Underperform with price target $65 by Telsey Advisory Group"|"Telsey Advisory Group rated Bed Bath & Beyond Inc. (NASDAQ: BBBY) to Underperform with price target $65
+Rated Date: 9/24/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143975> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Telsey Advisory Group rated Bed Bath & Beyond Inc. (NASDAQ: BBBY) to Underperform with price target $65<br />Rated Date: 9/24/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143975"">View article...</A></p></body></html>"
+|"MKM Partners"||"9/24/2014 11:25:00 AM"|"Rf Micro Devices, Inc. (NASDAQ: RFMD) rated to Buy with price target $15 by MKM Partners"|"MKM Partners rated Rf Micro Devices, Inc. (NASDAQ: RFMD) to Buy with price target $15 with today's price of $11.95. 
+Rated Date: 9/24/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143974> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MKM Partners rated Rf Micro Devices, Inc. (NASDAQ: RFMD) to Buy with price target $15 with today's price of $11.95. <br />Rated Date: 9/24/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143974"">View article...</A></p></body></html>"
+|"MKM Partners"||"9/24/2014 11:25:00 AM"|"Skyworks Solutions, Inc. (NASDAQ: SWKS) rated to Buy with price target $68 by MKM Partners"|"MKM Partners rated Skyworks Solutions, Inc. (NASDAQ: SWKS) to Buy with price target $68
+Rated Date: 9/24/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143973> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MKM Partners rated Skyworks Solutions, Inc. (NASDAQ: SWKS) to Buy with price target $68<br />Rated Date: 9/24/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143973"">View article...</A></p></body></html>"
+|"CRT Capital"||"9/24/2014 9:25:00 AM"|"Travelport Worldwide (TVPT) rated to Buy with price target $18 by CRT Capital"|"CRT Capital rated Travelport Worldwide (TVPT) to Buy with price target $18. 
+Rated Date: 9/24/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143972> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>CRT Capital rated Travelport Worldwide (TVPT) to Buy with price target $18. <br />Rated Date: 9/24/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143972"">View article...</A></p></body></html>"
+|"Northland Capital"||"9/24/2014 8:25:00 AM"|"Maxwell Technologies, Inc. (NASDAQ: MXWL) rated to Outperform with price target $13 by Northland Capital"|"Northland Capital rated Maxwell Technologies, Inc. (NASDAQ: MXWL) to Outperform with price target $13. 
+Rated Date: 9/24/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143970> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Northland Capital rated Maxwell Technologies, Inc. (NASDAQ: MXWL) to Outperform with price target $13. <br />Rated Date: 9/24/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143970"">View article...</A></p></body></html>"
+|"Brean Capital"||"9/24/2014 8:25:00 AM"|"WaferGen Bio-Systems (NASDAQ: WGBS) rated to Buy with price target $11 by Brean Capital"|"Brean Capital rated WaferGen Bio-Systems (NASDAQ: WGBS) to Buy with price target $11. 
+Rated Date: 9/24/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143966> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Brean Capital rated WaferGen Bio-Systems (NASDAQ: WGBS) to Buy with price target $11. <br />Rated Date: 9/24/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143966"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"9/24/2014 8:25:00 AM"|"Ims Health Holdings Inc. (NYSE: IMS) rated to Buy with price target $30 by Topeka Capital Markets"|"Topeka Capital Markets rated Ims Health Holdings Inc. (NYSE: IMS) to Buy with price target $30
+Rated Date: 9/24/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143965> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated Ims Health Holdings Inc. (NYSE: IMS) to Buy with price target $30<br />Rated Date: 9/24/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143965"">View article...</A></p></body></html>"
+|"B. Riley & Co"||"9/24/2014 8:25:00 AM"|"Farmer Brothers Company (NASDAQ: FARM) rated to Buy with price target $31 by B. Riley & Co"|"B. Riley & Co rated Farmer Brothers Company (NASDAQ: FARM) to Buy with price target $31. 
+Rated Date: 9/24/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143964> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>B. Riley & Co rated Farmer Brothers Company (NASDAQ: FARM) to Buy with price target $31. <br />Rated Date: 9/24/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143964"">View article...</A></p></body></html>"
+|"Clarkson Capital"||"9/25/2014 12:25:00 PM"|"Cone Midstream Partners (CNNX) rated to Buy with price target $27 by Clarkson Capital"|"Clarkson Capital rated Cone Midstream Partners (CNNX) to Buy with price target $27. 
+Rated Date: 9/25/2014 12:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143996> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Clarkson Capital rated Cone Midstream Partners (CNNX) to Buy with price target $27. <br />Rated Date: 9/25/2014 12:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143996"">View article...</A></p></body></html>"
+|"Euro Pacific Capital"||"9/25/2014 10:25:00 AM"|"Dorian Lpg Ltd. (NYSE: LPG) rated to Buy with price target $25 by Euro Pacific Capital"|"Euro Pacific Capital rated Dorian Lpg Ltd. (NYSE: LPG) to Buy with price target $25
+Rated Date: 9/25/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143993> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Euro Pacific Capital rated Dorian Lpg Ltd. (NYSE: LPG) to Buy with price target $25<br />Rated Date: 9/25/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143993"">View article...</A></p></body></html>"
+|"Topeka Capital Markets"||"9/25/2014 9:25:00 AM"|"Viacom, Inc. (NASDAQ: VIAB) rated to Hold with price target $84 by Topeka Capital Markets"|"Topeka Capital Markets rated Viacom, Inc. (NASDAQ: VIAB) to Hold with price target $84
+Rated Date: 9/25/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143991> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Topeka Capital Markets rated Viacom, Inc. (NASDAQ: VIAB) to Hold with price target $84<br />Rated Date: 9/25/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143991"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/25/2014 8:25:00 AM"|"Finjan Holdings Inc. (NASDAQ: FNJN) rated to Buy with price target $5 by HC Wainwright"|"HC Wainwright rated Finjan Holdings Inc. (NASDAQ: FNJN) to Buy with price target $5. 
+Rated Date: 9/25/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143982> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated Finjan Holdings Inc. (NASDAQ: FNJN) to Buy with price target $5. <br />Rated Date: 9/25/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143982"">View article...</A></p></body></html>"
+|"Stifel"||"9/26/2014 8:25:00 AM"|"Norwegian Cruise Line (NASDAQ: NCLH) rated to Buy with price target $48 by Stifel"|"Stifel rated Norwegian Cruise Line (NASDAQ: NCLH) to Buy with price target $48
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144017> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Norwegian Cruise Line (NASDAQ: NCLH) to Buy with price target $48<br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144017"">View article...</A></p></body></html>"
+|"Telsey Advisory Group"||"9/26/2014 8:25:00 AM"|"Nike, Inc. (NYSE: NKE) rated to Outperform with price target $96 by Telsey Advisory Group"|"Telsey Advisory Group rated Nike, Inc. (NYSE: NKE) to Outperform with price target $96
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144015> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Telsey Advisory Group rated Nike, Inc. (NYSE: NKE) to Outperform with price target $96<br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144015"">View article...</A></p></body></html>"
+|"Roth Capital"||"9/26/2014 8:25:00 AM"|"Radiant Logistics, Inc. (AMEX: RLGT) rated to Buy with price target $4 by Roth Capital"|"Roth Capital rated Radiant Logistics, Inc. (AMEX: RLGT) to Buy with price target $4
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144013> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Roth Capital rated Radiant Logistics, Inc. (AMEX: RLGT) to Buy with price target $4<br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144013"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/26/2014 8:25:00 AM"|"Performance Sports Group Ltd. (NYSE: PSG) rated to Buy with price target $24 by Wunderlich"|"Wunderlich rated Performance Sports Group Ltd. (NYSE: PSG) to Buy with price target $24. 
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144012> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Performance Sports Group Ltd. (NYSE: PSG) to Buy with price target $24. <br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144012"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/26/2014 8:25:00 AM"|"Harley-davidson, Inc. (NYSE: HOG) rated to Hold with price target $57 by Wunderlich"|"Wunderlich rated Harley-davidson, Inc. (NYSE: HOG) to Hold with price target $57
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144011> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Harley-davidson, Inc. (NYSE: HOG) to Hold with price target $57<br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144011"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/26/2014 8:25:00 AM"|"Escalade, Incorporated (NASDAQ: ESCA) rated to Buy with price target $16 by Wunderlich"|"Wunderlich rated Escalade, Incorporated (NASDAQ: ESCA) to Buy with price target $16. 
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144010> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Escalade, Incorporated (NASDAQ: ESCA) to Buy with price target $16. <br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144010"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/26/2014 8:25:00 AM"|"Brunswick Corporation (NYSE: BC) rated to Buy with price target $57 by Wunderlich"|"Wunderlich rated Brunswick Corporation (NYSE: BC) to Buy with price target $57
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144009> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich rated Brunswick Corporation (NYSE: BC) to Buy with price target $57<br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144009"">View article...</A></p></body></html>"
+|"Stifel"||"9/26/2014 8:25:00 AM"|"Veriphone Holdings, Inc. (NYSE: PAY) rated to Hold  by Stifel"|"Stifel rated Veriphone Holdings, Inc. (NYSE: PAY) to Hold. 
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144008> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Veriphone Holdings, Inc. (NYSE: PAY) to Hold. <br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144008"">View article...</A></p></body></html>"
+|"Stifel"||"9/26/2014 8:25:00 AM"|"Erickson Air-Crane Incorporated (NASDAQ: EAC) rated to Sell  by Stifel"|"Stifel rated Erickson Air-Crane Incorporated (NASDAQ: EAC) to Sell. 
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144006> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Erickson Air-Crane Incorporated (NASDAQ: EAC) to Sell. <br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144006"">View article...</A></p></body></html>"
+|"Stifel"||"9/26/2014 8:25:00 AM"|"Textron Inc. (NYSE: TXT) rated to Buy with price target $44 by Stifel"|"Stifel rated Textron Inc. (NYSE: TXT) to Buy with price target $44
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144003> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated Textron Inc. (NYSE: TXT) to Buy with price target $44<br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144003"">View article...</A></p></body></html>"
+|"Roth Capital"||"9/26/2014 1:25:00 PM"|"AcelRx Pharmaceuticals Inc (NASDAQ: ACRX) rated to Neutral  by Roth Capital"|"Roth Capital rated AcelRx Pharmaceuticals Inc (NASDAQ: ACRX) to Neutral. 
+Rated Date: 9/26/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-144024> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Roth Capital rated AcelRx Pharmaceuticals Inc (NASDAQ: ACRX) to Neutral. <br />Rated Date: 9/26/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144024"">View article...</A></p></body></html>"
+|"Mizuho"||"9/29/2014 1:25:00 PM"|"Athlon Energy Inc. (NYSE: ATHL) rated to Neutral with price target $58.50 by Mizuho"|"Mizuho rated Athlon Energy Inc. (NYSE: ATHL) to Neutral with price target $58.50
+Rated Date: 9/29/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-144061> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Mizuho rated Athlon Energy Inc. (NYSE: ATHL) to Neutral with price target $58.50<br />Rated Date: 9/29/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144061"">View article...</A></p></body></html>"
+|"HC Wainwright"||"9/29/2014 10:25:00 AM"|"HONG KONG HIGHPOWER (NASDAQ: HPJ) rated to Buy with price target $12 by HC Wainwright"|"HC Wainwright rated HONG KONG HIGHPOWER (NASDAQ: HPJ) to Buy with price target $12
+Rated Date: 9/29/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144059> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>HC Wainwright rated HONG KONG HIGHPOWER (NASDAQ: HPJ) to Buy with price target $12<br />Rated Date: 9/29/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144059"">View article...</A></p></body></html>"
+|"MLV & Co"||"9/29/2014 10:25:00 AM"|"Redhill Biopharma Ltd. (NASDAQ: RDHL) rated to Buy with price target $27 by MLV & Co"|"MLV & Co rated Redhill Biopharma Ltd. (NASDAQ: RDHL) to Buy with price target $27. 
+Rated Date: 9/29/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144058> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MLV & Co rated Redhill Biopharma Ltd. (NASDAQ: RDHL) to Buy with price target $27. <br />Rated Date: 9/29/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144058"">View article...</A></p></body></html>"
+|"Roth Capital"||"9/29/2014 9:25:00 AM"|"Ptc Therapeutics Inc. (NASDAQ: PTCT) rated to Buy with price target $58 by Roth Capital"|"Roth Capital rated Ptc Therapeutics Inc. (NASDAQ: PTCT) to Buy with price target $58
+Rated Date: 9/29/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144057> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Roth Capital rated Ptc Therapeutics Inc. (NASDAQ: PTCT) to Buy with price target $58<br />Rated Date: 9/29/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144057"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/29/2014 9:25:00 AM"|"Google Inc Class C (NASDAQ: GOOG) rated to Outperform with price target $730 by RBC Capital Mkts"|"RBC Capital Mkts rated Google Inc Class C (NASDAQ: GOOG) to Outperform with price target $730. 
+Rated Date: 9/29/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144054> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts rated Google Inc Class C (NASDAQ: GOOG) to Outperform with price target $730. <br />Rated Date: 9/29/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144054"">View article...</A></p></body></html>"
+|"Stifel"||"9/29/2014 8:25:00 AM"|"New Source Energy Partners L.P (NYSE: NSLP) rated to Buy with price target $26 by Stifel"|"Stifel rated New Source Energy Partners L.P (NYSE: NSLP) to Buy with price target $26
+Rated Date: 9/29/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144051> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayNewCoverages?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel rated New Source Energy Partners L.P (NYSE: NSLP) to Buy with price target $26<br />Rated Date: 9/29/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144051"">View article...</A></p></body></html>"

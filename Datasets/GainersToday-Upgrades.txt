@@ -1,0 +1,708 @@
+"From (address)"|"From (display)"|"Sent on behalf of (address)"|"Date Sent"|"Subject"|"Body"|"Body HTML"
+|"JMP Securities"||"3/24/2014 8:25:00 AM"|"Yelp Inc Class A (NYSE: YELP) upgraded to Mkt Outperform  by JMP Securities"|"JMP Securities upgraded Yelp Inc Class A (NYSE: YELP) to Mkt Outperform. JMP Securities rated Yelp Inc Class A (NYSE: YELP) to Mkt Perform on 03/19/2013, when the price was $24.59. 
+Rated Date: 3/24/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-141370> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>JMP Securities upgraded Yelp Inc Class A (NYSE: YELP) to Mkt Outperform. JMP Securities rated Yelp Inc Class A (NYSE: YELP) to Mkt Perform   on 03/19/2013, when the price was $24.59. <br />Rated Date: 3/24/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-141370"">View article...</A></p></body></html>"
+|"Janney"||"8/22/2014 9:30:00 AM"|"Gap, Inc.  (NYSE: GPS) upgraded to Buy  by Janney"|"
+Rated Date: 8/22/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143366> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td><br />Rated Date: 8/22/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143366"">View article...</A></p></body></html>"
+|"FBR Capital"||"8/22/2014 9:30:00 AM"|"Seaworld Entertainment Inc. Co (NYSE: SEAS) upgraded to Outperform with price target $26 by FBR Capital"|"FBR Capital upgraded Seaworld Entertainment Inc. Co (NYSE: SEAS) to Outperform with price target $26. Previously FBR Capital rated Mkt Perform Seaworld Entertainment Inc. Co (NYSE: SEAS) on 11/27/2013, when the stock price was $29.34.
+Rated Date: 8/22/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143365> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>FBR Capital upgraded Seaworld Entertainment Inc. Co (NYSE: SEAS) to Outperform with price target $26. Previously FBR Capital rated Mkt Perform  Seaworld Entertainment Inc. Co (NYSE: SEAS) on 11/27/2013, when the stock price was $29.34.<br />Rated Date: 8/22/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143365"">View article...</A></p></body></html>"
+|"BB&T Capital Mkts"||"8/22/2014 9:30:00 AM"|"The Fresh Market Inc (NASDAQ: TFM) upgraded to Buy with price target $41 by BB&T Capital Mkts"|"BB&T Capital Mkts upgraded The Fresh Market Inc (NASDAQ: TFM) to Buy with price target $41. Previously, BB&T Capital Mkts rated The Fresh Market Inc (NASDAQ: TFM) to Hold on 02/27/2013, when the stock price was valued at $46.79.
+Rated Date: 8/22/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143364> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>BB&T Capital Mkts upgraded The Fresh Market Inc (NASDAQ: TFM) to Buy with price target $41. Previously, BB&T Capital Mkts rated The Fresh Market Inc (NASDAQ: TFM) to Hold   on 02/27/2013, when the stock price was valued at $46.79.<br />Rated Date: 8/22/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143364"">View article...</A></p></body></html>"
+|"Standpoint Research"||"8/22/2014 9:30:00 AM"|"Guess?, Inc. (NYSE: GES) upgraded to Buy with price target $32 by Standpoint Research"|"Standpoint Research upgraded Guess?, Inc. (NYSE: GES) to Buy with price target $32. Previously Standpoint Research upgraded to Guess?, Inc. (NYSE: GES) to Hold on 05/23/2013, when the stock price was $30.09.
+Rated Date: 8/22/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143363> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Standpoint Research upgraded Guess?, Inc. (NYSE: GES) to Buy with price target $32. Previously Standpoint Research upgraded to Guess?, Inc. (NYSE: GES) to Hold   on 05/23/2013, when the stock price was $30.09.<br />Rated Date: 8/22/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143363"">View article...</A></p></body></html>"
+|"Needham"||"8/21/2014 9:30:00 AM"|"Photronics, Inc. (NASDAQ: PLAB) upgraded to Buy with price target $11 by Needham"|"Needham upgraded Photronics, Inc. (NASDAQ: PLAB) to Buy with price target $11. Previously Needham rated Hold Photronics, Inc. (NASDAQ: PLAB) on 11/14/2013, when the stock price was $7.90.
+Rated Date: 8/21/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143361> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Needham upgraded Photronics, Inc. (NASDAQ: PLAB) to Buy with price target $11. Previously Needham rated Hold  Photronics, Inc. (NASDAQ: PLAB) on 11/14/2013, when the stock price was $7.90.<br />Rated Date: 8/21/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143361"">View article...</A></p></body></html>"
+|"Janney"||"8/21/2014 9:30:00 AM"|"American Eagle Outfitters Inc (NYSE: AEO) upgraded to Buy  by Janney"|"
+Rated Date: 8/21/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143344> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td><br />Rated Date: 8/21/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143344"">View article...</A></p></body></html>"
+|"DA Davidson"||"8/20/2014 9:30:00 AM"|"Skullcandy Inc. (NASDAQ: SKUL) upgraded to Buy with price target $10 by DA Davidson"|"DA Davidson upgraded Skullcandy Inc. (NASDAQ: SKUL) to Buy with price target $10. Previously DA Davidson upgraded to Skullcandy Inc. (NASDAQ: SKUL) to Neutral with price target $10 on 03/10/2014, when the stock price was $10.00.
+Rated Date: 8/20/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143335> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>DA Davidson upgraded Skullcandy Inc. (NASDAQ: SKUL) to Buy with price target $10. Previously DA Davidson upgraded to Skullcandy Inc. (NASDAQ: SKUL) to Neutral with price target $10  on 03/10/2014, when the stock price was $10.00.<br />Rated Date: 8/20/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143335"">View article...</A></p></body></html>"
+|"Argus"||"8/20/2014 9:30:00 AM"|"Centerpoint Energy, Inc (holding Co) (NYSE: CNP) upgraded to Buy with price target $29 by Argus"|"Argus upgraded Centerpoint Energy, Inc (holding Co) (NYSE: CNP) to Buy with price target $29. Argus rated Centerpoint Energy, Inc (holding Co) (NYSE: CNP) to Hold on 07/25/2011, when the price was $20.00. 
+Rated Date: 8/20/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143334> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Argus upgraded Centerpoint Energy, Inc (holding Co) (NYSE: CNP) to Buy with price target $29. Argus rated Centerpoint Energy, Inc (holding Co) (NYSE: CNP) to Hold   on 07/25/2011, when the price was $20.00. <br />Rated Date: 8/20/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143334"">View article...</A></p></body></html>"
+|"BMO Capital Markets"||"8/20/2014 9:30:00 AM"|"Edison International (NYSE: EIX) upgraded to Outperform with price target $64 by BMO Capital Markets"|"BMO Capital Markets upgraded Edison International (NYSE: EIX) to Outperform with price target $64. Previously BMO Capital Markets upgraded to Edison International (NYSE: EIX) to Market Perform with price target $53 on 03/04/2008, when the stock price was $50.67.
+Rated Date: 8/20/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143331> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>BMO Capital Markets upgraded Edison International (NYSE: EIX) to Outperform with price target $64. Previously BMO Capital Markets upgraded to Edison International (NYSE: EIX) to Market Perform with price target $53  on 03/04/2008, when the stock price was $50.67.<br />Rated Date: 8/20/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143331"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"8/19/2014 9:30:00 AM"|"Channeladvisor Corporation (NYSE: ECOM) upgraded to Buy with price target $22 by Deutsche Bank"|"Deutsche Bank upgraded Channeladvisor Corporation (NYSE: ECOM) to Buy with price target $22. Deutsche Bank rated Channeladvisor Corporation (NYSE: ECOM) to Hold with price target $50 on 01/23/2014, when the price was $44.98. 
+Rated Date: 8/19/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143326> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank upgraded Channeladvisor Corporation (NYSE: ECOM) to Buy with price target $22. Deutsche Bank rated Channeladvisor Corporation (NYSE: ECOM) to Hold with price target $50  on 01/23/2014, when the price was $44.98. <br />Rated Date: 8/19/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143326"">View article...</A></p></body></html>"
+|"Wunderlich"||"8/19/2014 9:30:00 AM"|"Brinker International, Inc. (NYSE: EAT) upgraded to Buy with price target $55 by Wunderlich"|"
+Rated Date: 8/19/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143311> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td><br />Rated Date: 8/19/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143311"">View article...</A></p></body></html>"
+|"Robert W. Baird"||"8/19/2014 9:30:00 AM"|"Urban Outfitters, Inc. (NASDAQ: URBN) upgraded to Outperform with price target $44 by Robert W. Baird"|"Robert W. Baird upgraded Urban Outfitters, Inc. (NASDAQ: URBN) to Outperform with price target $44. Robert W. Baird rated Urban Outfitters, Inc. (NASDAQ: URBN) to Neutral with price target $28 on 01/11/2012, when the price was $24.37. 
+Rated Date: 8/19/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143310> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Robert W. Baird upgraded Urban Outfitters, Inc. (NASDAQ: URBN) to Outperform with price target $44. Robert W. Baird rated Urban Outfitters, Inc. (NASDAQ: URBN) to Neutral with price target $28  on 01/11/2012, when the price was $24.37. <br />Rated Date: 8/19/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143310"">View article...</A></p></body></html>"
+|"MLV & Co"||"8/18/2014 9:30:00 AM"|"Halcon Resources (NYSE: HK) upgraded to Buy with price target $8 by MLV & Co"|"MLV & Co upgraded Halcon Resources (NYSE: HK) to Buy with price target $8. MLV & Co rated Halcon Resources (NYSE: HK) to Hold on 11/22/2013, when the price was $4.03. 
+Rated Date: 8/18/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143298> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MLV & Co upgraded Halcon Resources (NYSE: HK) to Buy with price target $8. MLV & Co rated Halcon Resources (NYSE: HK) to Hold   on 11/22/2013, when the price was $4.03. <br />Rated Date: 8/18/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143298"">View article...</A></p></body></html>"
+|"Robert W. Baird"||"8/15/2014 9:30:00 AM"|"Cypress Energy Partners L.P. (NYSE: CELP) upgraded to Outperform with price target $27 by Robert W. Baird"|"Robert W. Baird upgraded Cypress Energy Partners L.P. (NYSE: CELP) to Outperform with price target $27. Robert W. Baird rated Cypress Energy Partners L.P. (NYSE: CELP) to Neutral with price target $25 on 02/10/2014, when the price was $23.18. 
+Rated Date: 8/15/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143278> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Robert W. Baird upgraded Cypress Energy Partners L.P. (NYSE: CELP) to Outperform with price target $27. Robert W. Baird rated Cypress Energy Partners L.P. (NYSE: CELP) to Neutral with price target $25  on 02/10/2014, when the price was $23.18. <br />Rated Date: 8/15/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143278"">View article...</A></p></body></html>"
+|"UBS"||"8/15/2014 9:30:00 AM"|"ULTRA PETROLEUM CORP (NYSE: UPL) upgraded to Buy with price target $29 by UBS"|"UBS upgraded ULTRA PETROLEUM CORP (NYSE: UPL) to Buy with price target $29. Previously UBS rated Neutral with price target $25 ULTRA PETROLEUM CORP (NYSE: UPL) on 02/21/2014, when the stock price was $25.07.
+Rated Date: 8/15/2014 12:00:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143277> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS upgraded ULTRA PETROLEUM CORP (NYSE: UPL) to Buy with price target $29. Previously UBS rated Neutral with price target $25 ULTRA PETROLEUM CORP (NYSE: UPL) on 02/21/2014, when the stock price was $25.07.<br />Rated Date: 8/15/2014 12:00:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143277"">View article...</A></p></body></html>"
+|"Standpoint Research"||"8/29/2014 10:55:00 PM"|"United Therapeutics Corporation (NASDAQ: UTHR) upgraded to Buy with price target $140 by Standpoint Research"|"Standpoint Research upgraded United Therapeutics Corporation (NASDAQ: UTHR) to Buy with price target $140. Previously, Standpoint Research rated United Therapeutics Corporation (NASDAQ: UTHR) to Hold on 07/30/2013, when the stock price was valued at $74.12. Since then, United Therapeutics Corporation's stock price has gained 57% as of 08/29/2014's recent price of $116.01.
+Rated Date: 8/29/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143440> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Standpoint Research upgraded United Therapeutics Corporation (NASDAQ: UTHR) to Buy with price target $140. Previously, Standpoint Research rated United Therapeutics Corporation (NASDAQ: UTHR) to Hold   on 07/30/2013, when the stock price was valued at $74.12. Since then, United Therapeutics Corporation's stock price has  gained 57% as of 08/29/2014's recent price of $116.01.<br />Rated Date: 8/29/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143440"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/2/2014 5:55:00 PM"|"Groupon Inc (NASDAQ: GRPN) upgraded to Sector Perform with price target $6 by RBC Capital Mkts"|"RBC Capital Mkts upgraded Groupon Inc (NASDAQ: GRPN) to Sector Perform with price target $6. Previously RBC Capital Mkts rated Underperform with price target $7 Groupon Inc (NASDAQ: GRPN) on 02/21/2014, when the stock price was $8.03.
+Rated Date: 9/2/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143461> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts upgraded Groupon Inc (NASDAQ: GRPN) to Sector Perform with price target $6. Previously RBC Capital Mkts rated Underperform with price target $7 Groupon Inc (NASDAQ: GRPN) on 02/21/2014, when the stock price was $8.03.<br />Rated Date: 9/2/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143461"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/2/2014 5:55:00 PM"|"Northrop Grumman Corporation (NYSE: NOC) upgraded to Outperform with price target $148 by RBC Capital Mkts"|"RBC Capital Mkts upgraded Northrop Grumman Corporation (NYSE: NOC) to Outperform with price target $148. Previously RBC Capital Mkts upgraded to Northrop Grumman Corporation (NYSE: NOC) to Sector Perform with price target $92 on 07/25/2013, when the stock price was $89.83.
+Rated Date: 9/2/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143447> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts upgraded Northrop Grumman Corporation (NYSE: NOC) to Outperform with price target $148. Previously RBC Capital Mkts upgraded to Northrop Grumman Corporation (NYSE: NOC) to Sector Perform with price target $92  on 07/25/2013, when the stock price was $89.83.<br />Rated Date: 9/2/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143447"">View article...</A></p></body></html>"
+|"Stifel"||"9/2/2014 5:55:00 PM"|"Cabot Oil & Gas Corporation (NYSE: COG) upgraded to Buy with price target $39 by Stifel"|"Stifel upgraded Cabot Oil & Gas Corporation (NYSE: COG) to Buy with price target $39. Stifel rated Cabot Oil & Gas Corporation (NYSE: COG) to Hold on 04/10/2014, when the price was $32.50. 
+Rated Date: 9/2/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143446> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel upgraded Cabot Oil & Gas Corporation (NYSE: COG) to Buy with price target $39. Stifel rated Cabot Oil & Gas Corporation (NYSE: COG) to Hold   on 04/10/2014, when the price was $32.50. <br />Rated Date: 9/2/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143446"">View article...</A></p></body></html>"
+|"Stifel"||"9/2/2014 5:55:00 PM"|"SANDRIDGE ENERGY INC (NYSE: SD) upgraded to Buy with price target $6.75 by Stifel"|"Stifel upgraded SANDRIDGE ENERGY INC (NYSE: SD) to Buy with price target $6.75. Previously Stifel rated Hold SANDRIDGE ENERGY INC (NYSE: SD) on 03/01/2013, when the stock price was $5.21.
+Rated Date: 9/2/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143445> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel upgraded SANDRIDGE ENERGY INC (NYSE: SD) to Buy with price target $6.75. Previously Stifel rated Hold  SANDRIDGE ENERGY INC (NYSE: SD) on 03/01/2013, when the stock price was $5.21.<br />Rated Date: 9/2/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143445"">View article...</A></p></body></html>"
+|"Stifel"||"9/2/2014 5:55:00 PM"|"Tesla Motors Inc (NASDAQ: TSLA) upgraded to Buy with price target $400 by Stifel"|"Stifel upgraded Tesla Motors Inc (NASDAQ: TSLA) to Buy with price target $400. Previously, Stifel rated Tesla Motors Inc (NASDAQ: TSLA) to Hold on 08/22/2013, when the stock price was valued at $149.06.
+Rated Date: 9/2/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143444> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel upgraded Tesla Motors Inc (NASDAQ: TSLA) to Buy with price target $400. Previously, Stifel rated Tesla Motors Inc (NASDAQ: TSLA) to Hold   on 08/22/2013, when the stock price was valued at $149.06.<br />Rated Date: 9/2/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143444"">View article...</A></p></body></html>"
+|"Standpoint Research"||"9/2/2014 7:55:00 PM"|"Parker Drilling Company (NYSE: PKD) upgraded to Buy with price target $9 by Standpoint Research"|"Standpoint Research upgraded Parker Drilling Company (NYSE: PKD) to Buy with price target $9 with today's price of $6.54. Standpoint Research rated Parker Drilling Company (NYSE: PKD) to Hold on 11/06/2013, when the price was $7.86. Parker Drilling Company's stock price lost 17% since then. 
+Rated Date: 9/2/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143466> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Standpoint Research upgraded Parker Drilling Company (NYSE: PKD) to Buy with price target $9 with today's price of $6.54. Standpoint Research rated Parker Drilling Company (NYSE: PKD) to Hold   on 11/06/2013, when the price was $7.86. Parker Drilling Company's stock price lost 17% since then. <br />Rated Date: 9/2/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143466"">View article...</A></p></body></html>"
+|"Maxim Group"||"9/3/2014 5:55:00 PM"|"Capstead Mortgage Corporation (NYSE: CMO) upgraded to Buy with price target $14 by Maxim Group"|"Maxim Group upgraded Capstead Mortgage Corporation (NYSE: CMO) to Buy with price target $14. Previously, Maxim Group rated Capstead Mortgage Corporation (NYSE: CMO) to Hold on 10/26/2012, when the stock price was valued at $12.15.
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143476> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Maxim Group upgraded Capstead Mortgage Corporation (NYSE: CMO) to Buy with price target $14. Previously, Maxim Group rated Capstead Mortgage Corporation (NYSE: CMO) to Hold   on 10/26/2012, when the stock price was valued at $12.15.<br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143476"">View article...</A></p></body></html>"
+|"Maxim Group"||"9/3/2014 5:55:00 PM"|"Kohl's Corporation (NYSE: KSS) upgraded to Buy with price target $68 by Maxim Group"|"Maxim Group upgraded Kohl's Corporation (NYSE: KSS) to Buy with price target $68. Previously Maxim Group upgraded to Kohl's Corporation (NYSE: KSS) to Hold on 02/12/2013, when the stock price was $46.06.
+Rated Date: 9/3/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143475> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Maxim Group upgraded Kohl's Corporation (NYSE: KSS) to Buy with price target $68. Previously Maxim Group upgraded to Kohl's Corporation (NYSE: KSS) to Hold   on 02/12/2013, when the stock price was $46.06.<br />Rated Date: 9/3/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143475"">View article...</A></p></body></html>"
+|"Standpoint Research"||"9/3/2014 8:55:00 PM"|"ENSCO plc (NYSE: ESV) upgraded to Buy with price target $60 by Standpoint Research"|"Standpoint Research upgraded ENSCO plc (NYSE: ESV) to Buy with price target $60. Previously Standpoint Research rated Hold ENSCO plc (NYSE: ESV) on 02/21/2012, when the stock price was $55.60. Since then, ENSCO plc's stock price has lost 11% as of 09/03/2014's recent price of $49.50.
+Rated Date: 9/3/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143501> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Standpoint Research upgraded ENSCO plc (NYSE: ESV) to Buy with price target $60. Previously Standpoint Research rated Hold  ENSCO plc (NYSE: ESV) on 02/21/2012, when the stock price was $55.60. Since then, ENSCO plc's stock price has  lost 11% as of 09/03/2014's recent price of $49.50.<br />Rated Date: 9/3/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143501"">View article...</A></p></body></html>"
+|"UBS"||"9/4/2014 8:55:00 PM"|"D.r. Horton, Inc. (NYSE: DHI) upgraded to Buy with price target $26 by UBS"|"UBS upgraded D.r. Horton, Inc. (NYSE: DHI) to Buy with price target $26 with today's price of $21.42. UBS rated D.r. Horton, Inc. (NYSE: DHI) to Neutral with price target $16.50 on 05/31/2012, when the price was $16.24. D.r. Horton, Inc.'s stock price gained 32% since then. 
+Rated Date: 9/4/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143522> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS upgraded D.r. Horton, Inc. (NYSE: DHI) to Buy with price target $26 with today's price of $21.42. UBS rated D.r. Horton, Inc. (NYSE: DHI) to Neutral with price target $16.50  on 05/31/2012, when the price was $16.24. D.r. Horton, Inc.'s stock price gained 32% since then. <br />Rated Date: 9/4/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143522"">View article...</A></p></body></html>"
+|"Maxim Group"||"9/5/2014 5:55:00 PM"|"INTELLIPHARMACEUTICS INTERNATIO- (NASDAQ: IPCI) upgraded to Buy with price target $7 by Maxim Group"|"Maxim Group upgraded INTELLIPHARMACEUTICS INTERNATIO- (NASDAQ: IPCI) to Buy with price target $7. Previously, Maxim Group rated INTELLIPHARMACEUTICS INTERNATIO- (NASDAQ: IPCI) to Hold with price target $3 on 07/09/2014, when the stock price was valued at $2.95.
+Rated Date: 9/5/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143544> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Maxim Group upgraded INTELLIPHARMACEUTICS INTERNATIO- (NASDAQ: IPCI) to Buy with price target $7. Previously, Maxim Group rated INTELLIPHARMACEUTICS INTERNATIO- (NASDAQ: IPCI) to Hold with price target $3  on 07/09/2014, when the stock price was valued at $2.95.<br />Rated Date: 9/5/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143544"">View article...</A></p></body></html>"
+|"UBS"||"9/8/2014 12:25:00 PM"|"Dynegy Inc. (NYSE: DYN) upgraded to Buy with price target $36 by UBS"|"UBS upgraded Dynegy Inc. (NYSE: DYN) to Buy with price target $36 with today's price of $30.58. UBS rated Dynegy Inc. (NYSE: DYN) to Neutral with price target $25 on 04/04/2014, when the price was $25.39. Dynegy Inc.'s stock price gained 20% since then. 
+Rated Date: 9/8/2014 12:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143582> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS upgraded Dynegy Inc. (NYSE: DYN) to Buy with price target $36 with today's price of $30.58. UBS rated Dynegy Inc. (NYSE: DYN) to Neutral with price target $25  on 04/04/2014, when the price was $25.39. Dynegy Inc.'s stock price gained 20% since then. <br />Rated Date: 9/8/2014 12:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143582"">View article...</A></p></body></html>"
+|"UBS"||"9/8/2014 12:25:00 PM"|"Fireeye Inc. (NASDAQ: FEYE) upgraded to Buy with price target $40 by UBS"|"UBS upgraded Fireeye Inc. (NASDAQ: FEYE) to Buy with price target $40 with today's price of $33.12. UBS rated Fireeye Inc. (NASDAQ: FEYE) to Neutral with price target $78 on 02/12/2014, when the price was $69.29. Fireeye Inc.'s stock price lost 52% since then. 
+Rated Date: 9/8/2014 12:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143578> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS upgraded Fireeye Inc. (NASDAQ: FEYE) to Buy with price target $40 with today's price of $33.12. UBS rated Fireeye Inc. (NASDAQ: FEYE) to Neutral with price target $78  on 02/12/2014, when the price was $69.29. Fireeye Inc.'s stock price lost 52% since then. <br />Rated Date: 9/8/2014 12:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143578"">View article...</A></p></body></html>"
+|"BB&T Capital Mkts"||"9/8/2014 11:25:00 AM"|"Covenant Transport, Inc. (NASDAQ: CVTI) upgraded to Buy with price target $20 by BB&T Capital Mkts"|"BB&T Capital Mkts upgraded Covenant Transport, Inc. (NASDAQ: CVTI) to Buy with price target $20. Previously, BB&T Capital Mkts rated Covenant Transport, Inc. (NASDAQ: CVTI) to Hold on 12/18/2012, when the stock price was valued at $4.95.
+Rated Date: 9/8/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143576> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>BB&T Capital Mkts upgraded Covenant Transport, Inc. (NASDAQ: CVTI) to Buy with price target $20. Previously, BB&T Capital Mkts rated Covenant Transport, Inc. (NASDAQ: CVTI) to Hold   on 12/18/2012, when the stock price was valued at $4.95.<br />Rated Date: 9/8/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143576"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/8/2014 8:25:00 AM"|"L-3 Communications Holdings, Inc. (NYSE: LLL) upgraded to Outperform with price target $128 by Oppenheimer"|"Oppenheimer upgraded L-3 Communications Holdings, Inc. (NYSE: LLL) to Outperform with price target $128. Previously Oppenheimer upgraded to L-3 Communications Holdings, Inc. (NYSE: LLL) to Perform on 05/29/2012, when the stock price was $67.72.
+Rated Date: 9/8/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143563> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer upgraded L-3 Communications Holdings, Inc. (NYSE: LLL) to Outperform with price target $128. Previously Oppenheimer upgraded to L-3 Communications Holdings, Inc. (NYSE: LLL) to Perform   on 05/29/2012, when the stock price was $67.72.<br />Rated Date: 9/8/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143563"">View article...</A></p></body></html>"
+|"DA Davidson"||"9/8/2014 8:25:00 AM"|"SILICON GRAPHICS INTL CORP (NASDAQ: SGI) upgraded to Buy with price target $12 by DA Davidson"|"DA Davidson upgraded SILICON GRAPHICS INTL CORP (NASDAQ: SGI) to Buy with price target $12. DA Davidson rated SILICON GRAPHICS INTL CORP (NASDAQ: SGI) to Neutral with price target $15 on 01/30/2014, when the price was $13.20. 
+Rated Date: 9/8/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143562> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>DA Davidson upgraded SILICON GRAPHICS INTL CORP (NASDAQ: SGI) to Buy with price target $12. DA Davidson rated SILICON GRAPHICS INTL CORP (NASDAQ: SGI) to Neutral with price target $15  on 01/30/2014, when the price was $13.20. <br />Rated Date: 9/8/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143562"">View article...</A></p></body></html>"
+|"Compass Point"||"9/9/2014 8:25:00 AM"|"Flagstar Bancorp, Inc. (NYSE: FBC) upgraded to Buy with price target $20 by Compass Point"|"Compass Point upgraded Flagstar Bancorp, Inc. (NYSE: FBC) to Buy with price target $20. Previously Compass Point rated Neutral with price target $20 Flagstar Bancorp, Inc. (NYSE: FBC) on 04/25/2014, when the stock price was $18.31.
+Rated Date: 9/9/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143601> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Compass Point upgraded Flagstar Bancorp, Inc. (NYSE: FBC) to Buy with price target $20. Previously Compass Point rated Neutral with price target $20 Flagstar Bancorp, Inc. (NYSE: FBC) on 04/25/2014, when the stock price was $18.31.<br />Rated Date: 9/9/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143601"">View article...</A></p></body></html>"
+|"FBR Capital"||"9/9/2014 8:25:00 AM"|"Starwood Hotels & Resorts Worldwide, Inc. (NYSE: HOT) upgraded to Outperform with price target $76 by FBR Capital"|"FBR Capital upgraded Starwood Hotels & Resorts Worldwide, Inc. (NYSE: HOT) to Outperform with price target $76. Previously FBR Capital upgraded to Starwood Hotels & Resorts Worldwide, Inc. (NYSE: HOT) to Mkt Perform with price target $68 on 07/26/2013, when the stock price was $65.94.
+Rated Date: 9/9/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143595> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>FBR Capital upgraded Starwood Hotels & Resorts Worldwide, Inc. (NYSE: HOT) to Outperform with price target $76. Previously FBR Capital upgraded to Starwood Hotels & Resorts Worldwide, Inc. (NYSE: HOT) to Mkt Perform with price target $68  on 07/26/2013, when the stock price was $65.94.<br />Rated Date: 9/9/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143595"">View article...</A></p></body></html>"
+|"Cowen"||"9/9/2014 8:25:00 AM"|"Newmont Mining Corporation (holding Company) (NYSE: NEM) upgraded to Outperform with price target $32.93 by Cowen"|"Cowen upgraded Newmont Mining Corporation (holding Company) (NYSE: NEM) to Outperform with price target $32.93. Previously, Cowen rated Newmont Mining Corporation (holding Company) (NYSE: NEM) to Market Perform with price target $24.24 on 02/03/2014, when the stock price was valued at $21.61.
+Rated Date: 9/9/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143588> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Cowen upgraded Newmont Mining Corporation (holding Company) (NYSE: NEM) to Outperform with price target $32.93. Previously, Cowen rated Newmont Mining Corporation (holding Company) (NYSE: NEM) to Market Perform with price target $24.24  on 02/03/2014, when the stock price was valued at $21.61.<br />Rated Date: 9/9/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143588"">View article...</A></p></body></html>"
+|"Stifel"||"9/9/2014 8:25:00 AM"|"Global Cash Access Holdings, Inc. (NYSE: GCA) upgraded to Buy with price target $10 by Stifel"|"Stifel upgraded Global Cash Access Holdings, Inc. (NYSE: GCA) to Buy with price target $10. Previously Stifel upgraded to Global Cash Access Holdings, Inc. (NYSE: GCA) to Hold with price target $8.50 on 05/13/2014, when the stock price was $8.30.
+Rated Date: 9/9/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143587> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel upgraded Global Cash Access Holdings, Inc. (NYSE: GCA) to Buy with price target $10. Previously Stifel upgraded to Global Cash Access Holdings, Inc. (NYSE: GCA) to Hold with price target $8.50  on 05/13/2014, when the stock price was $8.30.<br />Rated Date: 9/9/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143587"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/9/2014 2:25:00 PM"|"The Finish Line Inc. (NASDAQ: FINL) upgraded to Buy with price target $35 by Deutsche Bank"|"Deutsche Bank upgraded The Finish Line Inc. (NASDAQ: FINL) to Buy with price target $35. Previously, Deutsche Bank rated The Finish Line Inc. (NASDAQ: FINL) to Hold with price target $28 on 03/24/2014, when the stock price was valued at $28.06. Since then, The Finish Line Inc.'s stock price has gained 7% as of 09/09/2014's recent price of $30.10.
+Rated Date: 9/9/2014 2:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143612> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank upgraded The Finish Line Inc. (NASDAQ: FINL) to Buy with price target $35. Previously, Deutsche Bank rated The Finish Line Inc. (NASDAQ: FINL) to Hold with price target $28  on 03/24/2014, when the stock price was valued at $28.06. Since then, The Finish Line Inc.'s stock price has  gained 7% as of 09/09/2014's recent price of $30.10.<br />Rated Date: 9/9/2014 2:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143612"">View article...</A></p></body></html>"
+|"Standpoint Research"||"9/10/2014 10:25:00 AM"|"Vera Bradley, Inc. (NASDAQ: VRA) upgraded to Buy with price target $32 by Standpoint Research"|"Standpoint Research upgraded Vera Bradley, Inc. (NASDAQ: VRA) to Buy with price target $32. Previously, Standpoint Research rated Vera Bradley, Inc. (NASDAQ: VRA) to Hold on 03/20/2014, when the stock price was valued at $28.80. Since then, Vera Bradley, Inc.'s stock price has lost 19% as of 09/10/2014's recent price of $23.31.
+Rated Date: 9/10/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143640> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Standpoint Research upgraded Vera Bradley, Inc. (NASDAQ: VRA) to Buy with price target $32. Previously, Standpoint Research rated Vera Bradley, Inc. (NASDAQ: VRA) to Hold   on 03/20/2014, when the stock price was valued at $28.80. Since then, Vera Bradley, Inc.'s stock price has  lost 19% as of 09/10/2014's recent price of $23.31.<br />Rated Date: 9/10/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143640"">View article...</A></p></body></html>"
+|"Canaccord Genuity"||"9/10/2014 8:25:00 AM"|"Netflix, Inc. (NASDAQ: NFLX) upgraded to Buy with price target $550 by Canaccord Genuity"|"Canaccord Genuity upgraded Netflix, Inc. (NASDAQ: NFLX) to Buy with price target $550. Previously, Canaccord Genuity rated Netflix, Inc. (NASDAQ: NFLX) to Sell with price target $68 on 04/24/2012, when the stock price was valued at $87.40.
+Rated Date: 9/10/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143624> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Canaccord Genuity upgraded Netflix, Inc. (NASDAQ: NFLX) to Buy with price target $550. Previously, Canaccord Genuity rated Netflix, Inc. (NASDAQ: NFLX) to Sell with price target $68  on 04/24/2012, when the stock price was valued at $87.40.<br />Rated Date: 9/10/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143624"">View article...</A></p></body></html>"
+|"FBR Capital"||"9/10/2014 8:25:00 AM"|"Hartford Financial Services Group, Inc.  (NYSE: HIG) upgraded to Outperform with price target $44 by FBR Capital"|"FBR Capital upgraded Hartford Financial Services Group, Inc. (NYSE: HIG) to Outperform with price target $44. Previously FBR Capital rated Mkt Perform with price target $37 Hartford Financial Services Group, Inc. (NYSE: HIG) on 01/09/2014, when the stock price was $35.78.
+Rated Date: 9/10/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143617> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>FBR Capital upgraded Hartford Financial Services Group, Inc.  (NYSE: HIG) to Outperform with price target $44. Previously FBR Capital rated Mkt Perform with price target $37 Hartford Financial Services Group, Inc.  (NYSE: HIG) on 01/09/2014, when the stock price was $35.78.<br />Rated Date: 9/10/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143617"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/10/2014 8:25:00 AM"|"Imperva Inc (NYSE: IMPV) upgraded to Outperform with price target $39 by Oppenheimer"|"Oppenheimer upgraded Imperva Inc (NYSE: IMPV) to Outperform with price target $39. Previously, Oppenheimer rated Imperva Inc (NYSE: IMPV) to Perform on 04/10/2014, when the stock price was valued at $28.00.
+Rated Date: 9/10/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143616> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer upgraded Imperva Inc (NYSE: IMPV) to Outperform with price target $39. Previously, Oppenheimer rated Imperva Inc (NYSE: IMPV) to Perform   on 04/10/2014, when the stock price was valued at $28.00.<br />Rated Date: 9/10/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143616"">View article...</A></p></body></html>"
+|"MKM Partners"||"9/10/2014 11:25:00 AM"|"Symantec Corporation (NASDAQ: SYMC) upgraded to Neutral with price target $25 by MKM Partners"|"MKM Partners upgraded Symantec Corporation (NASDAQ: SYMC) to Neutral with price target $25. Previously, MKM Partners rated Symantec Corporation (NASDAQ: SYMC) to Sell with price target $17 on 03/21/2014, when the stock price was valued at $18.02. Since then, Symantec Corporation's stock price has gained 37% as of 09/10/2014's recent price of $24.64. If you had followed MKM Partners's previous recommendation on SYMC, you would have lost 37% of your investment in 173 days.
+Rated Date: 9/10/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143648> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MKM Partners upgraded Symantec Corporation (NASDAQ: SYMC) to Neutral with price target $25. Previously, MKM Partners rated Symantec Corporation (NASDAQ: SYMC) to Sell with price target $17  on 03/21/2014, when the stock price was valued at $18.02. Since then, Symantec Corporation's stock price has  gained 37% as of 09/10/2014's recent price of $24.64.</br> If you had followed MKM Partners's previous recommendation on SYMC, you would have lost 37% of your investment in 173 days.<br />Rated Date: 9/10/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143648"">View article...</A></p></body></html>"
+|"MKM Partners"||"9/10/2014 11:25:00 AM"|"Microsoft Corporation (NASDAQ: MSFT) upgraded to Buy with price target $52 by MKM Partners"|"MKM Partners upgraded Microsoft Corporation (NASDAQ: MSFT) to Buy with price target $52. Previously MKM Partners upgraded to Microsoft Corporation (NASDAQ: MSFT) to Neutral with price target $30 on 09/20/2013, when the stock price was $32.81. Since then, Microsoft Corporation's stock price has gained 42% as of 09/10/2014's recent price of $46.68.
+Rated Date: 9/10/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143647> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MKM Partners upgraded Microsoft Corporation (NASDAQ: MSFT) to Buy with price target $52. Previously MKM Partners upgraded to Microsoft Corporation (NASDAQ: MSFT) to Neutral with price target $30  on 09/20/2013, when the stock price was $32.81. Since then, Microsoft Corporation's stock price has  gained 42% as of 09/10/2014's recent price of $46.68.<br />Rated Date: 9/10/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143647"">View article...</A></p></body></html>"
+|"MKM Partners"||"9/10/2014 11:25:00 AM"|"VMWARE INC. (NYSE: VMW) upgraded to Buy with price target $117 by MKM Partners"|"MKM Partners upgraded VMWARE INC. (NYSE: VMW) to Buy with price target $117 with today's price of $96.88. MKM Partners rated VMWARE INC. (NYSE: VMW) to Neutral with price target $77 on 01/29/2013, when the price was $78.85. VMWARE INC.'s stock price gained 23% since then. 
+Rated Date: 9/10/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143646> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MKM Partners upgraded VMWARE INC. (NYSE: VMW) to Buy with price target $117 with today's price of $96.88. MKM Partners rated VMWARE INC. (NYSE: VMW) to Neutral with price target $77  on 01/29/2013, when the price was $78.85. VMWARE INC.'s stock price gained 23% since then. <br />Rated Date: 9/10/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143646"">View article...</A></p></body></html>"
+|"MKM Partners"||"9/10/2014 11:25:00 AM"|"SolarWinds (NYSE: SWI) upgraded to Buy with price target $50 by MKM Partners"|"MKM Partners upgraded SolarWinds (NYSE: SWI) to Buy with price target $50. Previously MKM Partners rated Neutral SolarWinds (NYSE: SWI) on 02/18/2011, when the stock price was $22.21. Since then, SolarWinds's stock price has gained 97% as of 09/10/2014's recent price of $43.83.
+Rated Date: 9/10/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143645> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MKM Partners upgraded SolarWinds (NYSE: SWI) to Buy with price target $50. Previously MKM Partners rated Neutral  SolarWinds (NYSE: SWI) on 02/18/2011, when the stock price was $22.21. Since then, SolarWinds's stock price has  gained 97% as of 09/10/2014's recent price of $43.83.<br />Rated Date: 9/10/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143645"">View article...</A></p></body></html>"
+|"UBS"||"9/10/2014 11:25:00 AM"|"Twitter (NYSE: TWTR) upgraded to Buy with price target $65 by UBS"|"UBS upgraded Twitter (NYSE: TWTR) to Buy with price target $65. Previously, UBS rated Twitter (NYSE: TWTR) to Neutral with price target $50 on 07/30/2014, when the stock price was valued at $46.30. Since then, Twitter's stock price has gained 13% as of 09/10/2014's recent price of $52.40.
+Rated Date: 9/10/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143644> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS upgraded Twitter (NYSE: TWTR) to Buy with price target $65. Previously, UBS rated Twitter (NYSE: TWTR) to Neutral with price target $50  on 07/30/2014, when the stock price was valued at $46.30. Since then, Twitter's stock price has  gained 13% as of 09/10/2014's recent price of $52.40.<br />Rated Date: 9/10/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143644"">View article...</A></p></body></html>"
+|"UBS"||"9/10/2014 11:25:00 AM"|"Noodles & Company (NASDAQ: NDLS) upgraded to Buy with price target $26 by UBS"|"UBS upgraded Noodles & Company (NASDAQ: NDLS) to Buy with price target $26. Previously UBS upgraded to Noodles & Company (NASDAQ: NDLS) to Neutral with price target $26 on 08/14/2014, when the stock price was $21.16. Since then, Noodles & Company's stock price has lost 13% as of 09/10/2014's recent price of $18.41.
+Rated Date: 9/10/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143643> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>UBS upgraded Noodles & Company (NASDAQ: NDLS) to Buy with price target $26. Previously UBS upgraded to Noodles & Company (NASDAQ: NDLS) to Neutral with price target $26  on 08/14/2014, when the stock price was $21.16. Since then, Noodles & Company's stock price has  lost 13% as of 09/10/2014's recent price of $18.41.<br />Rated Date: 9/10/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143643"">View article...</A></p></body></html>"
+|"R. F. Lafferty"||"9/10/2014 11:25:00 AM"|"Auxilium Pharmaceuticals, Inc. (NASDAQ: AUXL) upgraded to Buy with price target $29 by R. F. Lafferty"|"R. F. Lafferty upgraded Auxilium Pharmaceuticals, Inc. (NASDAQ: AUXL) to Buy with price target $29 with today's price of $20.41. R. F. Lafferty rated Auxilium Pharmaceuticals, Inc. (NASDAQ: AUXL) to Neutral with price target $19 on 04/30/2014, when the price was $22.51. Auxilium Pharmaceuticals, Inc.'s stock price lost 9% since then. 
+Rated Date: 9/10/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143642> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>R. F. Lafferty upgraded Auxilium Pharmaceuticals, Inc. (NASDAQ: AUXL) to Buy with price target $29 with today's price of $20.41. R. F. Lafferty rated Auxilium Pharmaceuticals, Inc. (NASDAQ: AUXL) to Neutral with price target $19  on 04/30/2014, when the price was $22.51. Auxilium Pharmaceuticals, Inc.'s stock price lost 9% since then. <br />Rated Date: 9/10/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143642"">View article...</A></p></body></html>"
+|"Howard Weil"||"9/11/2014 9:25:00 AM"|"Pioneer Natural Resources Company (NYSE: PXD) upgraded to Sector Outperform with price target $280 by Howard Weil"|"Howard Weil upgraded Pioneer Natural Resources Company (NYSE: PXD) to Sector Outperform with price target $280. Howard Weil rated Pioneer Natural Resources Company (NYSE: PXD) to Sector Perform with price target $195 on 09/17/2013, when the price was $182.65. 
+Rated Date: 9/11/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143682> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Howard Weil upgraded Pioneer Natural Resources Company (NYSE: PXD) to Sector Outperform with price target $280. Howard Weil rated Pioneer Natural Resources Company (NYSE: PXD) to Sector Perform with price target $195  on 09/17/2013, when the price was $182.65. <br />Rated Date: 9/11/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143682"">View article...</A></p></body></html>"
+|"Needham"||"9/11/2014 8:25:00 AM"|"Sigma Designs, Inc. (NASDAQ: SIGM) upgraded to Buy with price target $7 by Needham"|"Needham upgraded Sigma Designs, Inc. (NASDAQ: SIGM) to Buy with price target $7. Previously, Needham rated Sigma Designs, Inc. (NASDAQ: SIGM) to Hold on 12/12/2013, when the stock price was valued at $4.49.
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143680> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Needham upgraded Sigma Designs, Inc. (NASDAQ: SIGM) to Buy with price target $7. Previously, Needham rated Sigma Designs, Inc. (NASDAQ: SIGM) to Hold   on 12/12/2013, when the stock price was valued at $4.49.<br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143680"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/11/2014 8:25:00 AM"|"RWE AG (ADR) (OTCBB: RWEOY) upgraded to Outperform with price target $35 by RBC Capital Mkts"|"RBC Capital Mkts upgraded RWE AG (ADR) (OTCBB: RWEOY) to Outperform with price target $35. Previously RBC Capital Mkts upgraded to RWE AG (ADR) (OTCBB: RWEOY) to Sector Perform with price target $27 on 05/21/2014, when the stock price was $38.96.
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143667> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts upgraded RWE AG (ADR) (OTCBB: RWEOY) to Outperform with price target $35. Previously RBC Capital Mkts upgraded to RWE AG (ADR) (OTCBB: RWEOY) to Sector Perform with price target $27  on 05/21/2014, when the stock price was $38.96.<br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143667"">View article...</A></p></body></html>"
+|"FBR Capital"||"9/11/2014 8:25:00 AM"|"Atlas Air Worldwide Holdings (NASDAQ: AAWW) upgraded to Outperform with price target $40 by FBR Capital"|"FBR Capital upgraded Atlas Air Worldwide Holdings (NASDAQ: AAWW) to Outperform with price target $40. FBR Capital rated Atlas Air Worldwide Holdings (NASDAQ: AAWW) to Mkt Perform with price target $31 on 02/13/2014, when the price was $32.49. 
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143666> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>FBR Capital upgraded Atlas Air Worldwide Holdings (NASDAQ: AAWW) to Outperform with price target $40. FBR Capital rated Atlas Air Worldwide Holdings (NASDAQ: AAWW) to Mkt Perform with price target $31  on 02/13/2014, when the price was $32.49. <br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143666"">View article...</A></p></body></html>"
+|"Robert W. Baird"||"9/11/2014 8:25:00 AM"|"Vera Bradley, Inc. (NASDAQ: VRA) upgraded to Outperform with price target $28 by Robert W. Baird"|"Robert W. Baird upgraded Vera Bradley, Inc. (NASDAQ: VRA) to Outperform with price target $28. Previously Robert W. Baird rated Neutral with price target $24 Vera Bradley, Inc. (NASDAQ: VRA) on 06/06/2013, when the stock price was $19.89.
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143665> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Robert W. Baird upgraded Vera Bradley, Inc. (NASDAQ: VRA) to Outperform with price target $28. Previously Robert W. Baird rated Neutral with price target $24 Vera Bradley, Inc. (NASDAQ: VRA) on 06/06/2013, when the stock price was $19.89.<br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143665"">View article...</A></p></body></html>"
+|"B. Riley & Co"||"9/11/2014 8:25:00 AM"|"Wet Seal Inc. Cl A (NASDAQ: WTSL) upgraded to Buy with price target $1.50 by B. Riley & Co"|"B. Riley & Co upgraded Wet Seal Inc. Cl A (NASDAQ: WTSL) to Buy with price target $1.50. Previously, B. Riley & Co rated Wet Seal Inc. Cl A (NASDAQ: WTSL) to Neutral on 07/29/2013, when the stock price was valued at $4.34.
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143664> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>B. Riley & Co upgraded Wet Seal Inc. Cl A (NASDAQ: WTSL) to Buy with price target $1.50. Previously, B. Riley & Co rated Wet Seal Inc. Cl A (NASDAQ: WTSL) to Neutral   on 07/29/2013, when the stock price was valued at $4.34.<br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143664"">View article...</A></p></body></html>"
+|"Argus"||"9/11/2014 8:25:00 AM"|"Helmerich & Payne, Inc. (NYSE: HP) upgraded to Buy with price target $124 by Argus"|"Argus upgraded Helmerich & Payne, Inc. (NYSE: HP) to Buy with price target $124. Previously Argus upgraded to Helmerich & Payne, Inc. (NYSE: HP) to Hold on 08/12/2013, when the stock price was $66.92.
+Rated Date: 9/11/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143663> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Argus upgraded Helmerich & Payne, Inc. (NYSE: HP) to Buy with price target $124. Previously Argus upgraded to Helmerich & Payne, Inc. (NYSE: HP) to Hold   on 08/12/2013, when the stock price was $66.92.<br />Rated Date: 9/11/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143663"">View article...</A></p></body></html>"
+|"BB&T Capital Mkts"||"9/12/2014 10:25:00 AM"|"Genuine Parts Company (NYSE: GPC) upgraded to Buy with price target $100 by BB&T Capital Mkts"|"BB&T Capital Mkts upgraded Genuine Parts Company (NYSE: GPC) to Buy with price target $100. Previously BB&T Capital Mkts rated Hold Genuine Parts Company (NYSE: GPC) on 07/19/2013, when the stock price was $81.85. Since then, Genuine Parts Company's stock price has gained 8% as of 09/12/2014's recent price of $88.45.
+Rated Date: 9/12/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143717> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>BB&T Capital Mkts upgraded Genuine Parts Company (NYSE: GPC) to Buy with price target $100. Previously BB&T Capital Mkts rated Hold  Genuine Parts Company (NYSE: GPC) on 07/19/2013, when the stock price was $81.85. Since then, Genuine Parts Company's stock price has  gained 8% as of 09/12/2014's recent price of $88.45.<br />Rated Date: 9/12/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143717"">View article...</A></p></body></html>"
+|"Northland Capital"||"9/12/2014 8:25:00 AM"|"Callon Petroleum Company (NYSE: CPE) upgraded to Outperform with price target $14 by Northland Capital"|"Northland Capital upgraded Callon Petroleum Company (NYSE: CPE) to Outperform with price target $14. Previously Northland Capital rated Market Perform with price target $7 Callon Petroleum Company (NYSE: CPE) on 02/03/2014, when the stock price was $6.51.
+Rated Date: 9/12/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143705> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Northland Capital upgraded Callon Petroleum Company (NYSE: CPE) to Outperform with price target $14. Previously Northland Capital rated Market Perform with price target $7 Callon Petroleum Company (NYSE: CPE) on 02/03/2014, when the stock price was $6.51.<br />Rated Date: 9/12/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143705"">View article...</A></p></body></html>"
+|"Argus"||"9/12/2014 8:25:00 AM"|"T-Mobile US Inc. (NYSE: TMUS) upgraded to Buy with price target $40 by Argus"|"Argus upgraded T-Mobile US Inc. (NYSE: TMUS) to Buy with price target $40. Previously, Argus rated T-Mobile US Inc. (NYSE: TMUS) to Hold on 04/27/2012, when the stock price was valued at $13.90.
+Rated Date: 9/12/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143696> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Argus upgraded T-Mobile US Inc. (NYSE: TMUS) to Buy with price target $40. Previously, Argus rated T-Mobile US Inc. (NYSE: TMUS) to Hold   on 04/27/2012, when the stock price was valued at $13.90.<br />Rated Date: 9/12/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143696"">View article...</A></p></body></html>"
+|"Howard Weil"||"9/15/2014 8:25:00 AM"|"Phillips 66 (NYSE: PSX) upgraded to Sector Outperform with price target $95 by Howard Weil"|"Howard Weil upgraded Phillips 66 (NYSE: PSX) to Sector Outperform with price target $95. Previously, Howard Weil rated Phillips 66 (NYSE: PSX) to Market Perform with price target $61 on 01/07/2013, when the stock price was valued at $51.31.
+Rated Date: 9/15/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143740> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Howard Weil upgraded Phillips 66 (NYSE: PSX) to Sector Outperform with price target $95. Previously, Howard Weil rated Phillips 66 (NYSE: PSX) to Market Perform with price target $61  on 01/07/2013, when the stock price was valued at $51.31.<br />Rated Date: 9/15/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143740"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/15/2014 8:25:00 AM"|"Nokia Corporation (NYSE: NOK) upgraded to Outperform with price target $12 by Oppenheimer"|"Oppenheimer upgraded Nokia Corporation (NYSE: NOK) to Outperform with price target $12. Previously Oppenheimer rated Perform Nokia Corporation (NYSE: NOK) on 09/03/2013, when the stock price was $5.41.
+Rated Date: 9/15/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143729> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer upgraded Nokia Corporation (NYSE: NOK) to Outperform with price target $12. Previously Oppenheimer rated Perform  Nokia Corporation (NYSE: NOK) on 09/03/2013, when the stock price was $5.41.<br />Rated Date: 9/15/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143729"">View article...</A></p></body></html>"
+|"Standpoint Research"||"9/16/2014 10:25:00 AM"|"New York Community Bancorp, Inc. (NYSE: NYCB) upgraded to Buy with price target $20 by Standpoint Research"|"Standpoint Research upgraded New York Community Bancorp, Inc. (NYSE: NYCB) to Buy with price target $20 with today's price of $16.40. Standpoint Research rated New York Community Bancorp, Inc. (NYSE: NYCB) to Hold on 10/14/2013, when the price was $15.57. New York Community Bancorp, Inc.'s stock price gained 5% since then. 
+Rated Date: 9/16/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143774> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Standpoint Research upgraded New York Community Bancorp, Inc. (NYSE: NYCB) to Buy with price target $20 with today's price of $16.40. Standpoint Research rated New York Community Bancorp, Inc. (NYSE: NYCB) to Hold   on 10/14/2013, when the price was $15.57. New York Community Bancorp, Inc.'s stock price gained 5% since then. <br />Rated Date: 9/16/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143774"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/16/2014 8:25:00 AM"|"The Ultimate Software Group Inc. (NASDAQ: ULTI) upgraded to Outperform with price target $172 by RBC Capital Mkts"|"RBC Capital Mkts upgraded The Ultimate Software Group Inc. (NASDAQ: ULTI) to Outperform with price target $172. Previously, RBC Capital Mkts rated The Ultimate Software Group Inc. (NASDAQ: ULTI) to Sector Perform with price target $30 on 07/30/2008, when the stock price was valued at $24.85.
+Rated Date: 9/16/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143760> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts upgraded The Ultimate Software Group Inc. (NASDAQ: ULTI) to Outperform with price target $172. Previously, RBC Capital Mkts rated The Ultimate Software Group Inc. (NASDAQ: ULTI) to Sector Perform with price target $30  on 07/30/2008, when the stock price was valued at $24.85.<br />Rated Date: 9/16/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143760"">View article...</A></p></body></html>"
+|"Stifel"||"9/16/2014 8:25:00 AM"|"Terex Corporation (NYSE: TEX) upgraded to Buy with price target $40 by Stifel"|"Stifel upgraded Terex Corporation (NYSE: TEX) to Buy with price target $40. Previously Stifel upgraded to Terex Corporation (NYSE: TEX) to Hold on 02/20/2014, when the stock price was $43.25.
+Rated Date: 9/16/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143751> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel upgraded Terex Corporation (NYSE: TEX) to Buy with price target $40. Previously Stifel upgraded to Terex Corporation (NYSE: TEX) to Hold   on 02/20/2014, when the stock price was $43.25.<br />Rated Date: 9/16/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143751"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/16/2014 1:25:00 PM"|"TEEKAY TANKERS LTD (NYSE: TNK) upgraded to Buy with price target $7 by Deutsche Bank"|"Deutsche Bank upgraded TEEKAY TANKERS LTD (NYSE: TNK) to Buy with price target $7. Previously Deutsche Bank upgraded to TEEKAY TANKERS LTD (NYSE: TNK) to Hold with price target $3 on 01/27/2014, when the stock price was $3.63. Since then, TEEKAY TANKERS LTD's stock price has gained 17% as of 09/16/2014's recent price of $4.26.
+Rated Date: 9/16/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143783> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank upgraded TEEKAY TANKERS LTD (NYSE: TNK) to Buy with price target $7. Previously Deutsche Bank upgraded to TEEKAY TANKERS LTD (NYSE: TNK) to Hold with price target $3  on 01/27/2014, when the stock price was $3.63. Since then, TEEKAY TANKERS LTD's stock price has  gained 17% as of 09/16/2014's recent price of $4.26.<br />Rated Date: 9/16/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143783"">View article...</A></p></body></html>"
+|"MKM Partners"||"9/17/2014 11:25:00 AM"|"Auxilium Pharmaceuticals, Inc. (NASDAQ: AUXL) upgraded to Buy with price target $32 by MKM Partners"|"MKM Partners upgraded Auxilium Pharmaceuticals, Inc. (NASDAQ: AUXL) to Buy with price target $32 with today's price of $30.47. MKM Partners rated Auxilium Pharmaceuticals, Inc. (NASDAQ: AUXL) to Neutral with price target $29 on 03/03/2014, when the price was $30.79. Auxilium Pharmaceuticals, Inc.'s stock price lost 1% since then. 
+Rated Date: 9/17/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143818> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MKM Partners upgraded Auxilium Pharmaceuticals, Inc. (NASDAQ: AUXL) to Buy with price target $32 with today's price of $30.47. MKM Partners rated Auxilium Pharmaceuticals, Inc. (NASDAQ: AUXL) to Neutral with price target $29  on 03/03/2014, when the price was $30.79. Auxilium Pharmaceuticals, Inc.'s stock price lost 1% since then. <br />Rated Date: 9/17/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143818"">View article...</A></p></body></html>"
+|"MLV & Co"||"9/17/2014 11:25:00 AM"|"Rait Financial Trust (NYSE: RAS) upgraded to Buy with price target $9 by MLV & Co"|"MLV & Co upgraded Rait Financial Trust (NYSE: RAS) to Buy with price target $9. Previously, MLV & Co rated Rait Financial Trust (NYSE: RAS) to Hold with price target $5.06 on 09/11/2012, when the stock price was valued at $5.12. Since then, Rait Financial Trust's stock price has gained 54% as of 09/17/2014's recent price of $7.90.
+Rated Date: 9/17/2014 11:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143816> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>MLV & Co upgraded Rait Financial Trust (NYSE: RAS) to Buy with price target $9. Previously, MLV & Co rated Rait Financial Trust (NYSE: RAS) to Hold with price target $5.06  on 09/11/2012, when the stock price was valued at $5.12. Since then, Rait Financial Trust's stock price has  gained 54% as of 09/17/2014's recent price of $7.90.<br />Rated Date: 9/17/2014 11:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143816"">View article...</A></p></body></html>"
+|"BB&T Capital Mkts"||"9/17/2014 10:25:00 AM"|"Bank Of The Ozarks (NASDAQ: OZRK) upgraded to Buy  by BB&T Capital Mkts"|"BB&T Capital Mkts upgraded Bank Of The Ozarks (NASDAQ: OZRK) to Buy. Previously BB&T Capital Mkts upgraded to Bank Of The Ozarks (NASDAQ: OZRK) to Hold on 01/12/2012, when the stock price was $15.36. Since then, Bank Of The Ozarks's stock price has gained 115% as of 09/17/2014's recent price of $33.01.
+Rated Date: 9/17/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143815> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>BB&T Capital Mkts upgraded Bank Of The Ozarks (NASDAQ: OZRK) to Buy. Previously BB&T Capital Mkts upgraded to Bank Of The Ozarks (NASDAQ: OZRK) to Hold   on 01/12/2012, when the stock price was $15.36. Since then, Bank Of The Ozarks's stock price has  gained 115% as of 09/17/2014's recent price of $33.01.<br />Rated Date: 9/17/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143815"">View article...</A></p></body></html>"
+|"Standpoint Research"||"9/17/2014 10:25:00 AM"|"Silicon Motion Technology Corporation (NASDAQ: SIMO) upgraded to Buy with price target $34 by Standpoint Research"|"Standpoint Research upgraded Silicon Motion Technology Corporation (NASDAQ: SIMO) to Buy with price target $34 with today's price of $26.66. Standpoint Research rated Silicon Motion Technology Corporation (NASDAQ: SIMO) to Hold on 07/29/2014, when the price was $24.19. Silicon Motion Technology Corporation's stock price gained 10% since then. 
+Rated Date: 9/17/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143814> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Standpoint Research upgraded Silicon Motion Technology Corporation (NASDAQ: SIMO) to Buy with price target $34 with today's price of $26.66. Standpoint Research rated Silicon Motion Technology Corporation (NASDAQ: SIMO) to Hold   on 07/29/2014, when the price was $24.19. Silicon Motion Technology Corporation's stock price gained 10% since then. <br />Rated Date: 9/17/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143814"">View article...</A></p></body></html>"
+|"Compass Point"||"9/17/2014 8:25:00 AM"|"Radian Group Inc. (NYSE: RDN) upgraded to Buy with price target $20 by Compass Point"|"Compass Point upgraded Radian Group Inc. (NYSE: RDN) to Buy with price target $20. Compass Point rated Radian Group Inc. (NYSE: RDN) to Neutral with price target $3 on 05/02/2012, when the price was $2.78. 
+Rated Date: 9/17/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143794> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Compass Point upgraded Radian Group Inc. (NYSE: RDN) to Buy with price target $20. Compass Point rated Radian Group Inc. (NYSE: RDN) to Neutral with price target $3  on 05/02/2012, when the price was $2.78. <br />Rated Date: 9/17/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143794"">View article...</A></p></body></html>"
+|"Howard Weil"||"9/17/2014 8:25:00 AM"|"Baker Hughes Incorporated (NYSE: BHI) upgraded to Sector Outperform  by Howard Weil"|"Howard Weil upgraded Baker Hughes Incorporated (NYSE: BHI) to Sector Outperform. Previously, Howard Weil rated Baker Hughes Incorporated (NYSE: BHI) to Sector Perform with price target $55 on 09/16/2013, when the stock price was valued at $49.82.
+Rated Date: 9/17/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143792> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Howard Weil upgraded Baker Hughes Incorporated (NYSE: BHI) to Sector Outperform. Previously, Howard Weil rated Baker Hughes Incorporated (NYSE: BHI) to Sector Perform with price target $55  on 09/16/2013, when the stock price was valued at $49.82.<br />Rated Date: 9/17/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143792"">View article...</A></p></body></html>"
+|"Stifel"||"9/18/2014 8:25:00 AM"|"Monsanto Company (NYSE: MON) upgraded to Buy with price target $135 by Stifel"|"Stifel upgraded Monsanto Company (NYSE: MON) to Buy with price target $135. Previously Stifel rated Hold Monsanto Company (NYSE: MON) on 04/09/2013, when the stock price was $105.77.
+Rated Date: 9/18/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143821> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel upgraded Monsanto Company (NYSE: MON) to Buy with price target $135. Previously Stifel rated Hold  Monsanto Company (NYSE: MON) on 04/09/2013, when the stock price was $105.77.<br />Rated Date: 9/18/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143821"">View article...</A></p></body></html>"
+|"Global Hunter Securities"||"9/19/2014 10:25:00 AM"|"CONTINENTAL RESOURCES INC (NYSE: CLR) upgraded to Buy with price target $85 by Global Hunter Securities"|"Global Hunter Securities upgraded CONTINENTAL RESOURCES INC (NYSE: CLR) to Buy with price target $85. Previously, Global Hunter Securities rated CONTINENTAL RESOURCES INC (NYSE: CLR) to Neutral on 10/23/2013, when the stock price was valued at $55.14. Since then, CONTINENTAL RESOURCES INC's stock price has gained 26% as of 09/19/2014's recent price of $69.51.
+Rated Date: 9/19/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143880> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Global Hunter Securities upgraded CONTINENTAL RESOURCES INC (NYSE: CLR) to Buy with price target $85. Previously, Global Hunter Securities rated CONTINENTAL RESOURCES INC (NYSE: CLR) to Neutral   on 10/23/2013, when the stock price was valued at $55.14. Since then, CONTINENTAL RESOURCES INC's stock price has  gained 26% as of 09/19/2014's recent price of $69.51.<br />Rated Date: 9/19/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143880"">View article...</A></p></body></html>"
+|"Gabelli & Co"||"9/19/2014 9:25:00 AM"|"Achaogen Inc (NASDAQ: AKAO) upgraded to Buy  by Gabelli & Co"|"Gabelli & Co upgraded Achaogen Inc (NASDAQ: AKAO) to Buy. Previously, Gabelli & Co rated Achaogen Inc (NASDAQ: AKAO) to Hold on 06/20/2014, when the stock price was valued at $15.60.
+Rated Date: 9/19/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143876> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Gabelli & Co upgraded Achaogen Inc (NASDAQ: AKAO) to Buy. Previously, Gabelli & Co rated Achaogen Inc (NASDAQ: AKAO) to Hold   on 06/20/2014, when the stock price was valued at $15.60.<br />Rated Date: 9/19/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143876"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/19/2014 8:25:00 AM"|"Concur Technologies, Inc. (NASDAQ: CNQR) upgraded to Sector Perform with price target $129 by RBC Capital Mkts"|"RBC Capital Mkts upgraded Concur Technologies, Inc. (NASDAQ: CNQR) to Sector Perform with price target $129. Previously, RBC Capital Mkts rated Concur Technologies, Inc. (NASDAQ: CNQR) to Underperform with price target $42 on 02/02/2012, when the stock price was valued at $60.00.
+Rated Date: 9/19/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143864> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts upgraded Concur Technologies, Inc. (NASDAQ: CNQR) to Sector Perform with price target $129. Previously, RBC Capital Mkts rated Concur Technologies, Inc. (NASDAQ: CNQR) to Underperform with price target $42  on 02/02/2012, when the stock price was valued at $60.00.<br />Rated Date: 9/19/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143864"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/19/2014 8:25:00 AM"|"Texas Capital Bancshares, Inc. (NASDAQ: TCBI) upgraded to Buy with price target $75 by Wunderlich"|"Wunderlich upgraded Texas Capital Bancshares, Inc. (NASDAQ: TCBI) to Buy with price target $75. Wunderlich rated Texas Capital Bancshares, Inc. (NASDAQ: TCBI) to Hold with price target $56 on 12/04/2013, when the price was $55.12. 
+Rated Date: 9/19/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143862> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich upgraded Texas Capital Bancshares, Inc. (NASDAQ: TCBI) to Buy with price target $75. Wunderlich rated Texas Capital Bancshares, Inc. (NASDAQ: TCBI) to Hold with price target $56  on 12/04/2013, when the price was $55.12. <br />Rated Date: 9/19/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143862"">View article...</A></p></body></html>"
+|"BB&T Capital Mkts"||"9/22/2014 10:25:00 AM"|"Mastec, Inc. (NYSE: MTZ) upgraded to Buy with price target $37 by BB&T Capital Mkts"|"BB&T Capital Mkts upgraded Mastec, Inc. (NYSE: MTZ) to Buy with price target $37. Previously BB&T Capital Mkts rated Hold Mastec, Inc. (NYSE: MTZ) on 03/14/2011, when the stock price was $19.60. Since then, Mastec, Inc.'s stock price has gained 61% as of 09/22/2014's recent price of $31.54.
+Rated Date: 9/22/2014 10:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143909> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>BB&T Capital Mkts upgraded Mastec, Inc. (NYSE: MTZ) to Buy with price target $37. Previously BB&T Capital Mkts rated Hold  Mastec, Inc. (NYSE: MTZ) on 03/14/2011, when the stock price was $19.60. Since then, Mastec, Inc.'s stock price has  gained 61% as of 09/22/2014's recent price of $31.54.<br />Rated Date: 9/22/2014 10:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143909"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/22/2014 8:25:00 AM"|"Alcoa Inc. (NYSE: AA) upgraded to Sector Perform with price target $18 by RBC Capital Mkts"|"RBC Capital Mkts upgraded Alcoa Inc. (NYSE: AA) to Sector Perform with price target $18. Previously RBC Capital Mkts rated Underperform with price target $10 Alcoa Inc. (NYSE: AA) on 01/09/2013, when the stock price was $9.07.
+Rated Date: 9/22/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143901> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts upgraded Alcoa Inc. (NYSE: AA) to Sector Perform with price target $18. Previously RBC Capital Mkts rated Underperform with price target $10 Alcoa Inc. (NYSE: AA) on 01/09/2013, when the stock price was $9.07.<br />Rated Date: 9/22/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143901"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/22/2014 8:25:00 AM"|"Perrigo Company (NYSE: PRGO) upgraded to Outperform with price target $169 by RBC Capital Mkts"|"RBC Capital Mkts upgraded Perrigo Company (NYSE: PRGO) to Outperform with price target $169. Previously, RBC Capital Mkts rated Perrigo Company (NYSE: PRGO) to Sector Perform with price target $111 on 02/04/2013, when the stock price was valued at $107.81.
+Rated Date: 9/22/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143900> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts upgraded Perrigo Company (NYSE: PRGO) to Outperform with price target $169. Previously, RBC Capital Mkts rated Perrigo Company (NYSE: PRGO) to Sector Perform with price target $111  on 02/04/2013, when the stock price was valued at $107.81.<br />Rated Date: 9/22/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143900"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/22/2014 8:25:00 AM"|"Sempra Energy (NYSE: SRE) upgraded to Outperform with price target $115 by RBC Capital Mkts"|"RBC Capital Mkts upgraded Sempra Energy (NYSE: SRE) to Outperform with price target $115. Previously RBC Capital Mkts upgraded to Sempra Energy (NYSE: SRE) to Sector Perform with price target $57 on 11/07/2011, when the stock price was $53.65.
+Rated Date: 9/22/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143899> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts upgraded Sempra Energy (NYSE: SRE) to Outperform with price target $115. Previously RBC Capital Mkts upgraded to Sempra Energy (NYSE: SRE) to Sector Perform with price target $57  on 11/07/2011, when the stock price was $53.65.<br />Rated Date: 9/22/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143899"">View article...</A></p></body></html>"
+|"RBC Capital Mkts"||"9/22/2014 8:25:00 AM"|"Enerplus Resources Fund (NYSE: ERF) upgraded to Outperform with price target $28 by RBC Capital Mkts"|"RBC Capital Mkts upgraded Enerplus Resources Fund (NYSE: ERF) to Outperform with price target $28. RBC Capital Mkts rated Enerplus Resources Fund (NYSE: ERF) to Sector Perform with price target $25 on 06/09/2014, when the price was $22.92. 
+Rated Date: 9/22/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143890> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>RBC Capital Mkts upgraded Enerplus Resources Fund (NYSE: ERF) to Outperform with price target $28. RBC Capital Mkts rated Enerplus Resources Fund (NYSE: ERF) to Sector Perform with price target $25  on 06/09/2014, when the price was $22.92. <br />Rated Date: 9/22/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143890"">View article...</A></p></body></html>"
+|"Robert W. Baird"||"9/22/2014 8:25:00 AM"|"Sirona Dental Systems, Inc. (NASDAQ: SIRO) upgraded to Outperform with price target $88 by Robert W. Baird"|"Robert W. Baird upgraded Sirona Dental Systems, Inc. (NASDAQ: SIRO) to Outperform with price target $88. Previously Robert W. Baird rated Neutral with price target $76 Sirona Dental Systems, Inc. (NASDAQ: SIRO) on 02/20/2013, when the stock price was $70.23.
+Rated Date: 9/22/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143889> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Robert W. Baird upgraded Sirona Dental Systems, Inc. (NASDAQ: SIRO) to Outperform with price target $88. Previously Robert W. Baird rated Neutral with price target $76 Sirona Dental Systems, Inc. (NASDAQ: SIRO) on 02/20/2013, when the stock price was $70.23.<br />Rated Date: 9/22/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143889"">View article...</A></p></body></html>"
+|"Robert W. Baird"||"9/22/2014 8:25:00 AM"|"Dun & Bradstreet Corporation  (NYSE: DNB) upgraded to Outperform with price target $135 by Robert W. Baird"|"Robert W. Baird upgraded Dun & Bradstreet Corporation (NYSE: DNB) to Outperform with price target $135. Previously, Robert W. Baird rated Dun & Bradstreet Corporation (NYSE: DNB) to Neutral with price target $93 on 06/09/2009, when the stock price was valued at $83.42.
+Rated Date: 9/22/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143888> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Robert W. Baird upgraded Dun & Bradstreet Corporation  (NYSE: DNB) to Outperform with price target $135. Previously, Robert W. Baird rated Dun & Bradstreet Corporation  (NYSE: DNB) to Neutral with price target $93  on 06/09/2009, when the stock price was valued at $83.42.<br />Rated Date: 9/22/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143888"">View article...</A></p></body></html>"
+|"Northland Capital"||"9/23/2014 8:25:00 AM"|"Apogee Enterprises, Inc. (NASDAQ: APOG) upgraded to Outperform with price target $47 by Northland Capital"|"Northland Capital upgraded Apogee Enterprises, Inc. (NASDAQ: APOG) to Outperform with price target $47. Northland Capital rated Apogee Enterprises, Inc. (NASDAQ: APOG) to Market Perform with price target $33 on 12/20/2013, when the price was $37.38. 
+Rated Date: 9/23/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143930> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Northland Capital upgraded Apogee Enterprises, Inc. (NASDAQ: APOG) to Outperform with price target $47. Northland Capital rated Apogee Enterprises, Inc. (NASDAQ: APOG) to Market Perform with price target $33  on 12/20/2013, when the price was $37.38. <br />Rated Date: 9/23/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143930"">View article...</A></p></body></html>"
+|"Robert W. Baird"||"9/23/2014 8:25:00 AM"|"Garrison Capital Inc. (NASDAQ: GARS) upgraded to Outperform with price target $16 by Robert W. Baird"|"Robert W. Baird upgraded Garrison Capital Inc. (NASDAQ: GARS) to Outperform with price target $16. Previously Robert W. Baird rated Neutral Garrison Capital Inc. (NASDAQ: GARS) on 06/04/2014, when the stock price was $14.68.
+Rated Date: 9/23/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143929> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Robert W. Baird upgraded Garrison Capital Inc. (NASDAQ: GARS) to Outperform with price target $16. Previously Robert W. Baird rated Neutral  Garrison Capital Inc. (NASDAQ: GARS) on 06/04/2014, when the stock price was $14.68.<br />Rated Date: 9/23/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143929"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/23/2014 1:25:00 PM"|"Nrg Energy, Inc. (NYSE: NRG) upgraded to Buy with price target $37 by Deutsche Bank"|"Deutsche Bank upgraded Nrg Energy, Inc. (NYSE: NRG) to Buy with price target $37. Previously, Deutsche Bank rated Nrg Energy, Inc. (NYSE: NRG) to Hold with price target $26 on 09/09/2013, when the stock price was valued at $26.16. Since then, Nrg Energy, Inc.'s stock price has gained 18% as of 09/23/2014's recent price of $30.76.
+Rated Date: 9/23/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-143956> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank upgraded Nrg Energy, Inc. (NYSE: NRG) to Buy with price target $37. Previously, Deutsche Bank rated Nrg Energy, Inc. (NYSE: NRG) to Hold with price target $26  on 09/09/2013, when the stock price was valued at $26.16. Since then, Nrg Energy, Inc.'s stock price has  gained 18% as of 09/23/2014's recent price of $30.76.<br />Rated Date: 9/23/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143956"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/24/2014 8:25:00 AM"|"Hi-Crush Partners Lp (NYSE: HCLP) upgraded to Buy with price target $66 by Wunderlich"|"Wunderlich upgraded Hi-Crush Partners Lp (NYSE: HCLP) to Buy with price target $66. Wunderlich rated Hi-Crush Partners Lp (NYSE: HCLP) to Hold with price target $42 on 02/18/2014, when the price was $39.28. 
+Rated Date: 9/24/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143962> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich upgraded Hi-Crush Partners Lp (NYSE: HCLP) to Buy with price target $66. Wunderlich rated Hi-Crush Partners Lp (NYSE: HCLP) to Hold with price target $42  on 02/18/2014, when the price was $39.28. <br />Rated Date: 9/24/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143962"">View article...</A></p></body></html>"
+|"Miller Tabak"||"9/24/2014 8:25:00 AM"|"Buffalo Wild Wings, Inc. (NASDAQ: BWLD) upgraded to Buy with price target $170 by Miller Tabak"|"Miller Tabak upgraded Buffalo Wild Wings, Inc. (NASDAQ: BWLD) to Buy with price target $170. Previously Miller Tabak rated Hold with price target $155 Buffalo Wild Wings, Inc. (NASDAQ: BWLD) on 03/10/2014, when the stock price was $148.80.
+Rated Date: 9/24/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143961> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Miller Tabak upgraded Buffalo Wild Wings, Inc. (NASDAQ: BWLD) to Buy with price target $170. Previously Miller Tabak rated Hold with price target $155 Buffalo Wild Wings, Inc. (NASDAQ: BWLD) on 03/10/2014, when the stock price was $148.80.<br />Rated Date: 9/24/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143961"">View article...</A></p></body></html>"
+|"Argus"||"9/25/2014 9:25:00 AM"|"Northrop Grumman Corporation (NYSE: NOC) upgraded to Buy with price target $145 by Argus"|"Argus upgraded Northrop Grumman Corporation (NYSE: NOC) to Buy with price target $145. Previously, Argus rated Northrop Grumman Corporation (NYSE: NOC) to Hold on 08/30/2010, when the stock price was valued at $54.51.
+Rated Date: 9/25/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143988> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Argus upgraded Northrop Grumman Corporation (NYSE: NOC) to Buy with price target $145. Previously, Argus rated Northrop Grumman Corporation (NYSE: NOC) to Hold   on 08/30/2010, when the stock price was valued at $54.51.<br />Rated Date: 9/25/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143988"">View article...</A></p></body></html>"
+|"Wunderlich"||"9/25/2014 8:25:00 AM"|"Comerica Incorporated (NYSE: CMA) upgraded to Buy with price target $65 by Wunderlich"|"Wunderlich upgraded Comerica Incorporated (NYSE: CMA) to Buy with price target $65. Previously, Wunderlich rated Comerica Incorporated (NYSE: CMA) to Hold with price target $48 on 01/17/2014, when the stock price was valued at $48.51.
+Rated Date: 9/25/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-143980> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Wunderlich upgraded Comerica Incorporated (NYSE: CMA) to Buy with price target $65. Previously, Wunderlich rated Comerica Incorporated (NYSE: CMA) to Hold with price target $48  on 01/17/2014, when the stock price was valued at $48.51.<br />Rated Date: 9/25/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-143980"">View article...</A></p></body></html>"
+|"Brean Capital"||"9/26/2014 9:25:00 AM"|"Chesapeake Utilities Corporation (NYSE: CPK) upgraded to Buy with price target $45 by Brean Capital"|"Brean Capital upgraded Chesapeake Utilities Corporation (NYSE: CPK) to Buy with price target $45. Brean Capital rated Chesapeake Utilities Corporation (NYSE: CPK) to Hold on 12/20/2013, when the price was $40.54. 
+Rated Date: 9/26/2014 9:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144018> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Brean Capital upgraded Chesapeake Utilities Corporation (NYSE: CPK) to Buy with price target $45. Brean Capital rated Chesapeake Utilities Corporation (NYSE: CPK) to Hold   on 12/20/2013, when the price was $40.54. <br />Rated Date: 9/26/2014 9:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144018"">View article...</A></p></body></html>"
+|"Janney"||"9/26/2014 8:25:00 AM"|"Nike, Inc. (NYSE: NKE) upgraded to Buy with price target $93 by Janney"|"Janney upgraded Nike, Inc. (NYSE: NKE) to Buy with price target $93. Previously Janney rated Neutral with price target $70 Nike, Inc. (NYSE: NKE) on 09/27/2013, when the stock price was $74.84.
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144005> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Janney upgraded Nike, Inc. (NYSE: NKE) to Buy with price target $93. Previously Janney rated Neutral with price target $70 Nike, Inc. (NYSE: NKE) on 09/27/2013, when the stock price was $74.84.<br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144005"">View article...</A></p></body></html>"
+|"Stifel"||"9/26/2014 8:25:00 AM"|"WABCO HOLDINGS INC (NYSE: WBC) upgraded to Buy with price target $111 by Stifel"|"Stifel upgraded WABCO HOLDINGS INC (NYSE: WBC) to Buy with price target $111. Previously, Stifel rated WABCO HOLDINGS INC (NYSE: WBC) to Hold with price target $112 on 05/20/2014, when the stock price was valued at $106.16.
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144004> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Stifel upgraded WABCO HOLDINGS INC (NYSE: WBC) to Buy with price target $111. Previously, Stifel rated WABCO HOLDINGS INC (NYSE: WBC) to Hold with price target $112  on 05/20/2014, when the stock price was valued at $106.16.<br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144004"">View article...</A></p></body></html>"
+|"DA Davidson"||"9/26/2014 8:25:00 AM"|"Packaging Corporation Of America (NYSE: PKG) upgraded to Buy  by DA Davidson"|"DA Davidson upgraded Packaging Corporation Of America (NYSE: PKG) to Buy. DA Davidson rated Packaging Corporation Of America (NYSE: PKG) to Neutral with price target $37.50 on 10/08/2012, when the price was $35.66. 
+Rated Date: 9/26/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144002> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>DA Davidson upgraded Packaging Corporation Of America (NYSE: PKG) to Buy. DA Davidson rated Packaging Corporation Of America (NYSE: PKG) to Neutral with price target $37.50  on 10/08/2012, when the price was $35.66. <br />Rated Date: 9/26/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144002"">View article...</A></p></body></html>"
+|"Deutsche Bank"||"9/26/2014 1:25:00 PM"|"Northrop Grumman Corporation (NYSE: NOC) upgraded to Buy with price target $145 by Deutsche Bank"|"Deutsche Bank upgraded Northrop Grumman Corporation (NYSE: NOC) to Buy with price target $145 with today's price of $131.45. Deutsche Bank rated Northrop Grumman Corporation (NYSE: NOC) to Hold with price target $125 on 01/14/2014, when the price was $116.78. Northrop Grumman Corporation's stock price gained 13% since then. 
+Rated Date: 9/26/2014 1:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-144022> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Deutsche Bank upgraded Northrop Grumman Corporation (NYSE: NOC) to Buy with price target $145 with today's price of $131.45. Deutsche Bank rated Northrop Grumman Corporation (NYSE: NOC) to Hold with price target $125  on 01/14/2014, when the price was $116.78. Northrop Grumman Corporation's stock price gained 13% since then. <br />Rated Date: 9/26/2014 1:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144022"">View article...</A></p></body></html>"
+|"BB&T Capital Mkts"||"9/26/2014 3:25:00 PM"|"Pep Boys-manny, Moe & Jack  (NYSE: PBY) upgraded to Hold  by BB&T Capital Mkts"|"BB&T Capital Mkts upgraded Pep Boys-manny, Moe & Jack (NYSE: PBY) to Hold. Previously BB&T Capital Mkts rated Underweight Pep Boys-manny, Moe & Jack (NYSE: PBY) on 01/31/2012, when the stock price was $15.00. Since then, Pep Boys-manny, Moe & Jack 's stock price has lost 37% as of 09/26/2014's recent price of $9.41. If you would have followed the previous BB&T Capital Mkts's recommendation on PBY, you would have gained 37% of your investment in 969 days.
+Rated Date: 9/26/2014 3:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-144029> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>BB&T Capital Mkts upgraded Pep Boys-manny, Moe & Jack  (NYSE: PBY) to Hold. Previously BB&T Capital Mkts rated Underweight  Pep Boys-manny, Moe & Jack  (NYSE: PBY) on 01/31/2012, when the stock price was $15.00. Since then, Pep Boys-manny, Moe & Jack 's stock price has  lost 37% as of 09/26/2014's recent price of $9.41.</br> If you would have followed the previous BB&T Capital Mkts's recommendation on PBY, you would have gained 37% of your investment in 969 days.<br />Rated Date: 9/26/2014 3:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144029"">View article...</A></p></body></html>"
+|"Argus"||"9/26/2014 3:25:00 PM"|"Dominion Resources, Inc. (NYSE: D) upgraded to Buy with price target $75 by Argus"|"Argus upgraded Dominion Resources, Inc. (NYSE: D) to Buy with price target $75. Previously, Argus rated Dominion Resources, Inc. (NYSE: D) to Hold on 02/28/2014, when the stock price was valued at $69.40. Since then, Dominion Resources, Inc.'s stock price has lost 2% as of 09/26/2014's recent price of $68.12.
+Rated Date: 9/26/2014 3:25:00 PM	
+
+
+View article... <http://www.gainerstoday.com/article-144028> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Argus upgraded Dominion Resources, Inc. (NYSE: D) to Buy with price target $75. Previously, Argus rated Dominion Resources, Inc. (NYSE: D) to Hold   on 02/28/2014, when the stock price was valued at $69.40. Since then, Dominion Resources, Inc.'s stock price has  lost 2% as of 09/26/2014's recent price of $68.12.<br />Rated Date: 9/26/2014 3:25:00 PM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144028"">View article...</A></p></body></html>"
+|"Oppenheimer"||"9/29/2014 8:25:00 AM"|"Chico's Fas, Inc. (NYSE: CHS) upgraded to Outperform with price target $18 by Oppenheimer"|"Oppenheimer upgraded Chico's Fas, Inc. (NYSE: CHS) to Outperform with price target $18. Oppenheimer rated Chico's Fas, Inc. (NYSE: CHS) to Perform with price target $16 on 08/29/2013, when the price was $15.70. 
+Rated Date: 9/29/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144038> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Oppenheimer upgraded Chico's Fas, Inc. (NYSE: CHS) to Outperform with price target $18. Oppenheimer rated Chico's Fas, Inc. (NYSE: CHS) to Perform with price target $16  on 08/29/2013, when the price was $15.70. <br />Rated Date: 9/29/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144038"">View article...</A></p></body></html>"
+|"Needham"||"9/29/2014 8:25:00 AM"|"Yahoo Inc (NASDAQ: YHOO) upgraded to Buy with price target $48 by Needham"|"Needham upgraded Yahoo Inc (NASDAQ: YHOO) to Buy with price target $48. Previously Needham rated Hold Yahoo Inc (NASDAQ: YHOO) on 07/23/2013, when the stock price was $27.46.
+Rated Date: 9/29/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144037> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Needham upgraded Yahoo Inc (NASDAQ: YHOO) to Buy with price target $48. Previously Needham rated Hold  Yahoo Inc (NASDAQ: YHOO) on 07/23/2013, when the stock price was $27.46.<br />Rated Date: 9/29/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144037"">View article...</A></p></body></html>"
+|"Cowen"||"9/29/2014 8:25:00 AM"|"Fedex Corporation (NYSE: FDX) upgraded to Outperform with price target $210 by Cowen"|"Cowen upgraded Fedex Corporation (NYSE: FDX) to Outperform with price target $210. Previously, Cowen rated Fedex Corporation (NYSE: FDX) to Market Perform with price target $136 on 11/12/2013, when the stock price was valued at $131.30.
+Rated Date: 9/29/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144036> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Cowen upgraded Fedex Corporation (NYSE: FDX) to Outperform with price target $210. Previously, Cowen rated Fedex Corporation (NYSE: FDX) to Market Perform with price target $136  on 11/12/2013, when the stock price was valued at $131.30.<br />Rated Date: 9/29/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144036"">View article...</A></p></body></html>"
+|"Howard Weil"||"9/29/2014 8:25:00 AM"|"Key Energy Services, Inc. (NYSE: KEG) upgraded to Sector Outperform with price target $7 by Howard Weil"|"Howard Weil upgraded Key Energy Services, Inc. (NYSE: KEG) to Sector Outperform with price target $7. Previously Howard Weil upgraded to Key Energy Services, Inc. (NYSE: KEG) to Sector Perform with price target $9 on 07/18/2014, when the stock price was $7.03.
+Rated Date: 9/29/2014 8:25:00 AM	
+
+
+View article... <http://www.gainerstoday.com/article-144035> 
+
+"|"<html><head><base href=""http://feeds.feedburner.com/GainerstodayUpgrades?format=xml""></head><style><!-- body {font-family:""Calibri"";} --></style><body><table><tr><td>Howard Weil upgraded Key Energy Services, Inc. (NYSE: KEG) to Sector Outperform with price target $7. Previously Howard Weil upgraded to Key Energy Services, Inc. (NYSE: KEG) to Sector Perform with price target $9  on 07/18/2014, when the stock price was $7.03.<br />Rated Date: 9/29/2014 8:25:00 AM</td></tr></table><p><BR/><A HREF=""http://www.gainerstoday.com/article-144035"">View article...</A></p></body></html>"
